@@ -10,6 +10,6 @@
 
 > Clean data appropiately
 
--   [ ]Rename columns
--   [ ]Drop unnecessary columns
--   [ ]Change data types
+-   [ ] Rename columns
+-   [ ] Drop unnecessary columns
+-   [ ] Change data types
