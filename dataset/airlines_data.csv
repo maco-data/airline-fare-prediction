@@ -1,0 +1,2022 @@
+;Airline_Name;Date_of_Journey;Source;Destination;Dept_Time;Total_Stops;Duration_of_Flight;Arr_Time;Fare
+0;AirAsia;26/02/2022;Kolkata;Mumbai;13:30;1 stop ;07 h 05 m;20:35;3 379
+1;AirAsia;26/02/2022;Kolkata;Mumbai;9:05;2 stop ;13 h 10 m;22:15;3 379
+2;AirAsia;26/02/2022;Kolkata;Mumbai;16:15;1 stop ;08 h 20 m;0:35;3 379
+3;AirAsia;26/02/2022;Kolkata;Mumbai;23:40;1 stop ;06 h 55 m;6:35;3 379
+4;AirAsia;26/02/2022;Kolkata;Mumbai;20:00;1 stop ;10 h 35 m;6:35;3 379
+5;AirAsia;26/02/2022;Kolkata;Mumbai;19:45;2 stop ;11 h 30 m;7:15;3 379
+6;Go First;26/02/2022;Kolkata;Mumbai;4:55;Non stop;02 h 50 m;7:45;3 380
+7;Go First;26/02/2022;Kolkata;Mumbai;17:30;Non stop;02 h 50 m;20:20;3 380
+8;Spicejet;26/02/2022;Kolkata;Mumbai;21:55;Non stop;02 h 50 m;0:45;3 380
+9;IndiGo;26/02/2022;Kolkata;Mumbai;7:30;Non stop;02 h 50 m;10:20;3 381
+10;IndiGo;26/02/2022;Kolkata;Mumbai;8:55;Non stop;03 h 10 m;12:05;3 381
+11;Air India;26/02/2022;Kolkata;Mumbai;9:40;Non stop;02 h 45 m;12:25;3 381
+12;IndiGo;26/02/2022;Kolkata;Mumbai;10:10;Non stop;02 h 55 m;13:05;3 381
+13;Vistara;26/02/2022;Kolkata;Mumbai;10:25;Non stop;02 h 35 m;13:00;3 381
+14;Vistara;26/02/2022;Kolkata;Mumbai;17:35;Non stop;02 h 45 m;20:20;3 381
+15;Vistara;26/02/2022;Kolkata;Mumbai;20:35;Non stop;02 h 55 m;23:30;3 381
+16;Air India;26/02/2022;Kolkata;Mumbai;13:00;1 stop ;04 h 50 m;17:50;3 381
+17;Go First;26/02/2022;Kolkata;Mumbai;12:30;Non stop;02 h 50 m;15:20;3 930
+18;AirAsia;26/02/2022;Kolkata;Mumbai;7:40;1 stop ;14 h 35 m;22:15;4 168
+19;AirAsia;26/02/2022;Kolkata;Mumbai;21:35;1 stop ;09 h 40 m;7:15;4 168
+20;Air India;26/02/2022;Kolkata;Mumbai;19:00;1 stop ;04 h 55 m;23:55;4 169
+21;Air India;26/02/2022;Kolkata;Mumbai;17:15;Non stop;02 h 50 m;20:05;4 253
+22;IndiGo;26/02/2022;Kolkata;Mumbai;15:40;Non stop;03 h;18:40;4 358
+23;IndiGo;26/02/2022;Kolkata;Mumbai;17:35;Non stop;02 h 50 m;20:25;4 358
+24;Spicejet;26/02/2022;Kolkata;Mumbai;21:55;1 stop ;10 h 45 m;8:40;4 693
+25;Spicejet;26/02/2022;Kolkata;Mumbai;9:35;Non stop;02 h 45 m;12:20;4 703
+26;IndiGo;26/02/2022;Kolkata;Mumbai;6:50;1 stop ;05 h 25 m;12:15;4 809
+27;IndiGo;26/02/2022;Kolkata;Mumbai;13:55;1 stop ;05 h 20 m;19:15;4 809
+28;Air India;26/02/2022;Kolkata;Mumbai;11:35;2 stop;05 h 50 m;17:25;4 846
+29;Go First;26/02/2022;Kolkata;Mumbai;6:00;1 stop ;06 h 50 m;12:50;4 902
+30;Go First;26/02/2022;Kolkata;Mumbai;14:20;1 stop ;06 h 05 m;20:25;4 902
+31;Air India;26/02/2022;Kolkata;Mumbai;7:00;1 stop ;05 h 50 m;12:50;5 102
+32;Vistara;26/02/2022;Kolkata;Mumbai;7:10;1 stop ;05 h 25 m;12:35;5 326
+33;IndiGo;26/02/2022;Kolkata;Mumbai;11:55;1 stop ;04 h 40 m;16:35;5 337
+34;Air India;26/02/2022;Kolkata;Mumbai;15:30;1 stop ;05 h 45 m;21:15;5 523
+35;Go First;26/02/2022;Kolkata;Mumbai;16:25;1 stop ;05 h;21:25;10 578
+36;AirAsia;26/02/2022;Mumbai;Kolkata;13:05;2 stop ;06 h 10 m;19:15;2 833
+37;AirAsia;26/02/2022;Mumbai;Kolkata;7:20;1 stop ;12 h 10 m;19:30;2 833
+38;AirAsia;26/02/2022;Mumbai;Kolkata;14:55;2 stop ;10 h 40 m;1:35;2 833
+39;Go First;26/02/2022;Mumbai;Kolkata;5:00;Non stop;02 h 30 m;7:30;2 834
+40;Spicejet;26/02/2022;Mumbai;Kolkata;6:15;Non stop;02 h 40 m;8:55;2 834
+41;Spicejet;26/02/2022;Mumbai;Kolkata;18:40;Non stop;02 h 45 m;21:25;2 834
+42;Go First;26/02/2022;Mumbai;Kolkata;21:00;Non stop;02 h 35 m;23:35;2 834
+43;Vistara;26/02/2022;Mumbai;Kolkata;7:00;Non stop;02 h 40 m;9:40;2 835
+44;Vistara;26/02/2022;Mumbai;Kolkata;14:05;Non stop;02 h 50 m;16:55;2 835
+45;Vistara;26/02/2022;Mumbai;Kolkata;17:20;Non stop;02 h 35 m;19:55;2 835
+46;Air India;26/02/2022;Mumbai;Kolkata;20:15;1 stop ;11 h 50 m;8:05;3 623
+47;IndiGo;26/02/2022;Mumbai;Kolkata;6:15;1 stop ;07 h 05 m;13:20;3 653
+48;Go First;26/02/2022;Mumbai;Kolkata;5:00;1 stop ;04 h 05 m;9:05;3 830
+49;Go First;26/02/2022;Mumbai;Kolkata;21:00;1 stop ;04 h 05 m;1:05;3 830
+50;IndiGo;26/02/2022;Mumbai;Kolkata;16:20;1 stop ;06 h 20 m;22:40;3 883
+51;IndiGo;26/02/2022;Mumbai;Kolkata;12:45;1 stop ;09 h 55 m;22:40;3 883
+52;Go First;26/02/2022;Mumbai;Kolkata;15:00;Non stop;02 h 30 m;17:30;3 934
+53;IndiGo;26/02/2022;Mumbai;Kolkata;13:55;1 stop ;09 h;22:55;4 132
+54;IndiGo;26/02/2022;Mumbai;Kolkata;12:45;1 stop ;06 h 30 m;19:15;4 303
+55;IndiGo;26/02/2022;Mumbai;Kolkata;10:45;1 stop ;08 h 30 m;19:15;4 303
+56;AirAsia;26/02/2022;Mumbai;Kolkata;22:55;1 stop ;08 h 15 m;7:10;4 351
+57;Vistara;26/02/2022;Mumbai;Kolkata;22:45;1 stop ;09 h 50 m;8:35;4 556
+58;Go First;26/02/2022;Mumbai;Kolkata;5:45;1 stop ;05 h 50 m;11:35;4 790
+59;Vistara;26/02/2022;Mumbai;Kolkata;12:25;1 stop ;05 h 40 m;18:05;4 791
+60;Vistara;26/02/2022;Mumbai;Kolkata;11:55;1 stop ;06 h 10 m;18:05;4 791
+61;Vistara;26/02/2022;Mumbai;Kolkata;10:25;1 stop ;07 h 40 m;18:05;4 791
+62;Vistara;26/02/2022;Mumbai;Kolkata;15:45;1 stop ;07 h;22:45;4 791
+63;Vistara;26/02/2022;Mumbai;Kolkata;14:40;1 stop ;08 h 05 m;22:45;4 791
+64;Spicejet;26/02/2022;Mumbai;Kolkata;14:55;1 stop ;06 h 35 m;21:30;4 797
+65;IndiGo;26/02/2022;Mumbai;Kolkata;11:40;1 stop ;09 h 15 m;20:55;4 807
+66;Go First;26/02/2022;Mumbai;Kolkata;23:45;1 stop ;08 h 15 m;8:00;4 820
+67;Go First;26/02/2022;Mumbai;Kolkata;14:35;1 stop ;07 h 45 m;22:20;4 961
+68;AirAsia;26/02/2022;Mumbai;Kolkata;20:10;1 stop ;05 h 25 m;1:35;4 985
+69;Air India;26/02/2022;Mumbai;Kolkata;9:30;2 stop ;08 h 05 m;17:35;5 070
+70;Vistara;26/02/2022;Mumbai;Kolkata;17:35;1 stop ;05 h 10 m;22:45;5 191
+71;Go First;26/02/2022;Mumbai;Kolkata;12:30;1 stop ;05 h 30 m;18:00;5 415
+72;Spicejet;26/02/2022;Mumbai;Kolkata;15:30;1 stop ;05 h 55 m;21:25;5 698
+73;Go First;26/02/2022;Mumbai;Kolkata;10:55;1 stop ;05 h 20 m;16:15;5 896
+74;IndiGo;28/02/2022;New Delhi;Bengaluru;6:45;1 stop ;12 h;18:45;2 863
+75;IndiGo;28/02/2022;New Delhi;Bengaluru;21:15;1 stop ;11 h;8:15;2 863
+76;AirAsia;28/02/2022;New Delhi;Bengaluru;5:45;1 stop ;08 h 10 m;13:55;3 090
+77;AirAsia;28/02/2022;New Delhi;Bengaluru;11:55;1 stop ;07 h 25 m;19:20;3 090
+78;AirAsia;28/02/2022;New Delhi;Bengaluru;14:40;2 stop ;06 h 10 m;20:50;3 090
+79;IndiGo;28/02/2022;New Delhi;Bengaluru;4:50;1 stop ;10 h 50 m;15:40;3 091
+80;Spicejet;28/02/2022;New Delhi;Bengaluru;5:35;Non stop;02 h 30 m;8:05;3 169
+81;Vistara;28/02/2022;New Delhi;Bengaluru;5:55;Non stop;02 h 45 m;8:40;3 169
+82;Go First;28/02/2022;New Delhi;Bengaluru;6:05;Non stop;02 h 35 m;8:40;3 169
+83;IndiGo;28/02/2022;New Delhi;Bengaluru;6:10;Non stop;02 h 40 m;8:50;3 169
+84;IndiGo;28/02/2022;New Delhi;Bengaluru;7:20;Non stop;02 h 55 m;10:15;3 169
+85;AirAsia;28/02/2022;New Delhi;Bengaluru;8:00;Non stop;02 h 40 m;10:40;3 169
+86;IndiGo;28/02/2022;New Delhi;Bengaluru;15:30;Non stop;03 h;18:30;3 169
+87;Spicejet;28/02/2022;New Delhi;Bengaluru;19:40;Non stop;02 h 45 m;22:25;3 169
+88;Vistara;28/02/2022;New Delhi;Bengaluru;19:50;Non stop;02 h 50 m;22:40;3 169
+89;IndiGo;28/02/2022;New Delhi;Bengaluru;21:25;Non stop;02 h 55 m;0:20;3 169
+90;Spicejet;28/02/2022;New Delhi;Bengaluru;22:30;Non stop;02 h 45 m;1:15;3 169
+91;Air India;28/02/2022;New Delhi;Bengaluru;6:10;Non stop;02 h 45 m;8:55;3 170
+92;Air India;28/02/2022;New Delhi;Bengaluru;9:45;Non stop;02 h 45 m;12:30;3 170
+93;IndiGo;28/02/2022;New Delhi;Bengaluru;9:40;1 stop ;08 h 50 m;18:30;3 253
+94;IndiGo;28/02/2022;New Delhi;Bengaluru;9:40;1 stop ;09 h 05 m;18:45;3 253
+95;IndiGo;28/02/2022;New Delhi;Bengaluru;9:40;1 stop ;09 h 55 m;19:35;3 253
+96;IndiGo;28/02/2022;New Delhi;Bengaluru;9:40;1 stop ;11 h 05 m;20:45;3 253
+97;Spicejet;28/02/2022;New Delhi;Bengaluru;9:30;1 stop ;07 h 20 m;16:50;3 303
+98;Spicejet;28/02/2022;New Delhi;Bengaluru;17:45;1 stop ;23 h 05 m;16:50;3 426
+99;AirAsia;28/02/2022;New Delhi;Bengaluru;16:05;Non stop;02 h 40 m;18:45;3 483
+100;IndiGo;28/02/2022;New Delhi;Bengaluru;11:00;1 stop ;07 h 45 m;18:45;3 650
+101;IndiGo;28/02/2022;New Delhi;Bengaluru;11:00;1 stop ;08 h 35 m;19:35;3 650
+102;IndiGo;28/02/2022;New Delhi;Bengaluru;12:55;1 stop ;05 h 35 m;18:30;3 671
+103;IndiGo;28/02/2022;New Delhi;Bengaluru;12:55;1 stop ;05 h 50 m;18:45;3 671
+104;IndiGo;28/02/2022;New Delhi;Bengaluru;12:55;1 stop ;07 h 50 m;20:45;3 671
+105;IndiGo;28/02/2022;New Delhi;Bengaluru;17:45;1 stop ;05 h 05 m;22:50;3 671
+106;IndiGo;28/02/2022;New Delhi;Bengaluru;12:55;1 stop ;09 h 55 m;22:50;3 671
+107;Spicejet;28/02/2022;New Delhi;Bengaluru;18:55;1 stop ;14 h 45 m;9:40;3 707
+108;Go First;28/02/2022;New Delhi;Bengaluru;19:35;1 stop ;10 h 40 m;6:15;3 710
+109;IndiGo;28/02/2022;New Delhi;Bengaluru;13:25;1 stop ;07 h 25 m;20:50;3 732
+110;IndiGo;28/02/2022;New Delhi;Bengaluru;13:25;1 stop ;10 h 30 m;23:55;3 732
+111;IndiGo;28/02/2022;New Delhi;Bengaluru;21:20;1 stop ;11 h 35 m;8:55;3 992
+112;Go First;28/02/2022;New Delhi;Bengaluru;13:30;1 stop ;06 h 10 m;19:40;4 020
+113;Go First;28/02/2022;New Delhi;Bengaluru;15:00;1 stop ;07 h 45 m;22:45;4 020
+114;Spicejet;28/02/2022;New Delhi;Bengaluru;7:25;1 stop ;13 h 55 m;21:20;4 067
+115;Spicejet;28/02/2022;New Delhi;Bengaluru;7:45;1 stop ;15 h;22:45;4 067
+116;Spicejet;28/02/2022;New Delhi;Bengaluru;19:30;1 stop ;13 h 30 m;9:00;4 067
+117;Spicejet;28/02/2022;New Delhi;Bengaluru;16:20;1 stop ;16 h 40 m;9:00;4 067
+118;Spicejet;28/02/2022;New Delhi;Bengaluru;12:00;1 stop ;21 h;9:00;4 067
+119;Spicejet;28/02/2022;New Delhi;Bengaluru;15:30;1 stop ;19 h 50 m;11:20;4 067
+120;Spicejet;28/02/2022;New Delhi;Bengaluru;11:55;1 stop ;25 h 40 m;13:35;4 067
+121;Go First;28/02/2022;New Delhi;Bengaluru;15:30;1 stop ;11 h 30 m;3:00;4 205
+122;AirAsia;28/02/2022;New Delhi;Bengaluru;15:25;1 stop ;05 h 25 m;20:50;4 212
+123;IndiGo;28/02/2022;New Delhi;Bengaluru;21:50;1 stop ;10 h;7:50;5 124
+124;IndiGo;28/02/2022;New Delhi;Bengaluru;10:15;1 stop ;06 h 25 m;16:40;5 220
+125;Go First;28/02/2022;New Delhi;Bengaluru;9:00;1 stop ;07 h 25 m;16:25;5 324
+126;IndiGo;28/02/2022;New Delhi;Bengaluru;16:50;1 stop ;06 h 30 m;23:20;5 955
+127;IndiGo;28/02/2022;New Delhi;Bengaluru;17:25;1 stop ;06 h 30 m;23:55;6 169
+128;Go First;28/02/2022;New Delhi;Bengaluru;10:45;1 stop ;06 h 25 m;17:10;6 719
+129;Go First;28/02/2022;New Delhi;Bengaluru;9:00;1 stop ;08 h 10 m;17:10;6 719
+130;Go First;28/02/2022;New Delhi;Bengaluru;8:00;1 stop ;09 h 10 m;17:10;6 719
+131;IndiGo;28/02/2022;New Delhi;Bengaluru;13:40;1 stop ;09 h 50 m;23:30;7 425
+132;IndiGo;28/02/2022;New Delhi;Bengaluru;9:40;2 stop ;07 h 55 m;17:35;7 886
+133;IndiGo;28/02/2022;New Delhi;Bengaluru;12:45;1 stop ;08 h 20 m;21:05;8 066
+134;Go First;28/02/2022;New Delhi;Bengaluru;10:50;1 stop ;04 h 20 m;15:10;10 672
+135;IndiGo;28/02/2022;Bengaluru;New Delhi;13:05;1 stop ;05 h 05 m;18:10;2 979
+136;IndiGo;28/02/2022;Bengaluru;New Delhi;9:20;1 stop ;08 h 50 m;18:10;2 979
+137;IndiGo;28/02/2022;Bengaluru;New Delhi;7:10;1 stop ;11 h;18:10;2 979
+138;IndiGo;28/02/2022;Bengaluru;New Delhi;16:20;1 stop ;07 h 25 m;23:45;2 979
+139;IndiGo;28/02/2022;Bengaluru;New Delhi;13:05;1 stop ;10 h 40 m;23:45;2 979
+140;IndiGo;28/02/2022;Bengaluru;New Delhi;19:20;1 stop ;05 h 45 m;1:05;2 979
+141;IndiGo;28/02/2022;Bengaluru;New Delhi;16:20;1 stop ;08 h 45 m;1:05;2 979
+142;IndiGo;28/02/2022;Bengaluru;New Delhi;11:20;1 stop ;05 h 10 m;16:30;3 057
+143;IndiGo;28/02/2022;Bengaluru;New Delhi;5:15;1 stop ;11 h 15 m;16:30;3 057
+144;IndiGo;28/02/2022;Bengaluru;New Delhi;17:15;1 stop ;05 h 25 m;22:40;3 057
+145;IndiGo;28/02/2022;Bengaluru;New Delhi;20:15;1 stop ;05 h 50 m;2:05;3 057
+146;IndiGo;28/02/2022;Bengaluru;New Delhi;17:15;1 stop ;08 h 50 m;2:05;3 057
+147;IndiGo;28/02/2022;Bengaluru;New Delhi;4:40;Non stop;02 h 55 m;7:35;3 233
+148;Spicejet;28/02/2022;Bengaluru;New Delhi;5:55;Non stop;02 h 45 m;8:40;3 233
+149;IndiGo;28/02/2022;Bengaluru;New Delhi;7:50;Non stop;03 h;10:50;3 233
+150;Vistara;28/02/2022;Bengaluru;New Delhi;8:00;Non stop;02 h 40 m;10:40;3 233
+151;IndiGo;28/02/2022;Bengaluru;New Delhi;9:30;Non stop;02 h 45 m;12:15;3 233
+152;AirAsia;28/02/2022;Bengaluru;New Delhi;11:20;Non stop;02 h 45 m;14:05;3 233
+153;IndiGo;28/02/2022;Bengaluru;New Delhi;14:00;Non stop;02 h 45 m;16:45;3 233
+154;Spicejet;28/02/2022;Bengaluru;New Delhi;19:05;Non stop;02 h 45 m;21:50;3 233
+155;IndiGo;28/02/2022;Bengaluru;New Delhi;20:10;Non stop;03 h;23:10;3 233
+156;Spicejet;28/02/2022;Bengaluru;New Delhi;21:55;Non stop;02 h 40 m;0:35;3 233
+157;AirAsia;28/02/2022;Bengaluru;New Delhi;22:25;Non stop;02 h 55 m;1:20;3 233
+158;AirAsia;28/02/2022;Bengaluru;New Delhi;17:30;1 stop ;07 h 05 m;0:35;3 233
+159;AirAsia;28/02/2022;Bengaluru;New Delhi;18:50;1 stop ;06 h 10 m;1:00;3 233
+160;Air India;28/02/2022;Bengaluru;New Delhi;17:50;Non stop;02 h 45 m;20:35;3 234
+161;IndiGo;28/02/2022;Bengaluru;New Delhi;7:10;1 stop ;09 h;16:10;3 372
+162;IndiGo;28/02/2022;Bengaluru;New Delhi;6:10;1 stop ;10 h;16:10;3 372
+163;IndiGo;28/02/2022;Bengaluru;New Delhi;14:45;1 stop ;05 h 10 m;19:55;3 372
+164;IndiGo;28/02/2022;Bengaluru;New Delhi;9:20;1 stop ;10 h 35 m;19:55;3 372
+165;Go First;28/02/2022;Bengaluru;New Delhi;5:40;1 stop ;09 h 55 m;15:35;3 466
+166;Spicejet;28/02/2022;Bengaluru;New Delhi;10:20;1 stop ;09 h 25 m;19:45;3 466
+167;Go First;28/02/2022;Bengaluru;New Delhi;16:45;1 stop ;06 h 10 m;22:55;3 466
+168;Spicejet;28/02/2022;Bengaluru;New Delhi;10:20;1 stop ;22 h 40 m;9:00;3 466
+169;AirAsia;28/02/2022;Bengaluru;New Delhi;22:00;1 stop ;05 h 35 m;3:35;3 525
+170;Air India;28/02/2022;Bengaluru;New Delhi;7:35;1 stop ;06 h 15 m;13:50;3 674
+171;Spicejet;28/02/2022;Bengaluru;New Delhi;6:50;1 stop ;18 h 20 m;1:10;3 754
+172;Spicejet;28/02/2022;Bengaluru;New Delhi;6:50;1 stop ;25 h 55 m;8:45;3 754
+173;IndiGo;28/02/2022;Bengaluru;New Delhi;7:10;1 stop ;04 h 45 m;11:55;3 788
+174;IndiGo;28/02/2022;Bengaluru;New Delhi;6:10;1 stop ;05 h 45 m;11:55;3 788
+175;Go First;28/02/2022;Bengaluru;New Delhi;10:00;1 stop ;05 h 45 m;15:45;4 028
+176;Go First;28/02/2022;Bengaluru;New Delhi;5:45;1 stop ;10 h;15:45;4 028
+177;Go First;28/02/2022;Bengaluru;New Delhi;8:10;1 stop ;08 h 25 m;16:35;4 028
+178;Go First;28/02/2022;Bengaluru;New Delhi;10:00;1 stop ;12 h 25 m;22:25;4 028
+179;Go First;28/02/2022;Bengaluru;New Delhi;11:00;1 stop ;08 h 55 m;19:55;4 294
+180;Vistara;28/02/2022;Bengaluru;New Delhi;18:25;1 stop ;04 h 35 m;23:00;4 336
+181;IndiGo;28/02/2022;Bengaluru;New Delhi;10:05;1 stop ;05 h 25 m;15:30;4 570
+182;IndiGo;28/02/2022;Bengaluru;New Delhi;8:40;1 stop ;11 h 45 m;20:25;4 806
+183;IndiGo;28/02/2022;Bengaluru;New Delhi;8:40;1 stop ;06 h 40 m;15:20;5 152
+184;IndiGo;28/02/2022;Bengaluru;New Delhi;11:40;1 stop ;09 h 40 m;21:20;5 283
+185;Go First;28/02/2022;Bengaluru;New Delhi;9:15;1 stop ;06 h 15 m;15:30;5 696
+186;Go First;28/02/2022;Bengaluru;New Delhi;9:15;1 stop ;09 h 45 m;19:00;5 696
+187;Spicejet;28/02/2022;Bengaluru;New Delhi;15:45;1 stop ;05 h 30 m;21:15;5 696
+188;Go First;28/02/2022;Bengaluru;New Delhi;11:45;1 stop ;10 h 15 m;22:00;5 696
+189;Spicejet;28/02/2022;Bengaluru;New Delhi;15:45;1 stop ;19 h 35 m;11:20;5 696
+190;Spicejet;28/02/2022;Bengaluru;New Delhi;5:45;1 stop ;16 h 25 m;22:10;6 118
+191;Spicejet;28/02/2022;Bengaluru;New Delhi;5:45;1 stop ;19 h 15 m;1:00;6 118
+192;Spicejet;28/02/2022;Bengaluru;New Delhi;5:45;1 stop ;12 h;17:45;6 720
+193;IndiGo;28/02/2022;Bengaluru;New Delhi;9:50;1 stop ;07 h 45 m;17:35;7 488
+194;Spicejet;28/02/2022;Bengaluru;New Delhi;6:20;1 stop ;08 h 40 m;15:00;7 746
+195;Spicejet;28/02/2022;Bengaluru;New Delhi;9:20;1 stop ;10 h 10 m;19:30;8 379
+196;Spicejet;28/02/2022;Bengaluru;New Delhi;14:05;1 stop ;26 h 30 m;16:35;9 849
+197;Spicejet;5/3/22;New Delhi;Mumbai;6:20;Non stop;02 h 20 m;8:40;2 409
+198;Spicejet;5/3/22;New Delhi;Mumbai;7:20;Non stop;02 h 15 m;9:35;2 409
+199;Spicejet;5/3/22;New Delhi;Mumbai;18:55;Non stop;02 h 10 m;21:05;2 409
+200;Spicejet;5/3/22;New Delhi;Mumbai;19:45;Non stop;02 h 20 m;22:05;2 409
+201;Spicejet;5/3/22;New Delhi;Mumbai;7:45;1 stop ;04 h 15 m;12:00;2 409
+202;AirAsia;5/3/22;New Delhi;Mumbai;19:00;1 stop ;05 h 35 m;0:35;2 409
+203;AirAsia;5/3/22;New Delhi;Mumbai;20:45;1 stop ;10 h 30 m;7:15;2 409
+204;AirAsia;5/3/22;New Delhi;Mumbai;22:10;1 stop ;14 h 15 m;12:25;2 409
+205;IndiGo;5/3/22;New Delhi;Mumbai;6:30;Non stop;02 h 10 m;8:40;2 410
+206;IndiGo;5/3/22;New Delhi;Mumbai;7:15;Non stop;02 h 10 m;9:25;2 410
+207;IndiGo;5/3/22;New Delhi;Mumbai;8:45;Non stop;02 h 20 m;11:05;2 410
+208;IndiGo;5/3/22;New Delhi;Mumbai;9:30;Non stop;02 h 30 m;12:00;2 410
+209;Go First;5/3/22;New Delhi;Mumbai;10:30;Non stop;02 h 20 m;12:50;2 410
+210;IndiGo;5/3/22;New Delhi;Mumbai;10:45;Non stop;02 h 20 m;13:05;2 410
+211;IndiGo;5/3/22;New Delhi;Mumbai;12:00;Non stop;02 h 10 m;14:10;2 410
+212;IndiGo;5/3/22;New Delhi;Mumbai;14:20;Non stop;02 h 15 m;16:35;2 410
+213;IndiGo;5/3/22;New Delhi;Mumbai;17:15;Non stop;02 h 10 m;19:25;2 410
+214;Go First;5/3/22;New Delhi;Mumbai;18:05;Non stop;02 h 20 m;20:25;2 410
+215;IndiGo;5/3/22;New Delhi;Mumbai;18:40;Non stop;02 h 10 m;20:50;2 410
+216;IndiGo;5/3/22;New Delhi;Mumbai;21:15;Non stop;02 h 15 m;23:30;2 410
+217;IndiGo;5/3/22;New Delhi;Mumbai;23:35;Non stop;02 h 10 m;1:45;2 410
+218;IndiGo;5/3/22;New Delhi;Mumbai;7:00;1 stop ;07 h 35 m;14:35;2 463
+219;Air India;5/3/22;New Delhi;Mumbai;10:40;Non stop;02 h 10 m;12:50;2 476
+220;Air India;5/3/22;New Delhi;Mumbai;18:00;Non stop;02 h;20:00;2 476
+221;Air India;5/3/22;New Delhi;Mumbai;19:00;Non stop;02 h 15 m;21:15;2 476
+222;Air India;5/3/22;New Delhi;Mumbai;20:00;Non stop;02 h 10 m;22:10;2 476
+223;Air India;5/3/22;New Delhi;Mumbai;14:30;1 stop ;03 h 30 m;18:00;2 476
+224;Vistara;5/3/22;New Delhi;Mumbai;20:40;Non stop;02 h 10 m;22:50;2 477
+225;Vistara;5/3/22;New Delhi;Mumbai;11:40;Non stop;02 h 20 m;14:00;2 701
+226;Spicejet;5/3/22;New Delhi;Mumbai;19:20;1 stop ;04 h 30 m;23:50;2 800
+227;Spicejet;5/3/22;New Delhi;Mumbai;19:20;1 stop ;15 h 15 m;10:35;2 800
+228;Vistara;5/3/22;New Delhi;Mumbai;8:50;Non stop;02 h 20 m;11:10;3 101
+229;Vistara;5/3/22;New Delhi;Mumbai;16:45;Non stop;02 h 20 m;19:05;3 101
+230;Spicejet;5/3/22;New Delhi;Mumbai;15:30;1 stop ;21 h 05 m;12:35;3 287
+231;IndiGo;5/3/22;New Delhi;Mumbai;14:05;1 stop ;08 h 20 m;22:25;3 323
+232;IndiGo;5/3/22;New Delhi;Mumbai;5:15;1 stop ;04 h 50 m;10:05;3 408
+233;IndiGo;5/3/22;New Delhi;Mumbai;18:30;1 stop ;04 h 55 m;23:25;3 408
+234;IndiGo;5/3/22;New Delhi;Mumbai;22:15;1 stop ;10 h 10 m;8:25;3 408
+235;IndiGo;5/3/22;New Delhi;Mumbai;18:00;1 stop ;04 h 25 m;22:25;3 486
+236;Spicejet;5/3/22;New Delhi;Mumbai;18:10;1 stop ;13 h 15 m;7:25;3 519
+237;Spicejet;5/3/22;New Delhi;Mumbai;15:45;1 stop ;25 h 45 m;17:30;3 519
+238;IndiGo;5/3/22;New Delhi;Mumbai;12:45;1 stop ;08 h;20:45;3 546
+239;IndiGo;5/3/22;New Delhi;Mumbai;21:50;1 stop ;10 h 25 m;8:15;3 546
+240;Vistara;5/3/22;New Delhi;Mumbai;19:00;Non stop;02 h 15 m;21:15;3 626
+241;IndiGo;5/3/22;New Delhi;Mumbai;17:55;1 stop ;05 h 20 m;23:15;3 959
+242;IndiGo;5/3/22;New Delhi;Mumbai;12:55;1 stop ;10 h 20 m;23:15;3 959
+243;IndiGo;5/3/22;New Delhi;Mumbai;7:20;1 stop ;05 h 05 m;12:25;4 055
+244;IndiGo;5/3/22;New Delhi;Mumbai;14:05;1 stop ;03 h 50 m;17:55;4 321
+245;IndiGo;5/3/22;New Delhi;Mumbai;10:15;1 stop ;07 h 40 m;17:55;4 485
+246;Go First;5/3/22;New Delhi;Mumbai;6:05;1 stop ;15 h 45 m;21:50;4 814
+247;Go First;5/3/22;New Delhi;Mumbai;18:40;1 stop ;12 h 40 m;7:20;4 814
+248;Go First;5/3/22;New Delhi;Mumbai;18:40;1 stop ;15 h 10 m;9:50;4 814
+249;Go First;5/3/22;New Delhi;Mumbai;19:25;1 stop ;12 h 20 m;7:45;4 833
+250;Go First;5/3/22;New Delhi;Mumbai;9:00;1 stop ;11 h 20 m;20:20;5 087
+251;Go First;5/3/22;New Delhi;Mumbai;5:50;1 stop ;09 h 30 m;15:20;5 383
+252;Go First;5/3/22;New Delhi;Mumbai;10:45;1 stop ;06 h 15 m;17:00;5 584
+253;Go First;5/3/22;New Delhi;Mumbai;8:00;1 stop ;09 h;17:00;5 584
+254;Go First;5/3/22;New Delhi;Mumbai;6:05;1 stop ;10 h 55 m;17:00;5 584
+255;Go First;5/3/22;New Delhi;Mumbai;12:50;1 stop ;09 h 15 m;22:05;5 600
+256;IndiGo;5/3/22;New Delhi;Mumbai;13:50;1 stop ;06 h;19:50;5 619
+257;Go First;5/3/22;New Delhi;Mumbai;10:30;1 stop ;12 h 45 m;23:15;5 958
+258;IndiGo;5/3/22;Mumbai;New Delhi;7:05;Non stop;02 h 15 m;9:20;2 339
+259;IndiGo;5/3/22;Mumbai;New Delhi;8:30;Non stop;01 h 55 m;10:25;2 339
+260;IndiGo;5/3/22;Mumbai;New Delhi;9:20;Non stop;02 h 10 m;11:30;2 339
+261;IndiGo;5/3/22;Mumbai;New Delhi;10:05;Non stop;02 h 10 m;12:15;2 339
+262;IndiGo;5/3/22;Mumbai;New Delhi;11:45;Non stop;02 h 15 m;14:00;2 339
+263;IndiGo;5/3/22;Mumbai;New Delhi;13:40;Non stop;02 h 10 m;15:50;2 339
+264;Go First;5/3/22;Mumbai;New Delhi;14:30;Non stop;02 h 05 m;16:35;2 339
+265;IndiGo;5/3/22;Mumbai;New Delhi;15:50;Non stop;02 h 10 m;18:00;2 339
+266;IndiGo;5/3/22;Mumbai;New Delhi;17:15;Non stop;02 h 05 m;19:20;2 339
+267;IndiGo;5/3/22;Mumbai;New Delhi;18:30;Non stop;02 h 05 m;20:35;2 339
+268;IndiGo;5/3/22;Mumbai;New Delhi;19:35;Non stop;01 h 50 m;21:25;2 339
+269;IndiGo;5/3/22;Mumbai;New Delhi;20:30;Non stop;02 h 05 m;22:35;2 339
+270;Spicejet;5/3/22;Mumbai;New Delhi;21:45;Non stop;02 h 10 m;23:55;2 339
+271;AirAsia;5/3/22;Mumbai;New Delhi;22:55;Non stop;02 h 05 m;1:00;2 339
+272;IndiGo;5/3/22;Mumbai;New Delhi;6:05;1 stop ;04 h 20 m;10:25;2 339
+273;IndiGo;5/3/22;Mumbai;New Delhi;9:25;1 stop ;04 h 15 m;13:40;2 339
+274;IndiGo;5/3/22;Mumbai;New Delhi;6:45;1 stop ;09 h 25 m;16:10;2 339
+275;IndiGo;5/3/22;Mumbai;New Delhi;9:25;1 stop ;08 h 10 m;17:35;2 339
+276;IndiGo;5/3/22;Mumbai;New Delhi;15:05;1 stop ;06 h 15 m;21:20;2 339
+277;IndiGo;5/3/22;Mumbai;New Delhi;17:30;1 stop ;04 h 30 m;22:00;2 339
+278;IndiGo;5/3/22;Mumbai;New Delhi;16:45;1 stop ;05 h 50 m;22:35;2 339
+279;IndiGo;5/3/22;Mumbai;New Delhi;20:15;1 stop ;04 h 05 m;0:20;2 339
+280;IndiGo;5/3/22;Mumbai;New Delhi;19:15;1 stop ;05 h 05 m;0:20;2 339
+281;IndiGo;5/3/22;Mumbai;New Delhi;17:30;1 stop ;06 h 50 m;0:20;2 339
+282;Air India;5/3/22;Mumbai;New Delhi;16:00;Non stop;02 h 15 m;18:15;2 464
+283;Air India;5/3/22;Mumbai;New Delhi;19:00;Non stop;02 h 15 m;21:15;2 464
+284;Air India;5/3/22;Mumbai;New Delhi;7:05;1 stop ;03 h 40 m;10:45;2 464
+285;Vistara;5/3/22;Mumbai;New Delhi;6:30;Non stop;02 h 05 m;8:35;2 465
+286;Vistara;5/3/22;Mumbai;New Delhi;20:55;Non stop;02 h 05 m;23:00;2 465
+287;Vistara;5/3/22;Mumbai;New Delhi;21:55;Non stop;02 h 15 m;0:10;2 465
+288;Spicejet;5/3/22;Mumbai;New Delhi;7:20;Non stop;02 h 15 m;9:35;2 614
+289;Spicejet;5/3/22;Mumbai;New Delhi;10:15;Non stop;02 h 15 m;12:30;2 614
+290;Spicejet;5/3/22;Mumbai;New Delhi;19:25;Non stop;02 h 25 m;21:50;2 614
+291;Vistara;5/3/22;Mumbai;New Delhi;14:40;Non stop;02 h 15 m;16:55;2 700
+292;Vistara;5/3/22;Mumbai;New Delhi;15:45;Non stop;02 h 20 m;18:05;2 700
+293;Go First;5/3/22;Mumbai;New Delhi;8:00;Non stop;02 h 10 m;10:10;2 748
+294;IndiGo;5/3/22;Mumbai;New Delhi;8:55;1 stop ;06 h 25 m;15:20;3 010
+295;IndiGo;5/3/22;Mumbai;New Delhi;13:45;1 stop ;03 h 50 m;17:35;3 010
+296;Vistara;5/3/22;Mumbai;New Delhi;7:30;Non stop;02 h 10 m;9:40;3 101
+297;AirAsia;5/3/22;Mumbai;New Delhi;18:10;1 stop ;06 h 40 m;0:50;3 195
+298;Go First;5/3/22;Mumbai;New Delhi;18:10;1 stop ;05 h 20 m;23:30;3 324
+299;Go First;5/3/22;Mumbai;New Delhi;22:40;1 stop ;11 h 10 m;9:50;3 324
+300;Spicejet;5/3/22;Mumbai;New Delhi;5:55;1 stop ;04 h 45 m;10:40;3 342
+301;Spicejet;5/3/22;Mumbai;New Delhi;19:50;1 stop ;14 h 50 m;10:40;3 342
+302;Spicejet;5/3/22;Mumbai;New Delhi;9:15;1 stop ;05 h 45 m;15:00;3 965
+303;Go First;5/3/22;Mumbai;New Delhi;19:00;1 stop ;13 h 40 m;8:40;4 098
+304;Spicejet;5/3/22;Mumbai;New Delhi;13:50;1 stop ;04 h 45 m;18:35;4 569
+305;Go First;5/3/22;Mumbai;New Delhi;12:30;1 stop ;11 h 20 m;23:50;4 801
+306;Go First;5/3/22;Mumbai;New Delhi;21:00;1 stop ;11 h 30 m;8:30;4 822
+307;Go First;5/3/22;Mumbai;New Delhi;19:30;1 stop ;11 h 50 m;7:20;4 979
+308;Spicejet;5/3/22;Mumbai;New Delhi;20:25;1 stop ;25 h 55 m;22:20;5 097
+309;IndiGo;5/3/22;Mumbai;New Delhi;9:00;1 stop ;07 h 50 m;16:50;5 167
+310;Go First;5/3/22;Mumbai;New Delhi;10:35;1 stop ;09 h 20 m;19:55;5 193
+311;Go First;5/3/22;Mumbai;New Delhi;16:20;1 stop ;09 h 50 m;2:10;5 938
+312;Go First;5/3/22;Mumbai;New Delhi;8:30;1 stop ;07 h 40 m;16:10;5 984
+313;IndiGo;7/3/22;New Delhi;Kolkata;5:55;Non stop;02 h 15 m;8:10;2 480
+314;IndiGo;7/3/22;New Delhi;Kolkata;7:15;Non stop;02 h 15 m;9:30;2 480
+315;IndiGo;7/3/22;New Delhi;Kolkata;8:40;Non stop;02 h 10 m;10:50;2 480
+316;IndiGo;7/3/22;New Delhi;Kolkata;15:10;Non stop;02 h 10 m;17:20;2 480
+317;IndiGo;7/3/22;New Delhi;Kolkata;17:25;Non stop;02 h 15 m;19:40;2 480
+318;IndiGo;7/3/22;New Delhi;Kolkata;18:35;Non stop;02 h 20 m;20:55;2 480
+319;Go First;7/3/22;New Delhi;Kolkata;19:25;Non stop;02 h 20 m;21:45;2 480
+320;IndiGo;7/3/22;New Delhi;Kolkata;19:45;Non stop;02 h 10 m;21:55;2 480
+321;IndiGo;7/3/22;New Delhi;Kolkata;21:15;Non stop;02 h 10 m;23:25;2 480
+322;AirAsia;7/3/22;New Delhi;Kolkata;7:10;2 stop ;08 h 15 m;15:25;2 480
+323;AirAsia;7/3/22;New Delhi;Kolkata;9:35;2 stop ;09 h 40 m;19:15;2 480
+324;AirAsia;7/3/22;New Delhi;Kolkata;8:00;2 stop ;11 h 15 m;19:15;2 480
+325;AirAsia;7/3/22;New Delhi;Kolkata;15:25;2 stop ;07 h 45 m;23:10;2 480
+326;AirAsia;7/3/22;New Delhi;Kolkata;4:45;Non stop;02 h 25 m;7:10;2 481
+327;Spicejet;7/3/22;New Delhi;Kolkata;7:00;Non stop;02 h 05 m;9:05;2 481
+328;AirAsia;7/3/22;New Delhi;Kolkata;16:50;Non stop;02 h 40 m;19:30;2 481
+329;Spicejet;7/3/22;New Delhi;Kolkata;20:50;Non stop;02 h 10 m;23:00;2 481
+330;AirAsia;7/3/22;New Delhi;Kolkata;21:00;Non stop;02 h 10 m;23:10;2 481
+331;Air India;7/3/22;New Delhi;Kolkata;6:50;Non stop;02 h 10 m;9:00;2 482
+332;Air India;7/3/22;New Delhi;Kolkata;4:50;2 stop ;07 h 40 m;12:30;2 482
+333;Vistara;7/3/22;New Delhi;Kolkata;6:30;Non stop;02 h 05 m;8:35;2 483
+334;Vistara;7/3/22;New Delhi;Kolkata;7:30;Non stop;02 h 05 m;9:35;2 483
+335;Vistara;7/3/22;New Delhi;Kolkata;15:55;Non stop;02 h 10 m;18:05;2 483
+336;Vistara;7/3/22;New Delhi;Kolkata;17:30;Non stop;02 h 05 m;19:35;2 483
+337;Vistara;7/3/22;New Delhi;Kolkata;20:30;Non stop;02 h 15 m;22:45;2 483
+338;Air India;7/3/22;New Delhi;Kolkata;12:10;Non stop;02 h 20 m;14:30;2 903
+339;Air India;7/3/22;New Delhi;Kolkata;16:55;Non stop;02 h 15 m;19:10;3 428
+340;IndiGo;7/3/22;New Delhi;Kolkata;10:00;Non stop;02 h 10 m;12:10;3 482
+341;AirAsia;7/3/22;New Delhi;Kolkata;6:20;1 stop ;05 h 40 m;12:00;3 483
+342;AirAsia;7/3/22;New Delhi;Kolkata;16:05;1 stop ;09 h 30 m;1:35;3 483
+343;Spicejet;7/3/22;New Delhi;Kolkata;17:15;1 stop ;04 h 15 m;21:30;3 553
+344;Spicejet;7/3/22;New Delhi;Kolkata;7:25;1 stop ;14 h 05 m;21:30;3 553
+345;Air India;7/3/22;New Delhi;Kolkata;21:25;1 stop ;10 h 40 m;8:05;3 610
+346;IndiGo;7/3/22;New Delhi;Kolkata;9:15;1 stop ;05 h 20 m;14:35;3 677
+347;IndiGo;7/3/22;New Delhi;Kolkata;5:50;1 stop ;08 h 45 m;14:35;3 677
+348;AirAsia;7/3/22;New Delhi;Kolkata;19:00;1 stop ;06 h 35 m;1:35;4 039
+349;Spicejet;7/3/22;New Delhi;Kolkata;10:15;1 stop ;11 h 15 m;21:30;4 174
+350;Air India;7/3/22;New Delhi;Kolkata;10:35;1 stop ;07 h;17:35;4 426
+351;Spicejet;7/3/22;New Delhi;Kolkata;10:15;1 stop ;23 h 40 m;9:55;4 449
+352;IndiGo;7/3/22;New Delhi;Kolkata;15:30;1 stop ;05 h 25 m;20:55;4 472
+353;IndiGo;7/3/22;New Delhi;Kolkata;10:25;1 stop ;10 h 30 m;20:55;4 472
+354;IndiGo;7/3/22;New Delhi;Kolkata;3:00;Non stop;02 h 10 m;5:10;4 485
+355;Go First;7/3/22;New Delhi;Kolkata;14:20;1 stop ;09 h 15 m;23:35;4 730
+356;Go First;7/3/22;New Delhi;Kolkata;13:30;1 stop ;10 h 05 m;23:35;4 730
+357;Go First;7/3/22;New Delhi;Kolkata;10:30;1 stop ;13 h 05 m;23:35;4 730
+358;Go First;7/3/22;New Delhi;Kolkata;8:00;1 stop ;15 h 35 m;23:35;4 730
+359;Go First;7/3/22;New Delhi;Kolkata;21:00;1 stop ;10 h 30 m;7:30;4 730
+360;Go First;7/3/22;New Delhi;Kolkata;19:40;1 stop ;11 h 50 m;7:30;4 730
+361;Air India;7/3/22;New Delhi;Kolkata;9:25;1 stop ;08 h 35 m;18:00;4 748
+362;Spicejet;7/3/22;New Delhi;Kolkata;19:20;1 stop ;26 h 05 m;21:25;4 791
+363;Spicejet;7/3/22;New Delhi;Kolkata;9:25;1 stop ;04 h 55 m;14:20;4 898
+364;Spicejet;7/3/22;New Delhi;Kolkata;13:05;1 stop ;25 h 15 m;14:20;4 898
+365;Vistara;7/3/22;New Delhi;Kolkata;10:20;1 stop ;06 h 35 m;16:55;5 157
+366;Vistara;7/3/22;New Delhi;Kolkata;9:30;1 stop ;07 h 25 m;16:55;5 157
+367;Vistara;7/3/22;New Delhi;Kolkata;14:20;1 stop ;05 h 35 m;19:55;5 157
+368;Vistara;7/3/22;New Delhi;Kolkata;12:50;1 stop ;07 h 05 m;19:55;5 157
+369;IndiGo;7/3/22;New Delhi;Kolkata;10:55;1 stop ;08 h 45 m;19:40;5 225
+370;Go First;7/3/22;New Delhi;Kolkata;8:00;1 stop ;09 h 30 m;17:30;5 830
+371;Go First;7/3/22;New Delhi;Kolkata;6:05;1 stop ;10 h 25 m;16:30;5 954
+372;Go First;7/3/22;New Delhi;Kolkata;5:35;2 stop ;10 h 55 m;16:30;5 954
+373;Go First;7/3/22;New Delhi;Kolkata;10:50;2 stop ;11 h 30 m;22:20;5 954
+374;Go First;7/3/22;New Delhi;Kolkata;9:10;2 stop ;13 h 10 m;22:20;5 954
+375;Go First;7/3/22;New Delhi;Kolkata;6:05;1 stop ;16 h 15 m;22:20;5 954
+376;IndiGo;7/3/22;New Delhi;Kolkata;12:35;1 stop ;05 h 15 m;17:50;5 955
+377;IndiGo;7/3/22;New Delhi;Kolkata;7:50;1 stop ;10 h;17:50;5 955
+378;IndiGo;7/3/22;New Delhi;Kolkata;9:50;1 stop ;05 h 30 m;15:20;6 253
+379;IndiGo;7/3/22;New Delhi;Kolkata;7:20;1 stop ;08 h;15:20;6 253
+380;IndiGo;7/3/22;New Delhi;Kolkata;14:40;1 stop ;07 h 45 m;22:25;6 443
+381;Spicejet;7/3/22;New Delhi;Kolkata;9:25;1 stop ;08 h;17:25;9 969
+382;Spicejet;7/3/22;Kolkata;New Delhi;6:05;Non stop;02 h 40 m;8:45;3 013
+383;Spicejet;7/3/22;Kolkata;New Delhi;21:55;Non stop;02 h 30 m;0:25;3 013
+384;IndiGo;7/3/22;Kolkata;New Delhi;1:15;Non stop;02 h 30 m;3:45;3 014
+385;IndiGo;7/3/22;Kolkata;New Delhi;5:30;Non stop;02 h 30 m;8:00;3 014
+386;IndiGo;7/3/22;Kolkata;New Delhi;6:40;Non stop;02 h 35 m;9:15;3 014
+387;IndiGo;7/3/22;Kolkata;New Delhi;8:45;Non stop;02 h 30 m;11:15;3 014
+388;IndiGo;7/3/22;Kolkata;New Delhi;10:05;Non stop;02 h 25 m;12:30;3 014
+389;IndiGo;7/3/22;Kolkata;New Delhi;16:30;Non stop;02 h 30 m;19:00;3 014
+390;IndiGo;7/3/22;Kolkata;New Delhi;18:05;Non stop;02 h 30 m;20:35;3 014
+391;IndiGo;7/3/22;Kolkata;New Delhi;19:20;Non stop;02 h 30 m;21:50;3 014
+392;IndiGo;7/3/22;Kolkata;New Delhi;20:25;Non stop;02 h 30 m;22:55;3 014
+393;IndiGo;7/3/22;Kolkata;New Delhi;21:40;Non stop;02 h 30 m;0:10;3 014
+394;IndiGo;7/3/22;Kolkata;New Delhi;6:10;1 stop ;08 h 15 m;14:25;3 014
+395;IndiGo;7/3/22;Kolkata;New Delhi;7:15;1 stop ;08 h 10 m;15:25;3 014
+396;IndiGo;7/3/22;Kolkata;New Delhi;11:40;1 stop ;07 h 05 m;18:45;3 014
+397;IndiGo;7/3/22;Kolkata;New Delhi;14:45;1 stop ;05 h 25 m;20:10;3 014
+398;IndiGo;7/3/22;Kolkata;New Delhi;17:30;1 stop ;04 h 05 m;21:35;3 014
+399;IndiGo;7/3/22;Kolkata;New Delhi;14:45;1 stop ;06 h 50 m;21:35;3 014
+400;IndiGo;7/3/22;Kolkata;New Delhi;15:20;1 stop ;06 h 20 m;21:40;3 014
+401;IndiGo;7/3/22;Kolkata;New Delhi;11:40;1 stop ;10 h 05 m;21:45;3 014
+402;IndiGo;7/3/22;Kolkata;New Delhi;16:20;1 stop ;06 h 25 m;22:45;3 014
+403;AirAsia;7/3/22;Kolkata;New Delhi;7:40;Non stop;02 h 25 m;10:05;3 015
+404;AirAsia;7/3/22;Kolkata;New Delhi;20:00;Non stop;02 h 40 m;22:40;3 015
+405;AirAsia;7/3/22;Kolkata;New Delhi;23:40;Non stop;02 h 30 m;2:10;3 015
+406;Air India;7/3/22;Kolkata;New Delhi;7:00;Non stop;02 h 15 m;9:15;3 016
+407;Air India;7/3/22;Kolkata;New Delhi;13:30;2 stop ;07 h 25 m;20:55;3 016
+408;Vistara;7/3/22;Kolkata;New Delhi;7:10;Non stop;02 h 25 m;9:35;3 017
+409;Vistara;7/3/22;Kolkata;New Delhi;10:15;Non stop;02 h 20 m;12:35;3 017
+410;Vistara;7/3/22;Kolkata;New Delhi;15:20;Non stop;02 h 25 m;17:45;3 017
+411;Vistara;7/3/22;Kolkata;New Delhi;18:45;Non stop;02 h 25 m;21:10;3 017
+412;Vistara;7/3/22;Kolkata;New Delhi;20:25;Non stop;02 h 20 m;22:45;3 017
+413;Air India;7/3/22;Kolkata;New Delhi;10:25;Non stop;02 h 30 m;12:55;3 437
+414;Air India;7/3/22;Kolkata;New Delhi;15:30;Non stop;02 h 30 m;18:00;3 437
+415;Air India;7/3/22;Kolkata;New Delhi;20:30;Non stop;02 h 30 m;23:00;3 437
+416;IndiGo;7/3/22;Kolkata;New Delhi;11:25;Non stop;02 h 25 m;13:50;3 911
+417;Spicejet;7/3/22;Kolkata;New Delhi;18:10;1 stop ;17 h 10 m;11:20;4 087
+418;Air India;7/3/22;Kolkata;New Delhi;19:00;1 stop ;14 h;9:00;4 144
+419;Air India;7/3/22;Kolkata;New Delhi;11:35;3 stop ;09 h 20 m;20:55;4 347
+420;IndiGo;7/3/22;Kolkata;New Delhi;7:00;1 stop ;06 h 20 m;13:20;4 458
+421;IndiGo;7/3/22;Kolkata;New Delhi;8:05;1 stop ;06 h 40 m;14:45;4 458
+422;IndiGo;7/3/22;Kolkata;New Delhi;11:55;1 stop ;06 h 55 m;18:50;4 458
+423;IndiGo;7/3/22;Kolkata;New Delhi;12:35;1 stop ;06 h 20 m;18:55;4 458
+424;IndiGo;7/3/22;Kolkata;New Delhi;11:30;1 stop ;07 h 25 m;18:55;4 458
+425;IndiGo;7/3/22;Kolkata;New Delhi;8:05;1 stop ;10 h 50 m;18:55;4 458
+426;IndiGo;7/3/22;Kolkata;New Delhi;14:15;1 stop ;06 h 10 m;20:25;4 458
+427;IndiGo;7/3/22;Kolkata;New Delhi;17:15;1 stop ;05 h 15 m;22:30;4 458
+428;IndiGo;7/3/22;Kolkata;New Delhi;14:15;1 stop ;08 h 20 m;22:35;4 458
+429;Go First;7/3/22;Kolkata;New Delhi;6:15;1 stop ;12 h 40 m;18:55;4 824
+430;Spicejet;7/3/22;Kolkata;New Delhi;6:45;1 stop ;12 h 20 m;19:05;4 824
+431;Spicejet;7/3/22;Kolkata;New Delhi;18:25;1 stop ;24 h 40 m;19:05;4 824
+432;Go First;7/3/22;Kolkata;New Delhi;13:20;1 stop ;11 h 20 m;0:40;4 933
+433;Go First;7/3/22;Kolkata;New Delhi;4:55;1 stop ;07 h 15 m;12:10;5 207
+434;Go First;7/3/22;Kolkata;New Delhi;4:55;1 stop ;09 h 35 m;14:30;5 207
+435;Go First;7/3/22;Kolkata;New Delhi;4:55;1 stop ;09 h 40 m;14:35;5 207
+436;Go First;7/3/22;Kolkata;New Delhi;4:55;1 stop ;13 h 40 m;18:35;5 207
+437;Go First;7/3/22;Kolkata;New Delhi;17:30;1 stop ;07 h 20 m;0:50;5 207
+438;Vistara;7/3/22;Kolkata;New Delhi;17:35;1 stop ;06 h 35 m;0:10;5 468
+439;Spicejet;7/3/22;Kolkata;New Delhi;9:15;1 stop ;25 h 25 m;10:40;5 545
+440;Go First;7/3/22;Kolkata;New Delhi;12:30;1 stop ;11 h;23:30;5 757
+441;Go First;7/3/22;Kolkata;New Delhi;12:30;1 stop ;12 h 20 m;0:50;5 757
+442;Go First;7/3/22;Kolkata;New Delhi;16:25;1 stop ;07 h 05 m;23:30;5 929
+443;Spicejet;7/3/22;Kolkata;New Delhi;10:45;1 stop ;07 h 30 m;18:15;5 981
+444;Spicejet;7/3/22;Kolkata;New Delhi;14:00;1 stop ;24 h 25 m;14:25;5 981
+445;Go First;7/3/22;Kolkata;New Delhi;9:30;1 stop ;14 h 20 m;23:50;6 537
+446;Spicejet;7/3/22;Kolkata;New Delhi;15:05;1 stop ;04 h 40 m;19:45;8 954
+447;IndiGo;28/02/2022;Bengaluru;Mumbai;6:10;1 stop ;03 h 55 m;10:05;2 151
+448;IndiGo;28/02/2022;Bengaluru;Mumbai;7:20;1 stop ;04 h 15 m;11:35;2 151
+449;IndiGo;28/02/2022;Bengaluru;Mumbai;5:50;1 stop ;06 h 15 m;12:05;2 151
+450;IndiGo;28/02/2022;Bengaluru;Mumbai;7:10;1 stop ;05 h 05 m;12:15;2 151
+451;IndiGo;28/02/2022;Bengaluru;Mumbai;10:55;1 stop ;04 h 10 m;15:05;2 151
+452;IndiGo;28/02/2022;Bengaluru;Mumbai;9:20;1 stop ;05 h 45 m;15:05;2 151
+453;IndiGo;28/02/2022;Bengaluru;Mumbai;9:50;1 stop ;05 h 50 m;15:40;2 151
+454;IndiGo;28/02/2022;Bengaluru;Mumbai;9:20;1 stop ;07 h 15 m;16:35;2 151
+455;IndiGo;28/02/2022;Bengaluru;Mumbai;14:45;1 stop ;04 h 30 m;19:15;2 151
+456;IndiGo;28/02/2022;Bengaluru;Mumbai;13:05;1 stop ;06 h 10 m;19:15;2 151
+457;IndiGo;28/02/2022;Bengaluru;Mumbai;14:50;1 stop ;04 h 55 m;19:45;2 151
+458;IndiGo;28/02/2022;Bengaluru;Mumbai;19:20;1 stop ;04 h 05 m;23:25;2 151
+459;IndiGo;28/02/2022;Bengaluru;Mumbai;16:20;1 stop ;07 h 05 m;23:25;2 151
+460;IndiGo;28/02/2022;Bengaluru;Mumbai;18:15;1 stop ;06 h 05 m;0:20;2 151
+461;IndiGo;28/02/2022;Bengaluru;Mumbai;17:10;1 stop ;07 h 30 m;0:40;2 151
+462;AirAsia;28/02/2022;Bengaluru;Mumbai;5:35;Non stop;01 h 40 m;7:15;2 201
+463;Go First;28/02/2022;Bengaluru;Mumbai;5:45;Non stop;01 h 35 m;7:20;2 201
+464;IndiGo;28/02/2022;Bengaluru;Mumbai;7:00;Non stop;01 h 50 m;8:50;2 201
+465;IndiGo;28/02/2022;Bengaluru;Mumbai;8:05;Non stop;01 h 50 m;9:55;2 201
+466;Go First;28/02/2022;Bengaluru;Mumbai;8:10;Non stop;01 h 40 m;9:50;2 201
+467;Go First;28/02/2022;Bengaluru;Mumbai;10:00;Non stop;01 h 40 m;11:40;2 201
+468;IndiGo;28/02/2022;Bengaluru;Mumbai;12:40;Non stop;01 h 50 m;14:30;2 201
+469;IndiGo;28/02/2022;Bengaluru;Mumbai;16:50;Non stop;01 h 45 m;18:35;2 201
+470;IndiGo;28/02/2022;Bengaluru;Mumbai;18:00;Non stop;01 h 50 m;19:50;2 201
+471;AirAsia;28/02/2022;Bengaluru;Mumbai;18:50;Non stop;01 h 45 m;20:35;2 201
+472;Go First;28/02/2022;Bengaluru;Mumbai;19:00;Non stop;01 h 40 m;20:40;2 201
+473;IndiGo;28/02/2022;Bengaluru;Mumbai;19:35;Non stop;02 h;21:35;2 201
+474;Go First;28/02/2022;Bengaluru;Mumbai;20:00;Non stop;01 h 50 m;21:50;2 201
+475;IndiGo;28/02/2022;Bengaluru;Mumbai;21:15;Non stop;02 h;23:15;2 201
+476;Go First;28/02/2022;Bengaluru;Mumbai;22:00;Non stop;01 h 55 m;23:55;2 201
+477;AirAsia;28/02/2022;Bengaluru;Mumbai;22:45;Non stop;01 h 50 m;0:35;2 201
+478;AirAsia;28/02/2022;Bengaluru;Mumbai;13:15;1 stop ;06 h 20 m;19:35;2 202
+483;Air India;28/02/2022;Bengaluru;Mumbai;6:45;Non stop;01 h 50 m;8:35;2 208
+484;Air India;28/02/2022;Bengaluru;Mumbai;19:10;Non stop;01 h 55 m;21:05;2 208
+485;Vistara;28/02/2022;Bengaluru;Mumbai;6:40;Non stop;01 h 35 m;8:15;2 250
+486;Vistara;28/02/2022;Bengaluru;Mumbai;8:30;Non stop;01 h 45 m;10:15;2 250
+487;Vistara;28/02/2022;Bengaluru;Mumbai;9:30;Non stop;01 h 55 m;11:25;2 250
+488;Vistara;28/02/2022;Bengaluru;Mumbai;18:25;Non stop;01 h 50 m;20:15;2 250
+489;Vistara;28/02/2022;Bengaluru;Mumbai;19:00;Non stop;01 h 45 m;20:45;2 250
+490;Vistara;28/02/2022;Bengaluru;Mumbai;19:55;Non stop;01 h 55 m;21:50;2 250
+491;Vistara;28/02/2022;Bengaluru;Mumbai;21:40;Non stop;01 h 45 m;23:25;2 250
+492;AirAsia;28/02/2022;Bengaluru;Mumbai;0:25;1 stop ;06 h 10 m;6:35;3 385
+493;Air India;28/02/2022;Bengaluru;Mumbai;18:50;1 stop ;05 h 05 m;23:55;3 447
+494;Vistara;28/02/2022;Bengaluru;Mumbai;19:55;1 stop ;03 h 05 m;23:00;3 448
+495;Go First;28/02/2022;Bengaluru;Mumbai;15:45;1 stop ;03 h 55 m;19:40;3 906
+496;Spicejet;28/02/2022;Bengaluru;Mumbai;5:45;1 stop ;09 h;14:45;3 971
+497;Go First;3/2/22;Kolkata;New Delhi;6:00;Non stop;02 h 30 m;8:30;6 488
+498;Go First;3/2/22;Kolkata;New Delhi;14:20;Non stop;02 h 35 m;16:55;6 488
+499;Go First;3/2/22;Kolkata;New Delhi;4:55;1 stop ;07 h 15 m;12:10;6 488
+500;Go First;3/2/22;Kolkata;New Delhi;6:15;1 stop ;12 h;18:15;6 488
+501;Go First;3/2/22;Kolkata;New Delhi;9:30;2 stop ;10 h 50 m;20:20;6 488
+502;Go First;3/2/22;Kolkata;New Delhi;16:25;1 stop ;07 h 05 m;23:30;6 488
+503;Go First;3/2/22;Kolkata;New Delhi;16:45;1 stop ;07 h 05 m;23:50;6 488
+504;Go First;3/2/22;Kolkata;New Delhi;17:30;1 stop ;07 h 20 m;0:50;6 488
+505;Spicejet;3/2/22;Kolkata;New Delhi;18:10;1 stop ;17 h 10 m;11:20;6 488
+506;Spicejet;3/2/22;Kolkata;New Delhi;18:25;1 stop ;24 h 40 m;19:05;6 488
+507;IndiGo;3/2/22;Kolkata;New Delhi;11:25;1 stop ;07 h 20 m;18:45;6 489
+508;IndiGo;3/2/22;Kolkata;New Delhi;11:55;1 stop ;06 h 55 m;18:50;6 489
+509;IndiGo;3/2/22;Kolkata;New Delhi;12:35;1 stop ;06 h 20 m;18:55;6 489
+510;IndiGo;3/2/22;Kolkata;New Delhi;14:15;1 stop ;06 h 10 m;20:25;6 489
+511;IndiGo;3/2/22;Kolkata;New Delhi;15:20;1 stop ;06 h 20 m;21:40;6 489
+512;IndiGo;3/2/22;Kolkata;New Delhi;17:30;1 stop ;04 h 35 m;22:05;6 489
+513;IndiGo;3/2/22;Kolkata;New Delhi;11:25;Non stop;02 h 25 m;13:50;6 804
+514;IndiGo;3/2/22;Kolkata;New Delhi;19:20;Non stop;02 h 30 m;21:50;7 119
+515;Vistara;3/2/22;Kolkata;New Delhi;7:10;Non stop;02 h 25 m;9:35;8 065
+516;Air India;3/2/22;Kolkata;New Delhi;13:00;1 stop ;07 h 55 m;20:55;9 775
+517;Vistara;3/2/22;Kolkata;New Delhi;15:20;Non stop;02 h 25 m;17:45;10 060
+518;Go First;18/02/2022;Mumbai;Chennai;5:50;Non stop;01 h 50 m;7:40;1 890
+519;Spicejet;18/02/2022;Mumbai;Chennai;6:00;Non stop;02 h;8:00;1 890
+520;Air India;18/02/2022;Mumbai;Chennai;9:00;Non stop;01 h 55 m;10:55;1 890
+521;IndiGo;18/02/2022;Mumbai;Chennai;15:15;Non stop;01 h 55 m;17:10;1 890
+522;IndiGo;18/02/2022;Mumbai;Chennai;16:25;Non stop;01 h 50 m;18:15;1 890
+523;IndiGo;18/02/2022;Mumbai;Chennai;19:30;Non stop;02 h 05 m;21:35;1 890
+524;Go First;18/02/2022;Mumbai;Chennai;20:15;Non stop;02 h 05 m;22:20;1 890
+525;IndiGo;18/02/2022;Mumbai;Chennai;21:25;Non stop;01 h 50 m;23:15;1 890
+526;Vistara;18/02/2022;Mumbai;Chennai;6:45;Non stop;02 h 05 m;8:50;1 899
+527;Vistara;18/02/2022;Mumbai;Chennai;9:45;Non stop;02 h 05 m;11:50;1 899
+528;Vistara;18/02/2022;Mumbai;Chennai;17:50;Non stop;02 h 05 m;19:55;1 899
+529;Vistara;18/02/2022;Mumbai;Chennai;21:00;Non stop;02 h 05 m;23:05;1 899
+530;Spicejet;18/02/2022;Mumbai;Chennai;19:30;Non stop;01 h 50 m;21:20;2 194
+531;AirAsia;18/02/2022;Mumbai;Chennai;7:55;1 stop ;07 h 30 m;15:25;2 600
+532;AirAsia;18/02/2022;Mumbai;Chennai;13:05;1 stop ;04 h 20 m;17:25;2 600
+533;AirAsia;18/02/2022;Mumbai;Chennai;8:15;1 stop ;13 h 10 m;21:25;2 600
+534;AirAsia;18/02/2022;Mumbai;Chennai;21:20;1 stop ;11 h 10 m;8:30;2 600
+535;IndiGo;18/02/2022;Mumbai;Chennai;6:15;1 stop ;05 h;11:15;2 626
+536;IndiGo;18/02/2022;Mumbai;Chennai;19:55;1 stop ;10 h;5:55;2 941
+537;IndiGo;18/02/2022;Mumbai;Chennai;16:20;1 stop ;03 h 45 m;20:05;2 978
+538;IndiGo;18/02/2022;Mumbai;Chennai;8:30;1 stop ;07 h 25 m;15:55;3 050
+539;Spicejet;18/02/2022;Mumbai;Chennai;23:45;1 stop ;18 h 40 m;18:25;3 092
+540;IndiGo;18/02/2022;Mumbai;Chennai;7:15;Non stop;02 h;9:15;3 175
+541;IndiGo;18/02/2022;Mumbai;Chennai;6:50;1 stop ;04 h 25 m;11:15;3 276
+542;IndiGo;18/02/2022;Mumbai;Chennai;12:45;1 stop ;07 h 20 m;20:05;3 276
+543;IndiGo;18/02/2022;Mumbai;Chennai;10:45;1 stop ;09 h 20 m;20:05;3 276
+544;IndiGo;18/02/2022;Mumbai;Chennai;17:10;1 stop ;04 h 55 m;22:05;3 276
+545;Air India;18/02/2022;Mumbai;Chennai;20:15;1 stop ;11 h 45 m;8:00;3 318
+546;IndiGo;18/02/2022;Mumbai;Chennai;10:45;1 stop ;04 h 20 m;15:05;3 534
+547;IndiGo;18/02/2022;Mumbai;Chennai;6:55;1 stop ;05 h 05 m;12:00;3 543
+548;IndiGo;18/02/2022;Mumbai;Chennai;9:30;1 stop ;06 h 25 m;15:55;3 543
+549;IndiGo;18/02/2022;Mumbai;Chennai;14:20;1 stop ;04 h 55 m;19:15;3 543
+550;IndiGo;18/02/2022;Mumbai;Chennai;9:15;1 stop ;06 h;15:15;4 542
+551;IndiGo;18/02/2022;Mumbai;Chennai;10:30;Non stop;02 h;12:30;4 631
+552;Vistara;18/02/2022;Mumbai;Chennai;10:25;1 stop ;05 h 55 m;16:20;4 674
+553;Vistara;18/02/2022;Mumbai;Chennai;15:45;1 stop ;07 h;22:45;4 674
+554;Air India;18/02/2022;Mumbai;Chennai;16:00;1 stop ;07 h 35 m;23:35;4 732
+555;Air India;18/02/2022;Mumbai;Chennai;10:25;2 stop ;05 h 50 m;16:15;4 757
+556;IndiGo;18/02/2022;Mumbai;Chennai;18:45;1 stop ;05 h 05 m;23:50;4 757
+556;IndiGo;5/4/22;DEL;GAU;5:05;Non-Stop;2h 25m;7:30;2 900
+557;AirAsia;5/4/22;DEL;GAU;5:45;Non-Stop;2h 40m;8:25;2 900
+558;AirAsia;5/4/22;DEL;GAU;7:10;Non-Stop;2h 15m;9:25;2 900
+559;IndiGo;5/4/22;DEL;GAU;7:10;Non-Stop;2h 30m;9:40;2 900
+560;Spicejet;5/4/22;DEL;GAU;10:15;Non-Stop;2h 30m;12:45;2 900
+561;Go First;5/4/22;DEL;GAU;12:30;Non-Stop;2h 30m;15:00;2 900
+562;IndiGo;5/4/22;DEL;GAU;12:30;Non-Stop;2h 35m;15:05;2 900
+563;AirAsia;5/4/22;DEL;GAU;12:50;Non-Stop;2h 20m;15:10;2 900
+564;IndiGo;5/4/22;DEL;GAU;15:25;Non-Stop;2h 25m;17:50;2 900
+565;IndiGo;5/4/22;DEL;GAU;17:35;Non-Stop;2h 25m;20:00;2 900
+566;AirAsia;5/4/22;DEL;GAU;18:45;Non-Stop;2h 25m;21:10;2 900
+567;Air India;5/4/22;DEL;GAU;9:30;Non-Stop;2h 40m;12:10;2 990
+568;Vistara;5/4/22;DEL;GAU;9:40;Non-Stop;2h 25m;12:05;2 990
+569;Vistara;5/4/22;DEL;GAU;15:00;Non-Stop;2h 30m;17:30;2 990
+570;Air India;5/4/22;DEL;GAU;16:15;Non-Stop;2h 30m;18:45;2 990
+571;IndiGo;5/4/22;DEL;GAU;10:50;1 Stop;4h 40m;15:30;3 590
+572;Air India;5/4/22;DEL;GAU;6:50;1 Stop;4h 15m;11:05;3 752
+573;Go First;5/4/22;DEL;GAU;5:45;1 Stop;10h 20m;16:05;4 147
+574;Go First;5/4/22;DEL;GAU;21:25;1 Stop;13h 10m;10:35;4 147
+575;Air India;5/4/22;DEL;GAU;20:15;1 Stop;14h 50m;11:05;4 153
+576;IndiGo;5/4/22;DEL;GAU;6:00;1 Stop;4h 40m;10:40;4 178
+577;IndiGo;5/4/22;DEL;GAU;5:00;1 Stop;5h 40m;10:40;4 178
+578;IndiGo;5/4/22;DEL;GAU;8:55;1 Stop;6h 15m;15:10;4 178
+579;IndiGo;5/4/22;DEL;GAU;6:30;1 Stop;8h 40m;15:10;4 178
+580;Go First;5/4/22;DEL;GAU;5:45;1 Stop;4h 50m;10:35;4 353
+581;Air India;5/4/22;DEL;GAU;12:10;1 Stop;6h 00m;18:10;4 653
+582;Go First;5/4/22;DEL;GAU;11:20;1 Stop;6h 05m;17:25;4 940
+583;Go First;5/4/22;DEL;GAU;10:50;1 Stop;4h 10m;15:00;5 044
+584;Spicejet;5/4/22;DEL;GAU;18:20;1 Stop;15h 15m;9:35;5 403
+585;Spicejet;5/4/22;DEL;GAU;9:15;1 Stop;24h 20m;9:35;5 403
+586;Spicejet;5/4/22;DEL;GAU;15:10;1 Stop;5h 00m;20:10;6 305
+587;Spicejet;5/4/22;DEL;GAU;7:25;1 Stop;12h 45m;20:10;6 305
+588;Spicejet;5/4/22;DEL;GAU;19:10;1 Stop;25h 00m;20:10;6 305
+589;IndiGo;10/4/22;GAU;DEL;6:30;Non-Stop;2h 40m;9:10;3 100
+590;AirAsia;10/4/22;GAU;DEL;8:55;Non-Stop;2h 55m;11:50;3 100
+591;IndiGo;10/4/22;GAU;DEL;10:45;Non-Stop;2h 40m;13:25;3 100
+592;AirAsia;10/4/22;GAU;DEL;12:40;Non-Stop;2h 50m;15:30;3 100
+593;IndiGo;10/4/22;GAU;DEL;12:55;Non-Stop;2h 40m;15:35;3 100
+594;Spicejet;10/4/22;GAU;DEL;16:00;Non-Stop;2h 40m;18:40;3 100
+595;IndiGo;10/4/22;GAU;DEL;18:20;Non-Stop;2h 40m;21:00;3 100
+596;AirAsia;10/4/22;GAU;DEL;18:50;Non-Stop;2h 45m;21:35;3 100
+597;IndiGo;10/4/22;GAU;DEL;20:30;Non-Stop;2h 40m;23:10;3 100
+598;AirAsia;10/4/22;GAU;DEL;21:40;Non-Stop;2h 55m;0:35;3 100
+599;Vistara;10/4/22;GAU;DEL;12:40;Non-Stop;2h 55m;15:35;3 339
+600;Go First;10/4/22;GAU;DEL;15:30;Non-Stop;2h 35m;18:05;3 339
+601;Air India;10/4/22;GAU;DEL;15:45;Non-Stop;2h 55m;18:40;3 339
+602;Go First;10/4/22;GAU;DEL;17:55;Non-Stop;2h 20m;20:15;3 339
+603;Vistara;10/4/22;GAU;DEL;18:05;Non-Stop;2h 35m;20:40;3 339
+604;Air India;10/4/22;GAU;DEL;19:20;Non-Stop;2h 45m;22:05;3 339
+605;IndiGo;10/4/22;GAU;DEL;10:25;1 Stop;6h 05m;16:30;3 939
+606;AirAsia;10/4/22;GAU;DEL;7:10;1 Stop;15h 15m;22:25;4 055
+607;Air India;10/4/22;GAU;DEL;11:40;1 Stop;6h 20m;18:00;4 101
+608;Air India;10/4/22;GAU;DEL;18:45;1 Stop;14h 30m;9:15;4 101
+609;Air India;10/4/22;GAU;DEL;18:10;1 Stop;4h 35m;22:45;4 281
+610;IndiGo;10/4/22;GAU;DEL;15:40;1 Stop;4h 20m;20:00;4 374
+611;IndiGo;10/4/22;GAU;DEL;15:40;1 Stop;5h 40m;21:20;4 374
+612;IndiGo;10/4/22;GAU;DEL;15:40;1 Stop;6h 35m;22:15;4 374
+613;IndiGo;10/4/22;GAU;DEL;11:10;1 Stop;7h 35m;18:45;4 374
+614;IndiGo;10/4/22;GAU;DEL;15:40;1 Stop;8h 25m;0:05;4 374
+615;IndiGo;10/4/22;GAU;DEL;11:10;1 Stop;10h 40m;21:50;4 374
+616;IndiGo;10/4/22;GAU;DEL;11:30;1 Stop;8h 55m;20:25;4 424
+617;IndiGo;10/4/22;GAU;DEL;8:00;1 Stop;9h 35m;17:35;4 424
+618;IndiGo;10/4/22;GAU;DEL;8:00;1 Stop;9h 50m;17:50;4 424
+619;IndiGo;10/4/22;GAU;DEL;9:55;1 Stop;10h 30m;20:25;4 424
+620;Go First;10/4/22;GAU;DEL;16:35;1 Stop;15h 30m;8:05;5 174
+621;Spicejet;10/4/22;GAU;DEL;20:35;1 Stop;24h 00m;20:35;5 239
+622;Spicejet;10/4/22;GAU;DEL;20:35;1 Stop;12h 10m;8:45;5 539
+623;Go First;10/4/22;GAU;DEL;11:05;1 Stop;5h 45m;16:50;5 888
+624;Spicejet;10/4/22;GAU;DEL;9:55;1 Stop;9h 30m;19:25;6 655
+625;Spicejet;10/4/22;GAU;DEL;9:55;1 Stop;13h 15m;23:10;6 655
+626;Spicejet;10/4/22;GAU;DEL;9:55;1 Stop;25h 25m;11:20;6 655
+627;Vistara;10/4/22;GAU;DEL;16:05;1 Stop;7h 40m;23:45;7 046
+628;Air India;10/4/22;GAU;DEL;18:45;2 Stops;14h 10m;8:55;7 327
+629;Air India;9/5/22;MAA;DEL;6:10;Non-Stop;2h 45m;8:55;2 271
+630;Air India;9/5/22;MAA;DEL;9:55;Non-Stop;3h 05m;13:00;2 271
+631;Air India;9/5/22;MAA;DEL;17:00;Non-Stop;2h 50m;19:50;2 271
+632;Spicejet;9/5/22;MAA;DEL;22:05;Non-Stop;2h 45m;0:50;2 730
+633;Vistara;9/5/22;MAA;DEL;17:25;Non-Stop;2h 45m;20:10;2 777
+634;Spicejet;9/5/22;MAA;DEL;7:05;Non-Stop;2h 45m;9:50;3 046
+635;Vistara;9/5/22;MAA;DEL;7:05;Non-Stop;2h 50m;9:55;3 092
+636;Vistara;9/5/22;MAA;DEL;21:05;Non-Stop;2h 50m;23:55;3 092
+637;IndiGo;9/5/22;MAA;DEL;14:05;Non-Stop;2h 55m;17:00;3 191
+638;IndiGo;9/5/22;MAA;DEL;16:20;Non-Stop;2h 55m;19:15;3 191
+639;IndiGo;9/5/22;MAA;DEL;18:15;Non-Stop;2h 50m;21:05;3 191
+640;IndiGo;9/5/22;MAA;DEL;19:35;Non-Stop;2h 55m;22:30;3 191
+641;IndiGo;9/5/22;MAA;DEL;22:30;Non-Stop;2h 55m;1:25;3 191
+642;Air India;9/5/22;MAA;DEL;8:30;1 Stop;10h 00m;18:30;3 234
+643;IndiGo;9/5/22;MAA;DEL;19:40;1 Stop;5h 10m;0:50;3 472
+644;IndiGo;9/5/22;MAA;DEL;18:10;1 Stop;5h 55m;0:05;3 472
+645;IndiGo;9/5/22;MAA;DEL;12:00;1 Stop;6h 25m;18:25;3 472
+646;IndiGo;9/5/22;MAA;DEL;18:10;1 Stop;6h 40m;0:50;3 472
+647;IndiGo;9/5/22;MAA;DEL;15:50;1 Stop;6h 45m;22:35;3 472
+648;IndiGo;9/5/22;MAA;DEL;15:50;1 Stop;8h 15m;0:05;3 472
+649;IndiGo;9/5/22;MAA;DEL;9:55;1 Stop;8h 30m;18:25;3 472
+650;IndiGo;9/5/22;MAA;DEL;15:50;1 Stop;9h 00m;0:50;3 472
+651;IndiGo;9/5/22;MAA;DEL;12:00;1 Stop;10h 35m;22:35;3 472
+652;Air India;9/5/22;MAA;DEL;19:10;1 Stop;13h 45m;8:55;3 538
+653;IndiGo;9/5/22;MAA;DEL;6:25;1 Stop;7h 25m;13:50;3 783
+654;IndiGo;9/5/22;MAA;DEL;22:45;1 Stop;8h 30m;7:15;3 810
+655;IndiGo;9/5/22;MAA;DEL;21:15;1 Stop;10h 00m;7:15;3 810
+656;IndiGo;9/5/22;MAA;DEL;22:45;1 Stop;10h 40m;9:25;3 810
+657;IndiGo;9/5/22;MAA;DEL;19:40;1 Stop;11h 35m;7:15;3 810
+658;Air India;9/5/22;MAA;DEL;14:55;1 Stop;5h 35m;20:30;3 916
+659;IndiGo;9/5/22;MAA;DEL;6:05;Non-Stop;2h 50m;8:55;4 157
+660;IndiGo;9/5/22;MAA;DEL;8:35;Non-Stop;2h 55m;11:30;4 157
+661;IndiGo;9/5/22;MAA;DEL;10:45;Non-Stop;2h 50m;13:35;4 157
+662;IndiGo;9/5/22;MAA;DEL;17:00;1 Stop;5h 35m;22:35;4 207
+663;IndiGo;9/5/22;MAA;DEL;17:00;1 Stop;7h 05m;0:05;4 207
+664;IndiGo;9/5/22;MAA;DEL;17:00;1 Stop;7h 50m;0:50;4 207
+665;Go First;9/5/22;MAA;DEL;13:05;1 Stop;11h 25m;0:30;4 238
+666;IndiGo;9/5/22;MAA;DEL;4:45;1 Stop;7h 20m;12:05;4 281
+667;IndiGo;9/5/22;MAA;DEL;12:00;1 Stop;8h 10m;20:10;4 281
+668;IndiGo;9/5/22;MAA;DEL;9:55;1 Stop;10h 15m;20:10;4 281
+669;IndiGo;9/5/22;MAA;DEL;6:35;1 Stop;5h 30m;12:05;4 431
+670;Air India;9/5/22;MAA;DEL;11:20;1 Stop;6h 40m;18:00;4 452
+671;Go First;9/5/22;MAA;DEL;5:00;1 Stop;7h 25m;12:25;4 505
+672;Go First;9/5/22;MAA;DEL;13:45;1 Stop;7h 25m;21:10;4 505
+673;Go First;9/5/22;MAA;DEL;13:45;1 Stop;9h 10m;22:55;4 505
+674;Go First;9/5/22;MAA;DEL;13:45;1 Stop;9h 45m;23:30;4 505
+675;Go First;9/5/22;MAA;DEL;5:00;1 Stop;10h 55m;15:55;4 505
+676;Go First;9/5/22;MAA;DEL;13:45;1 Stop;11h 25m;1:10;4 505
+677;Go First;9/5/22;MAA;DEL;13:45;1 Stop;12h 10m;1:55;4 505
+678;Spicejet;9/5/22;MAA;DEL;6:25;1 Stop;15h 05m;21:30;4 516
+679;Spicejet;9/5/22;MAA;DEL;6:25;1 Stop;27h 10m;9:35;4 516
+680;Go First;9/5/22;MAA;DEL;5:00;1 Stop;5h 15m;10:15;4 629
+681;Go First;9/5/22;MAA;DEL;5:00;1 Stop;9h 20m;14:20;4 629
+682;Spicejet;9/5/22;MAA;DEL;6:25;1 Stop;6h 05m;12:30;4 830
+683;Spicejet;9/5/22;MAA;DEL;6:25;1 Stop;16h 10m;22:35;4 830
+684;Spicejet;9/5/22;MAA;DEL;21:55;1 Stop;11h 40m;9:35;4 838
+685;Spicejet;9/5/22;MAA;DEL;21:55;1 Stop;23h 35m;21:30;4 838
+686;Spicejet;9/5/22;MAA;DEL;21:55;1 Stop;14h 35m;12:30;5 154
+687;Spicejet;9/5/22;MAA;DEL;21:55;1 Stop;24h 40m;22:35;5 154
+688;IndiGo;9/5/22;MAA;DEL;15:30;1 Stop;10h 25m;1:55;5 245
+689;AirAsia;9/5/22;MAA;DEL;22:35;1 Stop;5h 00m;3:35;5 301
+690;Spicejet;9/5/22;MAA;DEL;6:55;1 Stop;5h 10m;12:05;5 698
+691;Spicejet;9/5/22;MAA;DEL;20:25;1 Stop;6h 25m;2:50;5 698
+692;Spicejet;9/5/22;MAA;DEL;20:25;1 Stop;12h 15m;8:40;5 698
+693;Spicejet;9/5/22;MAA;DEL;20:25;1 Stop;15h 40m;12:05;5 698
+694;Spicejet;9/5/22;MAA;DEL;6:55;1 Stop;19h 55m;2:50;5 698
+695;Spicejet;9/5/22;MAA;DEL;6:55;1 Stop;25h 45m;8:40;5 698
+696;Spicejet;9/5/22;MAA;DEL;6:55;1 Stop;16h 30m;23:25;6 118
+697;IndiGo;9/5/22;MAA;DEL;17:00;1 Stop;6h 05m;23:05;6 213
+698;IndiGo;9/5/22;MAA;DEL;10:55;1 Stop;7h 50m;18:45;6 234
+699;IndiGo;9/5/22;MAA;DEL;10:55;1 Stop;10h 55m;21:50;6 234
+700;Go First;9/5/22;MAA;DEL;14:05;1 Stop;4h 55m;19:00;6 423
+701;Go First;9/5/22;MAA;DEL;14:05;1 Stop;7h 25m;21:30;6 423
+702;Go First;9/5/22;MAA;DEL;14:05;1 Stop;10h 55m;1:00;6 423
+703;IndiGo;9/5/22;MAA;DEL;10:45;1 Stop;10h 15m;21:00;6 563
+704;IndiGo;9/5/22;MAA;DEL;16:35;1 Stop;6h 00m;22:35;6 670
+705;IndiGo;9/5/22;MAA;DEL;10:55;1 Stop;5h 40m;16:35;6 701
+706;IndiGo;9/5/22;MAA;DEL;10:55;1 Stop;9h 45m;20:40;6 701
+707;Spicejet;9/5/22;MAA;DEL;10:30;1 Stop;8h 55m;19:25;7 440
+708;Spicejet;9/5/22;MAA;DEL;10:30;1 Stop;24h 10m;10:40;7 440
+709;IndiGo;9/5/22;MAA;DEL;10:55;1 Stop;11h 05m;22:00;7 868
+710;IndiGo;9/5/22;MAA;DEL;10:05;1 Stop;9h 10m;19:15;8 068
+711;IndiGo;9/5/22;MAA;DEL;8:15;1 Stop;5h 10m;13:25;8 140
+712;IndiGo;9/5/22;MAA;DEL;8:15;1 Stop;10h 30m;18:45;8 140
+713;Spicejet;9/5/22;MAA;DEL;17:10;1 Stop;18h 10m;11:20;8 191
+714;Go First;9/5/22;MAA;DEL;6:30;1 Stop;14h 05m;20:35;10 082
+715;Air India;14/05/2022;DEL;MAA;6:00;Non-Stop;2h 55m;8:55;2 343
+716;Air India;14/05/2022;DEL;MAA;9:45;Non-Stop;2h 55m;12:40;2 343
+717;Air India;14/05/2022;DEL;MAA;20:40;Non-Stop;2h 55m;23:35;2 343
+718;Spicejet;14/05/2022;DEL;MAA;6:10;Non-Stop;3h 00m;9:10;2 831
+719;Spicejet;14/05/2022;DEL;MAA;18:45;Non-Stop;2h 50m;21:35;2 831
+720;Spicejet;14/05/2022;DEL;MAA;20:25;Non-Stop;2h 55m;23:20;2 831
+721;Vistara;14/05/2022;DEL;MAA;7:10;Non-Stop;2h 45m;9:55;2 849
+722;Vistara;14/05/2022;DEL;MAA;17:25;Non-Stop;2h 50m;20:15;3 164
+723;Vistara;14/05/2022;DEL;MAA;19:55;Non-Stop;2h 50m;22:45;3 164
+724;Go First;14/05/2022;DEL;MAA;7:40;1 Stop;4h 55m;12:35;3 213
+725;Air India;14/05/2022;DEL;MAA;21:10;1 Stop;10h 50m;8:00;3 306
+726;Air India;14/05/2022;DEL;MAA;9:45;1 Stop;12h 50m;22:35;3 610
+727;IndiGo;14/05/2022;DEL;MAA;7:10;Non-Stop;2h 55m;10:05;3 705
+728;IndiGo;14/05/2022;DEL;MAA;8:30;Non-Stop;2h 55m;11:25;3 705
+729;IndiGo;14/05/2022;DEL;MAA;12:45;Non-Stop;2h 55m;15:40;3 705
+730;IndiGo;14/05/2022;DEL;MAA;18:45;Non-Stop;2h 55m;21:40;3 705
+731;IndiGo;14/05/2022;DEL;MAA;20:30;Non-Stop;2h 50m;23:20;3 705
+732;IndiGo;14/05/2022;DEL;MAA;23:10;Non-Stop;2h 55m;2:05;3 705
+733;IndiGo;14/05/2022;DEL;MAA;23:15;1 Stop;6h 40m;5:55;3 755
+734;IndiGo;14/05/2022;DEL;MAA;7:55;1 Stop;7h 15m;15:10;3 755
+735;IndiGo;14/05/2022;DEL;MAA;23:15;1 Stop;8h 05m;7:20;3 755
+736;IndiGo;14/05/2022;DEL;MAA;6:40;1 Stop;8h 30m;15:10;3 755
+737;IndiGo;14/05/2022;DEL;MAA;21:15;1 Stop;8h 40m;5:55;3 755
+738;IndiGo;14/05/2022;DEL;MAA;23:15;1 Stop;8h 50m;8:05;3 755
+739;IndiGo;14/05/2022;DEL;MAA;7:55;1 Stop;9h 35m;17:30;3 755
+740;IndiGo;14/05/2022;DEL;MAA;21:15;1 Stop;10h 05m;7:20;3 755
+741;IndiGo;14/05/2022;DEL;MAA;6:40;1 Stop;10h 50m;17:30;3 755
+742;IndiGo;14/05/2022;DEL;MAA;21:15;1 Stop;10h 50m;8:05;3 755
+743;IndiGo;14/05/2022;DEL;MAA;7:55;1 Stop;11h 00m;18:55;3 755
+744;Air India;14/05/2022;DEL;MAA;20:00;1 Stop;11h 15m;7:15;3 988
+745;Air India;14/05/2022;DEL;MAA;19:00;1 Stop;12h 15m;7:15;3 988
+746;Air India;14/05/2022;DEL;MAA;17:50;2 Stops;13h 25m;7:15;3 988
+747;IndiGo;14/05/2022;DEL;MAA;16:20;Non-Stop;2h 55m;19:15;4 230
+748;IndiGo;14/05/2022;DEL;MAA;17:25;Non-Stop;2h 55m;20:20;4 230
+749;AirAsia;14/05/2022;DEL;MAA;5:00;1 Stop;11h 05m;16:05;4 474
+750;Go First;14/05/2022;DEL;MAA;8:10;1 Stop;5h 15m;13:25;4 508
+751;Air India;14/05/2022;DEL;MAA;6:50;1 Stop;10h 15m;17:05;4 524
+752;IndiGo;14/05/2022;DEL;MAA;19:30;1 Stop;4h 55m;0:25;4 543
+753;IndiGo;14/05/2022;DEL;MAA;9:35;1 Stop;5h 35m;15:10;4 543
+754;IndiGo;14/05/2022;DEL;MAA;9:35;1 Stop;7h 55m;17:30;4 543
+755;IndiGo;14/05/2022;DEL;MAA;9:35;1 Stop;9h 20m;18:55;4 543
+756;IndiGo;14/05/2022;DEL;MAA;19:30;1 Stop;10h 25m;5:55;4 543
+757;IndiGo;14/05/2022;DEL;MAA;9:35;1 Stop;10h 45m;20:20;4 543
+758;IndiGo;14/05/2022;DEL;MAA;13:00;1 Stop;5h 55m;18:55;4 564
+759;IndiGo;14/05/2022;DEL;MAA;17:40;1 Stop;6h 45m;0:25;4 564
+760;IndiGo;14/05/2022;DEL;MAA;13:00;1 Stop;7h 20m;20:20;4 564
+761;IndiGo;14/05/2022;DEL;MAA;13:00;1 Stop;9h 05m;22:05;4 564
+762;IndiGo;14/05/2022;DEL;MAA;13:00;1 Stop;11h 25m;0:25;4 564
+763;Spicejet;14/05/2022;DEL;MAA;8:50;1 Stop;12h 55m;21:45;4 617
+764;Spicejet;14/05/2022;DEL;MAA;19:45;1 Stop;26h 00m;21:45;4 617
+765;Go First;14/05/2022;DEL;MAA;14:30;1 Stop;6h 10m;20:40;4 656
+766;Go First;14/05/2022;DEL;MAA;22:45;1 Stop;9h 00m;7:45;4 656
+767;Go First;14/05/2022;DEL;MAA;10:55;1 Stop;9h 45m;20:40;4 656
+768;Go First;14/05/2022;DEL;MAA;20:50;1 Stop;10h 55m;7:45;4 656
+769;Go First;14/05/2022;DEL;MAA;19:45;1 Stop;12h 00m;7:45;4 656
+770;Go First;14/05/2022;DEL;MAA;8:00;1 Stop;12h 40m;20:40;4 656
+771;Go First;14/05/2022;DEL;MAA;6:50;1 Stop;13h 50m;20:40;4 656
+772;Go First;14/05/2022;DEL;MAA;15:45;1 Stop;16h 00m;7:45;4 656
+773;Spicejet;14/05/2022;DEL;MAA;7:20;1 Stop;14h 25m;21:45;4 931
+774;Spicejet;14/05/2022;DEL;MAA;18:45;1 Stop;27h 00m;21:45;4 931
+775;IndiGo;14/05/2022;DEL;MAA;5:30;1 Stop;5h 35m;11:05;4 998
+776;AirAsia;14/05/2022;DEL;MAA;9:35;1 Stop;6h 55m;16:30;5 505
+777;AirAsia;14/05/2022;DEL;MAA;8:00;1 Stop;8h 30m;16:30;5 505
+778;Air India;14/05/2022;DEL;MAA;6:10;1 Stop;6h 40m;12:50;5 519
+779;IndiGo;14/05/2022;DEL;MAA;14:00;1 Stop;5h 30m;19:30;5 640
+780;Spicejet;14/05/2022;DEL;MAA;21:45;1 Stop;11h 25m;9:10;5 796
+781;Spicejet;14/05/2022;DEL;MAA;6:15;1 Stop;15h 25m;21:40;5 796
+782;Spicejet;14/05/2022;DEL;MAA;21:45;1 Stop;23h 55m;21:40;5 796
+783;AirAsia;14/05/2022;DEL;MAA;9:25;1 Stop;5h 40m;15:05;5 928
+784;Go First;14/05/2022;DEL;MAA;20:15;1 Stop;14h 25m;10:40;6 093
+785;Spicejet;14/05/2022;DEL;MAA;20:35;1 Stop;12h 35m;9:10;6 216
+786;Spicejet;14/05/2022;DEL;MAA;16:35;1 Stop;16h 35m;9:10;6 216
+787;Spicejet;14/05/2022;DEL;MAA;20:35;1 Stop;25h 05m;21:40;6 216
+788;IndiGo;14/05/2022;DEL;MAA;13:50;1 Stop;8h 25m;22:15;6 370
+789;IndiGo;14/05/2022;DEL;MAA;7:20;1 Stop;5h 15m;12:35;6 443
+790;IndiGo;14/05/2022;DEL;MAA;6:05;1 Stop;6h 30m;12:35;6 443
+791;IndiGo;14/05/2022;DEL;MAA;7:05;1 Stop;9h 15m;16:20;6 774
+792;Go First;14/05/2022;DEL;MAA;18:20;1 Stop;13h 25m;7:45;6 918
+793;IndiGo;14/05/2022;DEL;MAA;14:40;1 Stop;5h 20m;20:00;7 048
+794;IndiGo;14/05/2022;DEL;MAA;13:00;1 Stop;7h 00m;20:00;7 048
+795;IndiGo;14/05/2022;DEL;MAA;5:10;1 Stop;4h 55m;10:05;7 779
+796;IndiGo;14/05/2022;DEL;MAA;5:10;1 Stop;8h 45m;13:55;7 779
+797;Go First;14/05/2022;DEL;MAA;16:45;1 Stop;8h 15m;1:00;8 148
+798;Spicejet;14/05/2022;DEL;MAA;6:30;1 Stop;15h 50m;22:20;8 265
+799;IndiGo;14/05/2022;DEL;MAA;14:35;1 Stop;6h 25m;21:00;8 370
+800;Spicejet;14/05/2022;DEL;MAA;12:00;1 Stop;4h 30m;16:30;8 790
+801;IndiGo;10/4/22;BLR;CCU;8:55;1 Stop;4h 25m;13:20;3 069
+802;IndiGo;10/4/22;BLR;CCU;7:05;1 Stop;6h 15m;13:20;3 069
+803;IndiGo;10/4/22;BLR;CCU;23:45;1 Stop;6h 20m;6:05;3 069
+804;IndiGo;10/4/22;BLR;CCU;12:55;1 Stop;6h 35m;19:30;3 069
+805;IndiGo;10/4/22;BLR;CCU;16:20;1 Stop;6h 35m;22:55;3 069
+806;IndiGo;10/4/22;BLR;CCU;6:05;1 Stop;7h 15m;13:20;3 069
+807;IndiGo;10/4/22;BLR;CCU;23:45;1 Stop;8h 05m;7:50;3 069
+808;IndiGo;10/4/22;BLR;CCU;21:55;1 Stop;8h 10m;6:05;3 069
+809;IndiGo;10/4/22;BLR;CCU;10:15;1 Stop;9h 15m;19:30;3 069
+810;IndiGo;10/4/22;BLR;CCU;21:55;1 Stop;9h 55m;7:50;3 069
+811;IndiGo;10/4/22;BLR;CCU;12:55;1 Stop;10h 00m;22:55;3 069
+812;IndiGo;10/4/22;BLR;CCU;20:05;1 Stop;10h 00m;6:05;3 069
+813;IndiGo;10/4/22;BLR;CCU;8:55;1 Stop;10h 35m;19:30;3 069
+814;IndiGo;10/4/22;BLR;CCU;18:45;1 Stop;11h 20m;6:05;3 069
+815;Air India;10/4/22;BLR;CCU;5:45;Non-Stop;2h 35m;8:20;3 393
+816;AirAsia;10/4/22;BLR;CCU;6:30;Non-Stop;2h 30m;9:00;3 393
+817;Go First;10/4/22;BLR;CCU;14:00;Non-Stop;2h 30m;16:30;3 393
+818;AirAsia;10/4/22;BLR;CCU;17:20;Non-Stop;2h 25m;19:45;3 393
+819;AirAsia;10/4/22;BLR;CCU;18:30;Non-Stop;2h 35m;21:05;3 393
+820;Go First;10/4/22;BLR;CCU;20:00;Non-Stop;2h 20m;22:20;3 393
+821;AirAsia;10/4/22;BLR;CCU;23:10;Non-Stop;2h 25m;1:35;3 393
+822;IndiGo;10/4/22;BLR;CCU;16:55;1 Stop;4h 40m;21:35;3 393
+823;IndiGo;10/4/22;BLR;CCU;18:05;1 Stop;5h 10m;23:15;3 393
+824;IndiGo;10/4/22;BLR;CCU;15:55;1 Stop;5h 20m;21:15;3 393
+825;IndiGo;10/4/22;BLR;CCU;14:50;1 Stop;5h 30m;20:20;3 393
+826;IndiGo;10/4/22;BLR;CCU;17:10;1 Stop;6h 05m;23:15;3 393
+827;IndiGo;10/4/22;BLR;CCU;14:50;1 Stop;6h 25m;21:15;3 393
+828;IndiGo;10/4/22;BLR;CCU;15:55;1 Stop;7h 20m;23:15;3 393
+829;IndiGo;10/4/22;BLR;CCU;6:25;1 Stop;7h 40m;14:05;3 393
+830;IndiGo;10/4/22;BLR;CCU;14:50;1 Stop;8h 25m;23:15;3 393
+831;IndiGo;10/4/22;BLR;CCU;22:45;1 Stop;8h 25m;7:10;3 393
+832;IndiGo;10/4/22;BLR;CCU;8:40;1 Stop;8h 50m;17:30;3 393
+833;IndiGo;10/4/22;BLR;CCU;10:55;1 Stop;9h 25m;20:20;3 393
+834;IndiGo;10/4/22;BLR;CCU;22:45;1 Stop;9h 35m;8:20;3 393
+835;IndiGo;10/4/22;BLR;CCU;12:50;1 Stop;10h 10m;23:00;3 393
+836;IndiGo;10/4/22;BLR;CCU;10:55;1 Stop;10h 20m;21:15;3 393
+837;IndiGo;10/4/22;BLR;CCU;9:30;1 Stop;10h 50m;20:20;3 393
+838;IndiGo;10/4/22;BLR;CCU;20:45;1 Stop;10h 50m;7:35;3 393
+839;IndiGo;10/4/22;BLR;CCU;19:55;1 Stop;11h 15m;7:10;3 393
+840;IndiGo;10/4/22;BLR;CCU;6:05;1 Stop;11h 25m;17:30;3 393
+841;IndiGo;10/4/22;BLR;CCU;8:40;1 Stop;11h 35m;20:15;3 393
+842;AirAsia;10/4/22;BLR;CCU;7:40;1 Stop;5h 15m;12:55;3 463
+843;IndiGo;10/4/22;BLR;CCU;5:25;1 Stop;9h 10m;14:35;3 910
+844;Spicejet;10/4/22;BLR;CCU;5:15;Non-Stop;3h 10m;8:25;3 911
+845;AirAsia;10/4/22;BLR;CCU;7:30;1 Stop;5h 50m;13:20;3 911
+846;Go First;10/4/22;BLR;CCU;19:35;1 Stop;12h 20m;7:55;3 943
+847;Go First;10/4/22;BLR;CCU;14:55;1 Stop;6h 40m;21:35;4 201
+848;Spicejet;10/4/22;BLR;CCU;18:05;Non-Stop;2h 35m;20:40;4 225
+849;IndiGo;10/4/22;BLR;CCU;6:35;Non-Stop;2h 30m;9:05;4 226
+850;IndiGo;10/4/22;BLR;CCU;8:55;Non-Stop;2h 35m;11:30;4 226
+851;IndiGo;10/4/22;BLR;CCU;11:40;Non-Stop;2h 30m;14:10;4 226
+852;IndiGo;10/4/22;BLR;CCU;13:15;Non-Stop;2h 35m;15:50;4 226
+853;IndiGo;10/4/22;BLR;CCU;15:15;Non-Stop;2h 40m;17:55;4 226
+854;IndiGo;10/4/22;BLR;CCU;18:00;Non-Stop;2h 40m;20:40;4 226
+855;IndiGo;10/4/22;BLR;CCU;20:00;Non-Stop;2h 35m;22:35;4 226
+856;IndiGo;10/4/22;BLR;CCU;21:40;Non-Stop;2h 35m;0:15;4 226
+857;IndiGo;10/4/22;BLR;CCU;23:25;Non-Stop;2h 35m;2:00;4 226
+858;Air India;10/4/22;BLR;CCU;11:50;1 Stop;4h 10m;16:00;4 235
+859;IndiGo;10/4/22;BLR;CCU;10:55;1 Stop;6h 40m;17:35;4 335
+860;IndiGo;10/4/22;BLR;CCU;9:30;1 Stop;8h 05m;17:35;4 335
+861;IndiGo;10/4/22;BLR;CCU;8:00;1 Stop;9h 35m;17:35;4 440
+862;IndiGo;10/4/22;BLR;CCU;7:00;1 Stop;10h 35m;17:35;4 440
+863;IndiGo;10/4/22;BLR;CCU;17:10;1 Stop;5h 35m;22:45;4 477
+864;IndiGo;10/4/22;BLR;CCU;17:15;1 Stop;7h 30m;0:45;4 477
+865;IndiGo;10/4/22;BLR;CCU;7:05;1 Stop;11h 05m;18:10;4 477
+866;Go First;10/4/22;BLR;CCU;16:20;1 Stop;7h 30m;23:50;4 521
+867;Go First;10/4/22;BLR;CCU;22:25;1 Stop;9h 05m;7:30;4 521
+868;Go First;10/4/22;BLR;CCU;16:20;1 Stop;15h 10m;7:30;4 521
+869;Go First;10/4/22;BLR;CCU;8:20;1 Stop;15h 30m;23:50;4 521
+870;Vistara;10/4/22;BLR;CCU;9:30;1 Stop;7h 25m;16:55;4 707
+871;Spicejet;10/4/22;BLR;CCU;20:50;1 Stop;12h 35m;9:25;4 909
+872;Spicejet;10/4/22;BLR;CCU;8:10;1 Stop;25h 15m;9:25;4 909
+873;AirAsia;10/4/22;BLR;CCU;15:40;1 Stop;3h 40m;19:20;5 651
+874;Go First;10/4/22;BLR;CCU;21:00;1 Stop;10h 50m;7:50;5 712
+875;Go First;10/4/22;BLR;CCU;7:45;1 Stop;15h 55m;23:40;5 712
+876;Spicejet;10/4/22;BLR;CCU;14:10;1 Stop;6h 30m;20:40;5 890
+877;Go First;10/4/22;BLR;CCU;5:30;1 Stop;8h 40m;14:10;5 902
+878;Go First;10/4/22;BLR;CCU;23:30;1 Stop;14h 40m;14:10;5 902
+879;IndiGo;10/4/22;BLR;CCU;7:55;2 Stops;7h 15m;15:10;7 005
+880;IndiGo;10/4/22;BLR;CCU;7:55;2 Stops;7h 55m;15:50;7 005
+881;IndiGo;10/4/22;BLR;CCU;7:55;2 Stops;10h 45m;18:40;7 005
+882;IndiGo;10/4/22;BLR;CCU;7:55;2 Stops;12h 40m;20:35;7 005
+883;Go First;10/4/22;BLR;CCU;8:35;1 Stop;13h 20m;21:55;7 238
+884;IndiGo;10/4/22;BLR;CCU;10:00;1 Stop;5h 10m;15:10;7 462
+885;IndiGo;10/4/22;BLR;CCU;10:00;1 Stop;5h 50m;15:50;7 462
+886;IndiGo;10/4/22;BLR;CCU;10:00;1 Stop;8h 40m;18:40;7 462
+887;IndiGo;10/4/22;BLR;CCU;10:00;1 Stop;10h 35m;20:35;7 462
+888;Spicejet;10/4/22;BLR;CCU;5:45;1 Stop;15h 40m;21:25;7 534
+889;Spicejet;10/4/22;BLR;CCU;19:05;1 Stop;26h 20m;21:25;7 534
+890;Go First;10/4/22;BLR;CCU;18:45;1 Stop;13h 50m;8:35;8 489
+891;Go First;16/04/2022;CCU;BLR;9:30;Non-Stop;2h 40m;12:10;3 860
+892;Go First;16/04/2022;CCU;BLR;16:45;Non-Stop;2h 35m;19:20;3 860
+893;AirAsia;16/04/2022;CCU;BLR;9:40;Non-Stop;2h 40m;12:20;3 862
+894;AirAsia;16/04/2022;CCU;BLR;13:30;Non-Stop;2h 45m;16:15;3 862
+895;AirAsia;16/04/2022;CCU;BLR;16:05;Non-Stop;2h 50m;18:55;3 862
+896;AirAsia;16/04/2022;CCU;BLR;21:35;Non-Stop;2h 50m;0:25;3 862
+897;Air India;16/04/2022;CCU;BLR;20:45;Non-Stop;2h 35m;23:20;3 863
+898;AirAsia;16/04/2022;CCU;BLR;7:35;1 Stop;9h 25m;17:00;4 043
+899;AirAsia;16/04/2022;CCU;BLR;13:30;1 Stop;10h 15m;23:45;4 043
+900;AirAsia;16/04/2022;CCU;BLR;4:40;1 Stop;10h 50m;15:30;4 168
+901;Air India;16/04/2022;CCU;BLR;9:10;2 Stops;13h 05m;22:15;4 169
+902;Go First;16/04/2022;CCU;BLR;20:00;1 Stop;11h 05m;7:05;4 215
+903;AirAsia;16/04/2022;CCU;BLR;5:25;1 Stop;5h 50m;11:15;4 451
+904;AirAsia;16/04/2022;CCU;BLR;19:55;1 Stop;15h 20m;11:15;4 451
+905;Spicejet;16/04/2022;CCU;BLR;7:35;Non-Stop;2h 25m;10:00;4 461
+906;Spicejet;16/04/2022;CCU;BLR;21:30;Non-Stop;2h 50m;0:20;4 461
+907;AirAsia;16/04/2022;CCU;BLR;13:55;1 Stop;9h 50m;23:45;4 606
+908;IndiGo;16/04/2022;CCU;BLR;5:25;Non-Stop;2h 30m;7:55;4 641
+909;IndiGo;16/04/2022;CCU;BLR;7:15;Non-Stop;2h 30m;9:45;4 641
+910;IndiGo;16/04/2022;CCU;BLR;9:15;Non-Stop;2h 30m;11:45;4 641
+911;IndiGo;16/04/2022;CCU;BLR;11:40;Non-Stop;2h 35m;14:15;4 641
+912;IndiGo;16/04/2022;CCU;BLR;14:05;Non-Stop;2h 35m;16:40;4 641
+913;IndiGo;16/04/2022;CCU;BLR;16:15;Non-Stop;2h 35m;18:50;4 641
+914;IndiGo;16/04/2022;CCU;BLR;18:35;Non-Stop;2h 35m;21:10;4 641
+915;IndiGo;16/04/2022;CCU;BLR;19:55;Non-Stop;2h 35m;22:30;4 641
+916;IndiGo;16/04/2022;CCU;BLR;21:20;Non-Stop;2h 35m;23:55;4 641
+917;IndiGo;16/04/2022;CCU;BLR;13:05;1 Stop;8h 10m;21:15;4 707
+918;IndiGo;16/04/2022;CCU;BLR;4:55;1 Stop;4h 55m;9:50;4 775
+919;IndiGo;16/04/2022;CCU;BLR;6:25;1 Stop;5h 45m;12:10;4 775
+920;IndiGo;16/04/2022;CCU;BLR;8:05;1 Stop;6h 05m;14:10;4 775
+921;IndiGo;16/04/2022;CCU;BLR;23:55;1 Stop;6h 20m;6:15;4 775
+922;IndiGo;16/04/2022;CCU;BLR;4:55;1 Stop;7h 15m;12:10;4 775
+923;IndiGo;16/04/2022;CCU;BLR;8:05;1 Stop;7h 25m;15:30;4 775
+924;IndiGo;16/04/2022;CCU;BLR;6:25;1 Stop;7h 45m;14:10;4 775
+925;IndiGo;16/04/2022;CCU;BLR;21:55;1 Stop;8h 20m;6:15;4 775
+926;IndiGo;16/04/2022;CCU;BLR;23:55;1 Stop;8h 35m;8:30;4 775
+927;IndiGo;16/04/2022;CCU;BLR;6:25;1 Stop;9h 05m;15:30;4 775
+928;IndiGo;16/04/2022;CCU;BLR;8:05;1 Stop;9h 10m;17:15;4 775
+929;IndiGo;16/04/2022;CCU;BLR;4:55;1 Stop;9h 15m;14:10;4 775
+930;IndiGo;16/04/2022;CCU;BLR;23:55;1 Stop;9h 55m;9:50;4 775
+931;IndiGo;16/04/2022;CCU;BLR;4:55;1 Stop;10h 35m;15:30;4 775
+932;IndiGo;16/04/2022;CCU;BLR;21:55;1 Stop;10h 35m;8:30;4 775
+933;IndiGo;16/04/2022;CCU;BLR;6:25;1 Stop;10h 50m;17:15;4 775
+934;IndiGo;16/04/2022;CCU;BLR;8:05;1 Stop;10h 50m;18:55;4 775
+935;IndiGo;16/04/2022;CCU;BLR;15:00;1 Stop;5h 00m;20:00;4 985
+936;IndiGo;16/04/2022;CCU;BLR;15:00;1 Stop;7h 00m;22:00;4 985
+937;IndiGo;16/04/2022;CCU;BLR;17:35;1 Stop;7h 40m;1:15;5 138
+938;IndiGo;16/04/2022;CCU;BLR;15:20;1 Stop;9h 55m;1:15;5 138
+939;IndiGo;16/04/2022;CCU;BLR;6:25;1 Stop;11h 00m;17:25;5 138
+940;IndiGo;16/04/2022;CCU;BLR;14:30;1 Stop;7h 35m;22:05;5 337
+941;IndiGo;16/04/2022;CCU;BLR;20:10;1 Stop;4h 50m;1:00;5 571
+942;IndiGo;16/04/2022;CCU;BLR;14:00;1 Stop;5h 25m;19:25;5 571
+943;IndiGo;16/04/2022;CCU;BLR;6:50;1 Stop;6h 20m;13:10;5 571
+944;IndiGo;16/04/2022;CCU;BLR;14:00;1 Stop;7h 00m;21:00;5 571
+945;IndiGo;16/04/2022;CCU;BLR;11:00;1 Stop;7h 05m;18:05;5 571
+946;IndiGo;16/04/2022;CCU;BLR;23:35;1 Stop;7h 35m;7:10;5 571
+947;IndiGo;16/04/2022;CCU;BLR;11:00;1 Stop;8h 25m;19:25;5 571
+948;IndiGo;16/04/2022;CCU;BLR;23:35;1 Stop;8h 35m;8:10;5 571
+949;IndiGo;16/04/2022;CCU;BLR;9:15;1 Stop;8h 50m;18:05;5 571
+950;IndiGo;16/04/2022;CCU;BLR;14:00;1 Stop;9h 35m;23:35;5 571
+951;IndiGo;16/04/2022;CCU;BLR;23:35;1 Stop;9h 55m;9:30;5 571
+952;IndiGo;16/04/2022;CCU;BLR;11:00;1 Stop;10h 00m;21:00;5 571
+953;IndiGo;16/04/2022;CCU;BLR;9:15;1 Stop;10h 10m;19:25;5 571
+954;IndiGo;16/04/2022;CCU;BLR;14:00;1 Stop;11h 00m;1:00;5 571
+955;IndiGo;16/04/2022;CCU;BLR;20:10;1 Stop;11h 00m;7:10;5 571
+956;Go First;16/04/2022;CCU;BLR;17:30;1 Stop;6h 40m;0:10;6 109
+957;Go First;16/04/2022;CCU;BLR;17:30;1 Stop;7h 00m;0:30;6 109
+958;Go First;16/04/2022;CCU;BLR;4:55;1 Stop;11h 35m;16:30;6 109
+959;Go First;16/04/2022;CCU;BLR;17:30;1 Stop;14h 15m;7:45;6 109
+960;IndiGo;16/04/2022;CCU;BLR;17:00;1 Stop;5h 15m;22:15;6 165
+961;IndiGo;16/04/2022;CCU;BLR;11:25;1 Stop;10h 50m;22:15;6 165
+962;Spicejet;16/04/2022;CCU;BLR;17:40;1 Stop;19h 40m;13:20;6 337
+963;AirAsia;16/04/2022;CCU;BLR;19:55;1 Stop;3h 50m;23:45;6 649
+964;Go First;16/04/2022;CCU;BLR;8:55;1 Stop;10h 10m;19:05;6 819
+965;Go First;16/04/2022;CCU;BLR;8:55;1 Stop;11h 35m;20:30;6 819
+966;Go First;16/04/2022;CCU;BLR;8:55;1 Stop;15h 15m;0:10;6 819
+967;IndiGo;16/04/2022;CCU;BLR;7:05;1 Stop;7h 25m;14:30;7 019
+968;IndiGo;16/04/2022;CCU;BLR;7:00;1 Stop;4h 25m;11:25;7 182
+969;Spicejet;16/04/2022;CCU;BLR;15:05;1 Stop;7h 20m;22:25;7 449
+970;Spicejet;16/04/2022;CCU;BLR;15:05;1 Stop;18h 25m;9:30;7 449
+971;IndiGo;16/04/2022;CCU;BLR;11:50;1 Stop;11h 05m;22:55;7 664
+972;Go First;16/04/2022;CCU;BLR;6:00;1 Stop;9h 15m;15:15;8 193
+973;Go First;16/04/2022;CCU;BLR;16:40;1 Stop;7h 35m;0:15;8 367
+974;Vistara;16/04/2022;CCU;BLR;17:35;1 Stop;5h 15m;22:50;8 589
+975;Go First;16/04/2022;CCU;BLR;14:20;1 Stop;9h 05m;23:25;8 695
+976;IndiGo;16/04/2022;CCU;BLR;14:40;1 Stop;6h 45m;21:25;8 766
+977;IndiGo;16/04/2022;CCU;BLR;12:40;1 Stop;6h 20m;19:00;10 527
+978;IndiGo;16/04/2022;CCU;BLR;10:50;1 Stop;8h 10m;19:00;10 527
+979;IndiGo;16/04/2022;CCU;BLR;9:40;1 Stop;9h 20m;19:00;10 527
+980;Go First;16/04/2022;CCU;BLR;8:20;1 Stop;9h 35m;17:55;15 144
+981;IndiGo;10/4/22;DEL;BOM;1:15;Non-Stop;2h 05m;3:20;2 410
+982;Go First;10/4/22;DEL;BOM;2:40;Non-Stop;2h 15m;4:55;2 410
+983;AirAsia;10/4/22;DEL;BOM;4:25;Non-Stop;2h 10m;6:35;2 410
+984;IndiGo;10/4/22;DEL;BOM;6:30;Non-Stop;2h 10m;8:40;2 410
+985;Go First;10/4/22;DEL;BOM;6:50;Non-Stop;2h 05m;8:55;2 410
+986;IndiGo;10/4/22;DEL;BOM;7:05;Non-Stop;2h 10m;9:15;2 410
+987;IndiGo;10/4/22;DEL;BOM;8:00;Non-Stop;2h 10m;10:10;2 410
+988;Go First;10/4/22;DEL;BOM;8:00;Non-Stop;2h 10m;10:10;2 410
+989;IndiGo;10/4/22;DEL;BOM;8:45;Non-Stop;2h 10m;10:55;2 410
+990;IndiGo;10/4/22;DEL;BOM;9:30;Non-Stop;2h 15m;11:45;2 410
+991;IndiGo;10/4/22;DEL;BOM;10:45;Non-Stop;2h 10m;12:55;2 410
+992;Go First;10/4/22;DEL;BOM;10:55;Non-Stop;2h 15m;13:10;2 410
+993;IndiGo;10/4/22;DEL;BOM;12:00;Non-Stop;2h 05m;14:05;2 410
+994;IndiGo;10/4/22;DEL;BOM;14:20;Non-Stop;2h 05m;16:25;2 410
+995;Go First;10/4/22;DEL;BOM;14:30;Non-Stop;2h 10m;16:40;2 410
+996;Go First;10/4/22;DEL;BOM;15:45;Non-Stop;2h 15m;18:00;2 410
+997;IndiGo;10/4/22;DEL;BOM;16:00;Non-Stop;2h 10m;18:10;2 410
+998;Go First;10/4/22;DEL;BOM;18:20;Non-Stop;2h 15m;20:35;2 410
+999;IndiGo;10/4/22;DEL;BOM;18:40;Non-Stop;2h 05m;20:45;2 410
+1000;Go First;10/4/22;DEL;BOM;19:45;Non-Stop;2h 15m;22:00;2 410
+1001;IndiGo;10/4/22;DEL;BOM;20:00;Non-Stop;2h 05m;22:05;2 410
+1002;AirAsia;10/4/22;DEL;BOM;20:00;Non-Stop;2h 15m;22:15;2 410
+1003;Go First;10/4/22;DEL;BOM;20:50;Non-Stop;2h 30m;23:20;2 410
+1004;IndiGo;10/4/22;DEL;BOM;21:20;Non-Stop;2h 05m;23:25;2 410
+1005;Go First;10/4/22;DEL;BOM;22:45;Non-Stop;2h 15m;1:00;2 410
+1006;IndiGo;10/4/22;DEL;BOM;23:30;Non-Stop;2h 05m;1:35;2 410
+1007;IndiGo;10/4/22;DEL;BOM;13:50;1 Stop;6h 00m;19:50;2 410
+1008;IndiGo;10/4/22;DEL;BOM;5:00;1 Stop;7h 35m;12:35;2 410
+1009;Air India;10/4/22;DEL;BOM;8:00;Non-Stop;2h 10m;10:10;2 476
+1010;Air India;10/4/22;DEL;BOM;10:40;Non-Stop;2h 10m;12:50;2 476
+1011;Air India;10/4/22;DEL;BOM;19:00;Non-Stop;2h 15m;21:15;2 476
+1012;Air India;10/4/22;DEL;BOM;20:00;Non-Stop;2h 10m;22:10;2 476
+1013;Air India;10/4/22;DEL;BOM;15:05;1 Stop;3h 10m;18:15;2 476
+1014;Air India;10/4/22;DEL;BOM;17:50;1 Stop;3h 45m;21:35;2 476
+1015;Vistara;10/4/22;DEL;BOM;20:40;Non-Stop;2h 10m;22:50;2 477
+1016;Vistara;10/4/22;DEL;BOM;21:40;Non-Stop;2h 10m;23:50;2 477
+1017;Vistara;10/4/22;DEL;BOM;9:30;Non-Stop;2h 05m;11:35;2 701
+1018;Vistara;10/4/22;DEL;BOM;10:20;Non-Stop;2h 15m;12:35;2 701
+1019;Vistara;10/4/22;DEL;BOM;11:40;Non-Stop;2h 20m;14:00;2 701
+1020;Vistara;10/4/22;DEL;BOM;12:50;Non-Stop;2h 10m;15:00;2 701
+1021;Vistara;10/4/22;DEL;BOM;15:30;Non-Stop;2h 10m;17:40;2 701
+1022;Vistara;10/4/22;DEL;BOM;19:50;Non-Stop;2h 10m;22:00;2 701
+1023;IndiGo;10/4/22;DEL;BOM;17:15;Non-Stop;2h 10m;19:25;2 791
+1024;Spicejet;10/4/22;DEL;BOM;7:20;Non-Stop;2h 15m;9:35;2 937
+1025;Spicejet;10/4/22;DEL;BOM;8:50;Non-Stop;2h 10m;11:00;2 937
+1026;Spicejet;10/4/22;DEL;BOM;19:45;Non-Stop;2h 20m;22:05;2 937
+1027;Vistara;10/4/22;DEL;BOM;8:50;Non-Stop;2h 20m;11:10;3 101
+1028;Vistara;10/4/22;DEL;BOM;16:45;Non-Stop;2h 20m;19:05;3 101
+1029;Vistara;10/4/22;DEL;BOM;17:45;Non-Stop;2h 20m;20:05;3 101
+1030;Vistara;10/4/22;DEL;BOM;18:55;Non-Stop;2h 20m;21:15;3 101
+1031;AirAsia;10/4/22;DEL;BOM;22:10;1 Stop;14h 15m;12:25;3 205
+1032;Spicejet;10/4/22;DEL;BOM;18:45;Non-Stop;2h 20m;21:05;3 251
+1033;Go First;10/4/22;DEL;BOM;16:45;1 Stop;4h 25m;21:10;3 330
+1034;Go First;10/4/22;DEL;BOM;20:05;1 Stop;5h 55m;2:00;3 330
+1035;Go First;10/4/22;DEL;BOM;16:45;1 Stop;9h 15m;2:00;3 330
+1036;Go First;10/4/22;DEL;BOM;7:30;1 Stop;13h 40m;21:10;3 330
+1037;Go First;10/4/22;DEL;BOM;20:05;1 Stop;14h 35m;10:40;3 330
+1038;Air India;10/4/22;DEL;BOM;12:00;1 Stop;3h 50m;15:50;3 554
+1039;Air India;10/4/22;DEL;BOM;6:05;1 Stop;9h 45m;15:50;3 564
+1040;Vistara;10/4/22;DEL;BOM;7:10;1 Stop;7h 20m;14:30;3 570
+1041;Air India;10/4/22;DEL;BOM;16:45;1 Stop;4h 30m;21:15;3 677
+1042;Air India;10/4/22;DEL;BOM;9:45;1 Stop;7h 20m;17:05;3 855
+1043;Vistara;10/4/22;DEL;BOM;7:05;1 Stop;7h 25m;14:30;3 884
+1044;Go First;10/4/22;DEL;BOM;20:00;1 Stop;13h 35m;9:35;4 096
+1045;IndiGo;10/4/22;DEL;BOM;18:00;1 Stop;4h 30m;22:30;4 329
+1046;IndiGo;10/4/22;DEL;BOM;21:20;1 Stop;9h 35m;6:55;4 329
+1047;Vistara;10/4/22;DEL;BOM;17:10;1 Stop;4h 25m;21:35;4 381
+1048;Go First;10/4/22;DEL;BOM;21:25;1 Stop;12h 55m;10:20;4 400
+1049;Vistara;10/4/22;DEL;BOM;17:40;1 Stop;5h 20m;23:00;4 514
+1050;IndiGo;10/4/22;DEL;BOM;21:50;1 Stop;10h 00m;7:50;4 728
+1051;Go First;10/4/22;DEL;BOM;10:20;1 Stop;5h 10m;15:30;4 793
+1052;IndiGo;10/4/22;DEL;BOM;0:15;1 Stop;5h 30m;5:45;4 801
+1053;IndiGo;10/4/22;DEL;BOM;0:15;1 Stop;10h 00m;10:15;4 801
+1054;IndiGo;10/4/22;DEL;BOM;14:55;1 Stop;5h 40m;20:35;4 804
+1055;AirAsia;10/4/22;DEL;BOM;18:35;1 Stop;6h 00m;0:35;4 838
+1056;AirAsia;10/4/22;DEL;BOM;18:35;1 Stop;6h 00m;0:35;4 838
+1057;IndiGo;10/4/22;DEL;BOM;0:15;1 Stop;7h 45m;8:00;4 924
+1058;Vistara;10/4/22;DEL;BOM;7:30;1 Stop;5h 30m;13:00;4 939
+1059;Vistara;10/4/22;DEL;BOM;16:05;1 Stop;5h 45m;21:50;4 965
+1060;IndiGo;10/4/22;DEL;BOM;7:20;1 Stop;8h 45m;16:05;4 977
+1061;IndiGo;10/4/22;DEL;BOM;6:05;1 Stop;10h 00m;16:05;4 977
+1062;Go First;10/4/22;DEL;BOM;16:40;1 Stop;4h 40m;21:20;5 087
+1063;Go First;10/4/22;DEL;BOM;6:50;1 Stop;9h 05m;15:55;5 087
+1064;Go First;10/4/22;DEL;BOM;12:00;1 Stop;9h 20m;21:20;5 087
+1065;Go First;10/4/22;DEL;BOM;10:40;1 Stop;14h 30m;1:10;5 317
+1066;Go First;10/4/22;DEL;BOM;8:45;1 Stop;13h 00m;21:45;5 325
+1067;Go First;10/4/22;DEL;BOM;18:40;1 Stop;15h 10m;9:50;5 325
+1068;Go First;10/4/22;DEL;BOM;17:50;1 Stop;16h 00m;9:50;5 325
+1069;Go First;10/4/22;DEL;BOM;21:25;1 Stop;10h 20m;7:45;5 353
+1070;Go First;10/4/22;DEL;BOM;11:00;1 Stop;5h 55m;16:55;5 584
+1071;Go First;10/4/22;DEL;BOM;6:20;1 Stop;10h 35m;16:55;5 584
+1072;Go First;10/4/22;DEL;BOM;5:55;1 Stop;11h 00m;16:55;5 584
+1073;IndiGo;10/4/22;DEL;BOM;12:45;1 Stop;8h 05m;20:50;5 699
+1074;Go First;10/4/22;DEL;BOM;5:30;1 Stop;8h 30m;14:00;5 958
+1075;Go First;10/4/22;DEL;BOM;10:30;1 Stop;12h 45m;23:15;5 958
+1076;Spicejet;10/4/22;DEL;BOM;18:00;1 Stop;16h 30m;10:30;5 971
+1077;Go First;10/4/22;DEL;BOM;10:40;1 Stop;9h 25m;20:05;5 984
+1078;Go First;10/4/22;DEL;BOM;8:40;1 Stop;11h 25m;20:05;5 984
+1079;Spicejet;10/4/22;DEL;BOM;7:00;1 Stop;8h 25m;15:25;6 192
+1080;Go First;10/4/22;DEL;BOM;8:40;1 Stop;6h 00m;14:40;6 300
+1081;IndiGo;10/4/22;DEL;BOM;22:15;1 Stop;7h 30m;5:45;6 388
+1082;IndiGo;10/4/22;DEL;BOM;22:15;1 Stop;9h 45m;8:00;6 388
+1083;Go First;10/4/22;DEL;BOM;5:45;1 Stop;14h 35m;20:20;6 472
+1084;Go First;10/4/22;DEL;BOM;9:25;1 Stop;9h 05m;18:30;9 148
+1085;Go First;10/4/22;DEL;BOM;5:20;1 Stop;13h 10m;18:30;9 148
+1086;Go First;10/4/22;DEL;BOM;9:25;1 Stop;9h 00m;18:25;9 649
+1087;Go First;10/4/22;DEL;BOM;5:20;1 Stop;13h 05m;18:25;9 649
+1088;AirAsia;16/04/2022;BOM;DEL;7:20;Non-Stop;2h 10m;9:30;2 339
+1089;Go First;16/04/2022;BOM;DEL;10:10;Non-Stop;2h 15m;12:25;2 339
+1090;Go First;16/04/2022;BOM;DEL;12:10;Non-Stop;2h 10m;14:20;2 339
+1091;Go First;16/04/2022;BOM;DEL;13:50;Non-Stop;2h 05m;15:55;2 339
+1092;Go First;16/04/2022;BOM;DEL;19:05;Non-Stop;2h 05m;21:10;2 339
+1093;Go First;16/04/2022;BOM;DEL;20:40;Non-Stop;2h 15m;22:55;2 339
+1094;Go First;16/04/2022;BOM;DEL;21:15;Non-Stop;2h 15m;23:30;2 339
+1095;AirAsia;16/04/2022;BOM;DEL;22:55;Non-Stop;2h 05m;1:00;2 339
+1096;Go First;16/04/2022;BOM;DEL;23:00;Non-Stop;2h 10m;1:10;2 339
+1097;Go First;16/04/2022;BOM;DEL;6:00;Non-Stop;2h 05m;8:05;2 463
+1098;Go First;16/04/2022;BOM;DEL;8:05;Non-Stop;2h 10m;10:15;2 463
+1099;Go First;16/04/2022;BOM;DEL;23:55;Non-Stop;2h 00m;1:55;2 463
+1100;Air India;16/04/2022;BOM;DEL;8:00;Non-Stop;2h 15m;10:15;2 464
+1101;Air India;16/04/2022;BOM;DEL;16:00;Non-Stop;2h 20m;18:20;2 464
+1102;Air India;16/04/2022;BOM;DEL;18:00;Non-Stop;2h 30m;20:30;2 464
+1103;Air India;16/04/2022;BOM;DEL;15:25;1 Stop;3h 45m;19:10;2 464
+1104;Air India;16/04/2022;BOM;DEL;7:05;1 Stop;4h 05m;11:10;2 464
+1105;Vistara;16/04/2022;BOM;DEL;6:00;Non-Stop;2h 05m;8:05;2 465
+1106;Vistara;16/04/2022;BOM;DEL;6:30;Non-Stop;2h 05m;8:35;2 465
+1107;Vistara;16/04/2022;BOM;DEL;18:30;Non-Stop;2h 10m;20:40;2 465
+1108;Vistara;16/04/2022;BOM;DEL;20:55;Non-Stop;2h 05m;23:00;2 465
+1109;Vistara;16/04/2022;BOM;DEL;21:55;Non-Stop;2h 15m;0:10;2 465
+1110;Vistara;16/04/2022;BOM;DEL;22:45;Non-Stop;2h 10m;0:55;2 465
+1111;Vistara;16/04/2022;BOM;DEL;10:25;Non-Stop;2h 15m;12:40;2 700
+1112;Vistara;16/04/2022;BOM;DEL;11:55;Non-Stop;2h 10m;14:05;2 700
+1113;Vistara;16/04/2022;BOM;DEL;14:40;Non-Stop;2h 15m;16:55;2 700
+1114;Vistara;16/04/2022;BOM;DEL;15:45;Non-Stop;2h 20m;18:05;2 700
+1115;Air India;16/04/2022;BOM;DEL;10:00;Non-Stop;2h 15m;12:15;2 779
+1116;Air India;16/04/2022;BOM;DEL;19:00;Non-Stop;2h 15m;21:15;2 779
+1117;Spicejet;16/04/2022;BOM;DEL;7:20;Non-Stop;2h 15m;9:35;2 930
+1118;Spicejet;16/04/2022;BOM;DEL;20:30;Non-Stop;2h 05m;22:35;2 930
+1119;Vistara;16/04/2022;BOM;DEL;8:45;Non-Stop;2h 15m;11:00;3 101
+1120;Vistara;16/04/2022;BOM;DEL;17:35;Non-Stop;2h 10m;19:45;3 101
+1121;Vistara;16/04/2022;BOM;DEL;19:45;Non-Stop;2h 10m;21:55;3 101
+1122;Spicejet;16/04/2022;BOM;DEL;10:15;Non-Stop;2h 15m;12:30;3 244
+1123;Spicejet;16/04/2022;BOM;DEL;19:30;Non-Stop;2h 00m;21:30;3 244
+1124;Air India;16/04/2022;BOM;DEL;11:10;1 Stop;10h 25m;21:35;3 342
+1125;Air India;16/04/2022;BOM;DEL;11:10;1 Stop;6h 50m;18:00;3 542
+1126;Air India;16/04/2022;BOM;DEL;18:35;1 Stop;5h 20m;23:55;3 665
+1127;IndiGo;16/04/2022;BOM;DEL;2:40;Non-Stop;2h 10m;4:50;3 789
+1128;IndiGo;16/04/2022;BOM;DEL;5:00;Non-Stop;2h 10m;7:10;3 789
+1129;IndiGo;16/04/2022;BOM;DEL;6:05;Non-Stop;2h 10m;8:15;3 789
+1130;IndiGo;16/04/2022;BOM;DEL;7:00;Non-Stop;2h 15m;9:15;3 789
+1131;IndiGo;16/04/2022;BOM;DEL;7:45;Non-Stop;2h 15m;10:00;3 789
+1132;IndiGo;16/04/2022;BOM;DEL;8:30;Non-Stop;2h 15m;10:45;3 789
+1133;IndiGo;16/04/2022;BOM;DEL;9:20;Non-Stop;2h 10m;11:30;3 789
+1134;IndiGo;16/04/2022;BOM;DEL;9:55;Non-Stop;2h 15m;12:10;3 789
+1135;IndiGo;16/04/2022;BOM;DEL;11:35;Non-Stop;2h 20m;13:55;3 789
+1136;IndiGo;16/04/2022;BOM;DEL;13:45;Non-Stop;2h 10m;15:55;3 789
+1137;IndiGo;16/04/2022;BOM;DEL;15:50;Non-Stop;2h 15m;18:05;3 789
+1138;IndiGo;16/04/2022;BOM;DEL;17:15;Non-Stop;2h 10m;19:25;3 789
+1139;IndiGo;16/04/2022;BOM;DEL;18:30;Non-Stop;2h 10m;20:40;3 789
+1140;IndiGo;16/04/2022;BOM;DEL;19:30;Non-Stop;2h 10m;21:40;3 789
+1141;IndiGo;16/04/2022;BOM;DEL;20:30;Non-Stop;2h 15m;22:45;3 789
+1142;IndiGo;16/04/2022;BOM;DEL;22:20;Non-Stop;2h 15m;0:35;3 789
+1143;Air India;16/04/2022;BOM;DEL;5:20;1 Stop;7h 40m;13:00;3 843
+1144;Air India;16/04/2022;BOM;DEL;9:00;1 Stop;10h 50m;19:50;3 843
+1145;Go First;16/04/2022;BOM;DEL;19:00;1 Stop;12h 40m;7:40;4 098
+1146;AirAsia;16/04/2022;BOM;DEL;17:50;1 Stop;7h 10m;1:00;4 118
+1147;Air India;16/04/2022;BOM;DEL;19:00;1 Stop;8h 40m;3:40;4 221
+1148;IndiGo;16/04/2022;BOM;DEL;10:30;1 Stop;5h 25m;15:55;4 368
+1149;Go First;16/04/2022;BOM;DEL;17:10;1 Stop;5h 30m;22:40;4 456
+1150;Go First;16/04/2022;BOM;DEL;17:10;1 Stop;14h 10m;7:20;4 456
+1151;Go First;16/04/2022;BOM;DEL;19:20;1 Stop;4h 50m;0:10;4 496
+1152;Go First;16/04/2022;BOM;DEL;13:30;1 Stop;7h 05m;20:35;4 496
+1153;IndiGo;16/04/2022;BOM;DEL;20:55;1 Stop;8h 55m;5:50;4 503
+1154;IndiGo;16/04/2022;BOM;DEL;20:55;1 Stop;10h 45m;7:40;4 503
+1155;Air India;16/04/2022;BOM;DEL;9:30;1 Stop;6h 45m;16:15;4 768
+1156;Vistara;16/04/2022;BOM;DEL;6:20;1 Stop;6h 10m;12:30;4 860
+1157;Spicejet;16/04/2022;BOM;DEL;16:20;1 Stop;4h 05m;20:25;4 924
+1158;IndiGo;16/04/2022;BOM;DEL;12:25;1 Stop;5h 20m;17:45;4 940
+1159;IndiGo;16/04/2022;BOM;DEL;17:05;1 Stop;6h 00m;23:05;4 940
+1160;IndiGo;16/04/2022;BOM;DEL;9:40;1 Stop;8h 05m;17:45;4 940
+1161;IndiGo;16/04/2022;BOM;DEL;12:25;1 Stop;10h 40m;23:05;4 940
+1162;Go First;16/04/2022;BOM;DEL;19:40;1 Stop;12h 35m;8:15;4 979
+1163;Go First;16/04/2022;BOM;DEL;19:40;1 Stop;14h 00m;9:40;4 979
+1164;Go First;16/04/2022;BOM;DEL;16:15;1 Stop;14h 50m;7:05;4 979
+1165;IndiGo;16/04/2022;BOM;DEL;15:15;1 Stop;9h 45m;1:00;5 156
+1166;Spicejet;16/04/2022;BOM;DEL;6:40;1 Stop;4h 40m;11:20;5 162
+1167;Spicejet;16/04/2022;BOM;DEL;16:05;1 Stop;19h 15m;11:20;5 162
+1168;IndiGo;16/04/2022;BOM;DEL;16:50;1 Stop;4h 10m;21:00;5 166
+1169;IndiGo;16/04/2022;BOM;DEL;16:50;1 Stop;6h 25m;23:15;5 166
+1170;IndiGo;16/04/2022;BOM;DEL;7:35;1 Stop;6h 15m;13:50;5 366
+1171;Go First;16/04/2022;BOM;DEL;22:40;1 Stop;12h 00m;10:40;5 852
+1172;Go First;16/04/2022;BOM;DEL;22:05;1 Stop;12h 35m;10:40;5 852
+1173;Go First;16/04/2022;BOM;DEL;10:30;1 Stop;13h 15m;23:45;5 912
+1174;Go First;16/04/2022;BOM;DEL;11:30;1 Stop;8h 40m;20:10;5 938
+1175;Go First;16/04/2022;BOM;DEL;16:35;1 Stop;9h 45m;2:20;5 938
+1176;Go First;16/04/2022;BOM;DEL;15:20;1 Stop;11h 00m;2:20;5 938
+1177;Go First;16/04/2022;BOM;DEL;11:30;1 Stop;14h 50m;2:20;5 938
+1178;Go First;16/04/2022;BOM;DEL;17:45;1 Stop;5h 30m;23:15;5 984
+1179;Go First;16/04/2022;BOM;DEL;8:30;1 Stop;7h 40m;16:10;5 984
+1180;Go First;16/04/2022;BOM;DEL;17:45;1 Stop;14h 15m;8:00;5 984
+1181;Go First;16/04/2022;BOM;DEL;8:30;1 Stop;14h 45m;23:15;5 984
+1182;Go First;16/04/2022;BOM;DEL;10:50;1 Stop;6h 50m;17:40;6 031
+1183;Go First;16/04/2022;BOM;DEL;10:50;1 Stop;9h 30m;20:20;6 031
+1184;Spicejet;16/04/2022;BOM;DEL;18:35;1 Stop;3h 35m;22:10;6 043
+1185;IndiGo;16/04/2022;BOM;DEL;8:30;1 Stop;6h 45m;15:15;6 074
+1186;Go First;16/04/2022;BOM;DEL;11:10;1 Stop;9h 40m;20:50;6 118
+1187;Go First;16/04/2022;BOM;DEL;11:10;1 Stop;10h 45m;21:55;6 118
+1188;Go First;16/04/2022;BOM;DEL;11:10;1 Stop;12h 10m;23:20;6 118
+1189;Go First;16/04/2022;BOM;DEL;10:50;1 Stop;5h 25m;16:15;6 194
+1190;IndiGo;16/04/2022;BOM;DEL;16:45;1 Stop;4h 10m;20:55;6 572
+1191;IndiGo;16/04/2022;BOM;DEL;16:45;1 Stop;5h 50m;22:35;6 572
+1192;Go First;16/04/2022;BOM;DEL;21:00;1 Stop;11h 05m;8:05;7 719
+1193;Go First;16/04/2022;BOM;DEL;12:00;1 Stop;7h 50m;19:50;8 271
+1194;Go First;16/04/2022;BOM;DEL;12:00;1 Stop;8h 50m;20:50;8 271
+1195;Go First;16/04/2022;BOM;DEL;5:00;1 Stop;11h 50m;16:50;8 467
+1196;Go First;16/04/2022;BOM;DEL;12:00;1 Stop;7h 20m;19:20;9 069
+1197;SpiceJet;15/03/2022;Kolkata;Mumbai;9:35;Non Stop;2h 45m;12:20;3 380
+1198;Go First;15/03/2022;Kolkata;Mumbai;4:55;Non Stop;2h 50m;7:45;3 380
+1199;Go First;15/03/2022;Kolkata;Mumbai;17:30;Non Stop;2h 50m;20:20;3 380
+1200;SpiceJet;15/03/2022;Kolkata;Mumbai;21:55;Non Stop;2h 50m;0:45;3 380
+1201;IndiGo;15/03/2022;Kolkata;Mumbai;11:55;1 Stop;4h 40m;16:35;3 380
+1202;IndiGo;15/03/2022;Kolkata;Mumbai;6:50;1 Stop;5h 25m;12:15;3 380
+1203;IndiGo;15/03/2022;Kolkata;Mumbai;9:05;1 Stop;7h 30m;16:35;3 380
+1204;IndiGo;15/03/2022;Kolkata;Mumbai;23:20;1 Stop;8h 25m;7:45;3 380
+1205;IndiGo;15/03/2022;Kolkata;Mumbai;6:10;1 Stop;8h 45m;14:55;3 380
+1206;IndiGo;15/03/2022;Kolkata;Mumbai;7:15;1 Stop;9h 10m;16:25;3 380
+1207;IndiGo;15/03/2022;Kolkata;Mumbai;6:50;1 Stop;9h 45m;16:35;3 380
+1208;IndiGo;15/03/2022;Kolkata;Mumbai;9:05;1 Stop;10h 10m;19:15;3 380
+1209;IndiGo;15/03/2022;Kolkata;Mumbai;23:20;1 Stop;10h 45m;10:05;3 380
+1210;Vistara;15/03/2022;Kolkata;Mumbai;10:25;Non Stop;2h 35m;13:00;3 381
+1211;Vistara;15/03/2022;Kolkata;Mumbai;17:35;Non Stop;2h 45m;20:20;3 381
+1212;Vistara;15/03/2022;Kolkata;Mumbai;20:35;Non Stop;2h 55m;23:30;3 381
+1213;IndiGo;15/03/2022;Kolkata;Mumbai;5:30;Non Stop;3h 10m;8:40;3 381
+1214;Air India;15/03/2022;Kolkata;Mumbai;13:00;1 Stop;4h 50m;17:50;3 381
+1215;Go First;15/03/2022;Kolkata;Mumbai;12:30;Non Stop;2h 50m;15:20;3 930
+1216;IndiGo;15/03/2022;Kolkata;Mumbai;13:55;1 Stop;5h 20m;19:15;3 963
+1217;IndiGo;15/03/2022;Kolkata;Mumbai;13:55;1 Stop;9h 30m;23:25;3 963
+1218;Air India;15/03/2022;Kolkata;Mumbai;19:00;1 Stop;4h 55m;23:55;4 169
+1219;IndiGo;15/03/2022;Kolkata;Mumbai;4:00;Non Stop;2h 50m;6:50;4 358
+1220;IndiGo;15/03/2022;Kolkata;Mumbai;15:40;Non Stop;3h 00m;18:40;4 358
+1221;IndiGo;15/03/2022;Kolkata;Mumbai;12:50;1 Stop;6h 50m;19:40;4 463
+1222;Air India;15/03/2022;Kolkata;Mumbai;18:55;1 Stop;13h 10m;8:05;4 478
+1223;Air India;15/03/2022;Kolkata;Mumbai;18:55;1 Stop;22h 10m;17:05;4 478
+1224;IndiGo;15/03/2022;Kolkata;Mumbai;11:25;1 Stop;5h 05m;16:30;4 516
+1225;IndiGo;15/03/2022;Kolkata;Mumbai;7:00;1 Stop;9h 30m;16:30;4 516
+1226;IndiGo;15/03/2022;Kolkata;Mumbai;11:25;1 Stop;9h 45m;21:10;4 516
+1227;SpiceJet;15/03/2022;Kolkata;Mumbai;21:40;1 Stop;10h 40m;8:20;4 646
+1228;SpiceJet;15/03/2022;Kolkata;Mumbai;21:40;1 Stop;26h 10m;23:50;4 646
+1229;Air India;15/03/2022;Kolkata;Mumbai;11:35;2 Stop;5h 50m;17:25;4 846
+1230;Go First;15/03/2022;Kolkata;Mumbai;14:20;1 Stop;6h 05m;20:25;4 902
+1231;Go First;15/03/2022;Kolkata;Mumbai;6:00;1 Stop;6h 50m;12:50;4 902
+1232;Go First;15/03/2022;Kolkata;Mumbai;14:20;1 Stop;7h 35m;21:55;4 902
+1233;Go First;15/03/2022;Kolkata;Mumbai;14:20;1 Stop;8h 55m;23:15;4 902
+1234;Go First;15/03/2022;Kolkata;Mumbai;6:00;1 Stop;9h 35m;15:35;4 902
+1235;Go First;15/03/2022;Kolkata;Mumbai;14:20;1 Stop;10h 20m;0:40;4 902
+1236;Go First;15/03/2022;Kolkata;Mumbai;6:00;1 Stop;10h 35m;16:35;4 902
+1237;Go First;15/03/2022;Kolkata;Mumbai;6:00;1 Stop;11h 15m;17:15;4 902
+1238;SpiceJet;15/03/2022;Kolkata;Mumbai;21:55;1 Stop;10h 45m;8:40;4 948
+1239;SpiceJet;15/03/2022;Kolkata;Mumbai;6:05;1 Stop;15h 00m;21:05;4 948
+1240;SpiceJet;15/03/2022;Kolkata;Mumbai;6:05;1 Stop;16h 00m;22:05;4 948
+1241;SpiceJet;15/03/2022;Kolkata;Mumbai;21:55;1 Stop;23h 10m;21:05;4 948
+1242;SpiceJet;15/03/2022;Kolkata;Mumbai;21:55;1 Stop;24h 10m;22:05;4 948
+1243;SpiceJet;15/03/2022;Kolkata;Mumbai;6:05;1 Stop;26h 35m;8:40;4 948
+1244;Air Asia;15/03/2022;Kolkata;Mumbai;23:40;1 Stop;6h 55m;6:35;4 956
+1245;Air Asia;15/03/2022;Kolkata;Mumbai;20:00;1 Stop;10h 35m;6:35;4 956
+1246;Air Asia;15/03/2022;Kolkata;Mumbai;7:40;1 Stop;14h 35m;22:15;4 956
+1247;Vistara;15/03/2022;Kolkata;Mumbai;15:20;1 Stop;7h 30m;22:50;5 102
+1248;Vistara;15/03/2022;Kolkata;Mumbai;15:20;1 Stop;8h 30m;23:50;5 102
+1249;Vistara;15/03/2022;Kolkata;Mumbai;20:25;1 Stop;11h 30m;7:55;5 102
+1250;Vistara;15/03/2022;Kolkata;Mumbai;10:15;1 Stop;12h 35m;22:50;5 102
+1251;Vistara;15/03/2022;Kolkata;Mumbai;18:45;1 Stop;13h 10m;7:55;5 102
+1252;Vistara;15/03/2022;Kolkata;Mumbai;10:15;1 Stop;13h 35m;23:50;5 102
+1253;Vistara;15/03/2022;Kolkata;Mumbai;7:10;1 Stop;15h 40m;22:50;5 102
+1254;Vistara;15/03/2022;Kolkata;Mumbai;15:20;1 Stop;16h 35m;7:55;5 102
+1255;Vistara;15/03/2022;Kolkata;Mumbai;7:10;1 Stop;16h 40m;23:50;5 102
+1256;SpiceJet;15/03/2022;Kolkata;Mumbai;21:55;1 Stop;11h 40m;9:35;5 113
+1257;Vistara;15/03/2022;Kolkata;Mumbai;7:10;1 Stop;5h 25m;12:35;5 326
+1258;Vistara;15/03/2022;Kolkata;Mumbai;10:15;1 Stop;6h 15m;16:30;5 326
+1259;Vistara;15/03/2022;Kolkata;Mumbai;15:20;1 Stop;6h 40m;22:00;5 326
+1260;Vistara;15/03/2022;Kolkata;Mumbai;7:10;1 Stop;6h 50m;14:00;5 326
+1261;Vistara;15/03/2022;Kolkata;Mumbai;10:15;1 Stop;7h 25m;17:40;5 326
+1262;Vistara;15/03/2022;Kolkata;Mumbai;7:10;1 Stop;7h 50m;15:00;5 326
+1263;Vistara;15/03/2022;Kolkata;Mumbai;7:10;1 Stop;9h 20m;16:30;5 326
+1264;Go First;15/03/2022;Kolkata;Mumbai;16:45;1 Stop;7h 10m;23:55;5 507
+1265;Go First;15/03/2022;Kolkata;Mumbai;9:30;1 Stop;11h 10m;20:40;5 507
+1266;Go First;15/03/2022;Kolkata;Mumbai;17:00;1 Stop;6h 30m;23:30;5 520
+1267;Air Asia;15/03/2022;Kolkata;Mumbai;13:30;1 Stop;7h 05m;20:35;5 531
+1268;Air Asia;15/03/2022;Kolkata;Mumbai;16:15;1 Stop;8h 20m;0:35;5 531
+1269;Air Asia;15/03/2022;Kolkata;Mumbai;21:35;1 Stop;9h 40m;7:15;5 531
+1270;Air Asia;15/03/2022;Kolkata;Mumbai;9:40;1 Stop;10h 55m;20:35;5 531
+1271;Air Asia;15/03/2022;Kolkata;Mumbai;13:30;1 Stop;11h 05m;0:35;5 531
+1272;Air India;15/03/2022;Kolkata;Mumbai;23:15;1 Stop;9h 20m;8:35;5 616
+1273;Air India;15/03/2022;Kolkata;Mumbai;23:15;1 Stop;21h 50m;21:05;5 616
+1274;SpiceJet;15/03/2022;Kolkata;Mumbai;9:15;1 Stop;14h 35m;23:50;5 746
+1275;SpiceJet;15/03/2022;Kolkata;Mumbai;9:15;1 Stop;25h 20m;10:35;5 746
+1276;Go First;15/03/2022;Kolkata;Mumbai;14:30;1 Stop;6h 10m;20:40;5 790
+1277;Go First;15/03/2022;Kolkata;Mumbai;14:30;1 Stop;7h 20m;21:50;5 790
+1278;Go First;15/03/2022;Kolkata;Mumbai;14:30;1 Stop;9h 25m;23:55;5 790
+1279;Go First;15/03/2022;Kolkata;Mumbai;16:25;1 Stop;9h 35m;2:00;5 827
+1280;SpiceJet;15/03/2022;Kolkata;Mumbai;18:10;1 Stop;19h 15m;13:25;5 995
+1281;SpiceJet;15/03/2022;Kolkata;Mumbai;15:15;1 Stop;15h 25m;6:40;6 914
+1282;Air India;15/03/2022;Kolkata;Mumbai;18:55;3 Stop;23h 05m;18:00;7 006
+1283;Air India;15/03/2022;Kolkata;Mumbai;18:55;3 Stop;23h 05m;18:00;7 006
+1284;Air India;15/03/2022;Kolkata;Mumbai;18:55;2 Stop;25h 05m;20:00;7 006
+1285;Air India;15/03/2022;Kolkata;Mumbai;18:55;2 Stop;25h 05m;20:00;7 006
+1286;Air India;15/03/2022;Kolkata;Mumbai;18:55;2 Stop;26h 20m;21:15;7 006
+1287;Air India;15/03/2022;Kolkata;Mumbai;18:55;2 Stop;26h 20m;21:15;7 006
+1288;Air India;15/03/2022;Kolkata;Mumbai;18:55;3 Stop;26h 40m;21:35;7 006
+1289;Air India;15/03/2022;Kolkata;Mumbai;18:55;3 Stop;26h 40m;21:35;7 006
+1290;Air India;15/03/2022;Kolkata;Mumbai;18:55;2 Stop;27h 15m;22:10;7 006
+1291;Air India;15/03/2022;Kolkata;Mumbai;18:55;2 Stop;27h 15m;22:10;7 006
+1292;Vistara;15/03/2022;Kolkata;Mumbai;10:15;2 Stop;11h 20m;21:35;7 007
+1293;Air India;15/03/2022;Kolkata;Mumbai;13:00;2 Stop;20h 05m;9:05;7 046
+1294;Air India;15/03/2022;Kolkata;Mumbai;13:00;2 Stop;21h 10m;10:10;7 046
+1295;SpiceJet;15/03/2022;Kolkata;Mumbai;15:15;1 Stop;23h 30m;14:45;7 327
+1296;Go First;15/03/2022;Kolkata;Mumbai;16:25;1 Stop;5h 00m;21:25;7 549
+1297;Vistara;15/03/2022;Kolkata;Mumbai;10:15;2 Stop;10h 00m;20:15;7 590
+1298;Vistara;15/03/2022;Kolkata;Mumbai;10:15;2 Stop;10h 30m;20:45;7 590
+1299;Vistara;15/03/2022;Kolkata;Mumbai;10:15;2 Stop;11h 35m;21:50;7 590
+1300;Vistara;15/03/2022;Kolkata;Mumbai;10:15;2 Stop;8h 05m;18:20;7 594
+1301;Vistara;15/03/2022;Kolkata;Mumbai;7:10;2 Stop;11h 10m;18:20;7 594
+1302;Air India;15/03/2022;Kolkata;Mumbai;23:15;3 Stop;18h 45m;18:00;8 730
+1303;Air India;15/03/2022;Kolkata;Mumbai;23:15;3 Stop;18h 45m;18:00;8 730
+1304;Air India;15/03/2022;Kolkata;Mumbai;23:15;2 Stop;20h 45m;20:00;8 730
+1305;SpiceJet;15/03/2022;Kolkata;Mumbai;10:45;1 Stop;8h 40m;19:25;9 285
+1306;Vistara;15/03/2022;Kolkata;Mumbai;10:15;2 Stop;11h 20m;21:35;12 125
+1307;Vistara;15/03/2022;Kolkata;Mumbai;10:15;2 Stop;25h 15m;11:30;12 125
+1308;IndiGo;20/03/2022;New Delhi;Bangalore;6:45;1 Stop;6h 35m;13:20;2 863
+1309;IndiGo;20/03/2022;New Delhi;Bangalore;9:25;1 Stop;6h 15m;15:40;3 091
+1310;IndiGo;20/03/2022;New Delhi;Bangalore;23:10;1 Stop;9h 45m;8:55;3 091
+1311;IndiGo;20/03/2022;New Delhi;Bangalore;4:50;1 Stop;10h 50m;15:40;3 091
+1312;IndiGo;20/03/2022;New Delhi;Bangalore;21:15;1 Stop;11h 00m;8:15;3 108
+1313;SpiceJet;20/03/2022;New Delhi;Bangalore;5:35;Non Stop;2h 30m;8:05;3 169
+1314;Go First;20/03/2022;New Delhi;Bangalore;6:05;Non Stop;2h 35m;8:40;3 169
+1315;Air Asia;20/03/2022;New Delhi;Bangalore;8:00;Non Stop;2h 40m;10:40;3 169
+1316;Air Asia;20/03/2022;New Delhi;Bangalore;16:05;Non Stop;2h 40m;18:45;3 169
+1317;Vistara;20/03/2022;New Delhi;Bangalore;5:55;Non Stop;2h 45m;8:40;3 169
+1318;Vistara;20/03/2022;New Delhi;Bangalore;8:05;Non Stop;2h 45m;10:50;3 169
+1319;Vistara;20/03/2022;New Delhi;Bangalore;9:05;Non Stop;2h 45m;11:50;3 169
+1320;Vistara;20/03/2022;New Delhi;Bangalore;14:15;Non Stop;2h 45m;17:00;3 169
+1321;Vistara;20/03/2022;New Delhi;Bangalore;16:05;Non Stop;2h 45m;18:50;3 169
+1322;Go First;20/03/2022;New Delhi;Bangalore;18:40;Non Stop;2h 45m;21:25;3 169
+1323;Air Asia;20/03/2022;New Delhi;Bangalore;19:00;Non Stop;2h 45m;21:45;3 169
+1324;SpiceJet;20/03/2022;New Delhi;Bangalore;19:40;Non Stop;2h 45m;22:25;3 169
+1325;SpiceJet;20/03/2022;New Delhi;Bangalore;22:30;Non Stop;2h 45m;1:15;3 169
+1326;Air Asia;20/03/2022;New Delhi;Bangalore;9:35;Non Stop;2h 50m;12:25;3 169
+1327;Vistara;20/03/2022;New Delhi;Bangalore;17:35;Non Stop;2h 50m;20:25;3 169
+1328;Vistara;20/03/2022;New Delhi;Bangalore;19:50;Non Stop;2h 50m;22:40;3 169
+1329;Air Asia;20/03/2022;New Delhi;Bangalore;20:45;Non Stop;2h 50m;23:35;3 169
+1330;IndiGo;20/03/2022;New Delhi;Bangalore;22:50;Non Stop;2h 55m;1:45;3 169
+1331;Air India;20/03/2022;New Delhi;Bangalore;6:10;Non Stop;2h 45m;8:55;3 170
+1332;Air India;20/03/2022;New Delhi;Bangalore;9:45;Non Stop;2h 45m;12:30;3 170
+1333;Air India;20/03/2022;New Delhi;Bangalore;13:30;Non Stop;2h 45m;16:15;3 170
+1334;Air India;20/03/2022;New Delhi;Bangalore;21:15;Non Stop;2h 55m;0:10;3 170
+1335;IndiGo;20/03/2022;New Delhi;Bangalore;12:55;1 Stop;5h 35m;18:30;3 253
+1336;IndiGo;20/03/2022;New Delhi;Bangalore;12:55;1 Stop;6h 40m;19:35;3 253
+1337;IndiGo;20/03/2022;New Delhi;Bangalore;12:55;1 Stop;7h 50m;20:45;3 253
+1338;IndiGo;20/03/2022;New Delhi;Bangalore;9:40;1 Stop;8h 50m;18:30;3 253
+1339;IndiGo;20/03/2022;New Delhi;Bangalore;9:40;1 Stop;9h 55m;19:35;3 253
+1340;IndiGo;20/03/2022;New Delhi;Bangalore;12:55;1 Stop;9h 55m;22:50;3 253
+1341;Air India;20/03/2022;New Delhi;Bangalore;8:10;1 Stop;14h 05m;22:15;3 306
+1342;IndiGo;20/03/2022;New Delhi;Bangalore;21:20;1 Stop;5h 15m;2:35;3 324
+1343;IndiGo;20/03/2022;New Delhi;Bangalore;17:25;1 Stop;6h 30m;23:55;3 324
+1344;IndiGo;20/03/2022;New Delhi;Bangalore;13:25;1 Stop;7h 25m;20:50;3 324
+1345;IndiGo;20/03/2022;New Delhi;Bangalore;17:25;1 Stop;9h 10m;2:35;3 324
+1346;IndiGo;20/03/2022;New Delhi;Bangalore;13:25;1 Stop;10h 30m;23:55;3 324
+1347;Vistara;20/03/2022;New Delhi;Bangalore;10:25;1 Stop;9h 05m;19:30;3 357
+1348;Vistara;20/03/2022;New Delhi;Bangalore;7:30;1 Stop;12h 00m;19:30;3 357
+1349;Vistara;20/03/2022;New Delhi;Bangalore;10:25;1 Stop;22h 25m;8:50;3 357
+1350;Vistara;20/03/2022;New Delhi;Bangalore;7:30;1 Stop;25h 20m;8:50;3 357
+1351;Vistara;20/03/2022;New Delhi;Bangalore;20:40;Non Stop;2h 40m;23:20;3 379
+1352;Air India;20/03/2022;New Delhi;Bangalore;17:20;Non Stop;2h 45m;20:05;3 482
+1353;Go First;20/03/2022;New Delhi;Bangalore;15:30;1 Stop;4h 45m;20:15;3 568
+1354;SpiceJet;20/03/2022;New Delhi;Bangalore;9:30;1 Stop;7h 20m;16:50;3 569
+1355;SpiceJet;20/03/2022;New Delhi;Bangalore;17:45;1 Stop;23h 05m;16:50;3 569
+1356;Air India;20/03/2022;New Delhi;Bangalore;8:10;1 Stop;6h 10m;14:20;3 610
+1357;Air India;20/03/2022;New Delhi;Bangalore;8:10;1 Stop;26h 35m;10:45;3 610
+1358;Air Asia;20/03/2022;New Delhi;Bangalore;15:25;1 Stop;5h 25m;20:50;3 623
+1359;SpiceJet;20/03/2022;New Delhi;Bangalore;18:55;1 Stop;14h 45m;9:40;3 663
+1360;IndiGo;20/03/2022;New Delhi;Bangalore;17:45;1 Stop;5h 05m;22:50;3 671
+1361;Air India;20/03/2022;New Delhi;Bangalore;17:15;1 Stop;5h 00m;22:15;3 726
+1362;Air India;20/03/2022;New Delhi;Bangalore;9:45;1 Stop;12h 30m;22:15;3 726
+1363;Air India;20/03/2022;New Delhi;Bangalore;21:25;1 Stop;24h 50m;22:15;3 726
+1364;IndiGo;20/03/2022;New Delhi;Bangalore;6:10;Non Stop;2h 40m;8:50;3 749
+1365;IndiGo;20/03/2022;New Delhi;Bangalore;7:20;Non Stop;2h 55m;10:15;3 749
+1366;IndiGo;20/03/2022;New Delhi;Bangalore;8:20;Non Stop;2h 55m;11:15;3 749
+1367;IndiGo;20/03/2022;New Delhi;Bangalore;9:15;Non Stop;2h 55m;12:10;3 749
+1368;IndiGo;20/03/2022;New Delhi;Bangalore;18:20;Non Stop;2h 55m;21:15;3 749
+1369;IndiGo;20/03/2022;New Delhi;Bangalore;21:25;Non Stop;2h 55m;0:20;3 749
+1370;IndiGo;20/03/2022;New Delhi;Bangalore;15:30;Non Stop;3h 00m;18:30;3 749
+1371;IndiGo;20/03/2022;New Delhi;Bangalore;11:00;1 Stop;7h 30m;18:30;3 948
+1372;IndiGo;20/03/2022;New Delhi;Bangalore;11:00;1 Stop;8h 35m;19:35;3 948
+1373;IndiGo;20/03/2022;New Delhi;Bangalore;11:00;1 Stop;9h 45m;20:45;3 948
+1374;Vistara;20/03/2022;New Delhi;Bangalore;14:45;1 Stop;4h 45m;19:30;3 987
+1375;Vistara;20/03/2022;New Delhi;Bangalore;20:35;1 Stop;12h 15m;8:50;3 987
+1376;Vistara;20/03/2022;New Delhi;Bangalore;17:40;1 Stop;15h 10m;8:50;3 987
+1377;Vistara;20/03/2022;New Delhi;Bangalore;14:45;1 Stop;18h 05m;8:50;3 987
+1378;Vistara;20/03/2022;New Delhi;Bangalore;20:35;1 Stop;22h 55m;19:30;3 987
+1379;Vistara;20/03/2022;New Delhi;Bangalore;17:40;1 Stop;25h 50m;19:30;3 987
+1380;Go First;20/03/2022;New Delhi;Bangalore;14:20;1 Stop;5h 20m;19:40;4 020
+1381;Go First;20/03/2022;New Delhi;Bangalore;2:00;1 Stop;5h 40m;7:40;4 020
+1382;Go First;20/03/2022;New Delhi;Bangalore;10:30;1 Stop;5h 40m;16:10;4 020
+1383;Go First;20/03/2022;New Delhi;Bangalore;17:00;1 Stop;5h 45m;22:45;4 020
+1384;Go First;20/03/2022;New Delhi;Bangalore;8:00;1 Stop;6h 10m;14:10;4 020
+1385;Go First;20/03/2022;New Delhi;Bangalore;13:30;1 Stop;6h 10m;19:40;4 020
+1386;Go First;20/03/2022;New Delhi;Bangalore;18:05;1 Stop;6h 30m;0:35;4 020
+1387;Air India;20/03/2022;New Delhi;Bangalore;9:45;1 Stop;4h 35m;14:20;4 030
+1388;Air India;20/03/2022;New Delhi;Bangalore;21:25;1 Stop;13h 20m;10:45;4 030
+1389;Air India;20/03/2022;New Delhi;Bangalore;17:15;1 Stop;17h 30m;10:45;4 030
+1390;Air India;20/03/2022;New Delhi;Bangalore;9:45;1 Stop;25h 00m;10:45;4 030
+1391;Air India;20/03/2022;New Delhi;Bangalore;21:25;2 Stop;17h 30m;14:55;4 041
+1392;Air India;20/03/2022;New Delhi;Bangalore;17:15;2 Stop;21h 40m;14:55;4 041
+1393;Air India;20/03/2022;New Delhi;Bangalore;9:45;2 Stop;29h 10m;14:55;4 041
+1394;Go First;20/03/2022;New Delhi;Bangalore;18:20;1 Stop;5h 45m;0:05;4 205
+1395;Go First;20/03/2022;New Delhi;Bangalore;9:40;1 Stop;6h 50m;16:30;4 205
+1396;Air India;20/03/2022;New Delhi;Bangalore;10:40;1 Stop;7h 50m;18:30;4 230
+1397;Air India;20/03/2022;New Delhi;Bangalore;9:00;1 Stop;9h 30m;18:30;4 230
+1398;Air India;20/03/2022;New Delhi;Bangalore;8:00;1 Stop;10h 30m;18:30;4 230
+1399;Air India;20/03/2022;New Delhi;Bangalore;7:00;1 Stop;11h 30m;18:30;4 230
+1400;Air India;20/03/2022;New Delhi;Bangalore;20:00;1 Stop;15h 10m;11:10;4 230
+1401;Air India;20/03/2022;New Delhi;Bangalore;18:00;1 Stop;17h 10m;11:10;4 230
+1402;Air India;20/03/2022;New Delhi;Bangalore;17:50;2 Stop;17h 20m;11:10;4 230
+1403;Air India;20/03/2022;New Delhi;Bangalore;14:30;2 Stop;20h 40m;11:10;4 230
+1404;Air India;20/03/2022;New Delhi;Bangalore;20:00;1 Stop;22h 30m;18:30;4 230
+1405;Vistara;20/03/2022;New Delhi;Bangalore;21:40;1 Stop;10h 10m;7:50;4 272
+1406;Vistara;20/03/2022;New Delhi;Bangalore;20:40;1 Stop;11h 10m;7:50;4 272
+1407;Vistara;20/03/2022;New Delhi;Bangalore;21:40;1 Stop;11h 10m;8:50;4 272
+1408;IndiGo;20/03/2022;New Delhi;Bangalore;12:30;Non Stop;2h 55m;15:25;4 300
+1409;Air India;20/03/2022;New Delhi;Bangalore;6:05;1 Stop;6h 45m;12:50;4 480
+1410;Air India;20/03/2022;New Delhi;Bangalore;19:00;1 Stop;17h 50m;12:50;4 480
+1411;Vistara;20/03/2022;New Delhi;Bangalore;12:50;1 Stop;4h 55m;17:45;4 496
+1412;Vistara;20/03/2022;New Delhi;Bangalore;14:20;1 Stop;4h 55m;19:15;4 496
+1413;Vistara;20/03/2022;New Delhi;Bangalore;15:30;1 Stop;5h 25m;20:55;4 496
+1414;Vistara;20/03/2022;New Delhi;Bangalore;11:40;1 Stop;6h 05m;17:45;4 496
+1415;Vistara;20/03/2022;New Delhi;Bangalore;12:50;1 Stop;6h 25m;19:15;4 496
+1416;Vistara;20/03/2022;New Delhi;Bangalore;14:20;1 Stop;6h 35m;20:55;4 496
+1417;Vistara;20/03/2022;New Delhi;Bangalore;15:30;1 Stop;7h 20m;22:50;4 496
+1418;Vistara;20/03/2022;New Delhi;Bangalore;10:20;1 Stop;7h 25m;17:45;4 496
+1419;Vistara;20/03/2022;New Delhi;Bangalore;11:40;1 Stop;7h 35m;19:15;4 496
+1420;Vistara;20/03/2022;New Delhi;Bangalore;12:50;1 Stop;8h 05m;20:55;4 496
+1421;Vistara;20/03/2022;New Delhi;Bangalore;9:30;1 Stop;8h 15m;17:45;4 496
+1422;Vistara;20/03/2022;New Delhi;Bangalore;14:20;1 Stop;8h 30m;22:50;4 496
+1423;Vistara;20/03/2022;New Delhi;Bangalore;10:20;1 Stop;8h 55m;19:15;4 496
+1424;Vistara;20/03/2022;New Delhi;Bangalore;11:40;1 Stop;9h 15m;20:55;4 496
+1425;Vistara;20/03/2022;New Delhi;Bangalore;9:30;1 Stop;9h 45m;19:15;4 496
+1426;Vistara;20/03/2022;New Delhi;Bangalore;12:50;1 Stop;10h 00m;22:50;4 496
+1427;Air India;20/03/2022;New Delhi;Bangalore;19:00;1 Stop;16h 10m;11:10;4 545
+1428;IndiGo;20/03/2022;New Delhi;Bangalore;21:50;1 Stop;10h 00m;7:50;4 688
+1429;Air India;20/03/2022;New Delhi;Bangalore;18:40;1 Stop;22h 25m;17:05;4 728
+1430;IndiGo;20/03/2022;New Delhi;Bangalore;7:25;1 Stop;7h 10m;14:35;4 740
+1431;IndiGo;20/03/2022;New Delhi;Bangalore;12:45;1 Stop;8h 20m;21:05;4 740
+1432;Vistara;20/03/2022;New Delhi;Bangalore;17:45;1 Stop;5h 05m;22:50;4 896
+1433;Vistara;20/03/2022;New Delhi;Bangalore;16:45;1 Stop;6h 05m;22:50;4 896
+1434;Vistara;20/03/2022;New Delhi;Bangalore;8:50;1 Stop;8h 55m;17:45;4 896
+1435;Vistara;20/03/2022;New Delhi;Bangalore;7:30;1 Stop;10h 15m;17:45;4 896
+1436;Vistara;20/03/2022;New Delhi;Bangalore;8:50;1 Stop;10h 25m;19:15;4 896
+1437;IndiGo;20/03/2022;New Delhi;Bangalore;10:15;1 Stop;6h 25m;16:40;5 056
+1438;Air India;20/03/2022;New Delhi;Bangalore;12:55;1 Stop;6h 55m;19:50;5 099
+1439;Air India;20/03/2022;New Delhi;Bangalore;7:05;1 Stop;12h 45m;19:50;5 099
+1440;Go First;20/03/2022;New Delhi;Bangalore;5:35;1 Stop;4h 45m;10:20;5 184
+1441;Go First;20/03/2022;New Delhi;Bangalore;5:50;1 Stop;6h 20m;12:10;5 313
+1442;Air Asia;20/03/2022;New Delhi;Bangalore;16:50;1 Stop;7h 30m;0:20;5 372
+1443;Air Asia;20/03/2022;New Delhi;Bangalore;4:45;1 Stop;7h 35m;12:20;5 372
+1444;IndiGo;20/03/2022;New Delhi;Bangalore;6:45;1 Stop;5h 05m;11:50;5 429
+1445;Go First;20/03/2022;New Delhi;Bangalore;11:30;1 Stop;5h 40m;17:10;5 610
+1446;Go First;20/03/2022;New Delhi;Bangalore;9:00;1 Stop;5h 55m;14:55;5 610
+1447;Go First;20/03/2022;New Delhi;Bangalore;10:45;1 Stop;6h 25m;17:10;5 610
+1448;SpiceJet;20/03/2022;New Delhi;Bangalore;7:25;1 Stop;13h 55m;21:20;5 610
+1449;Air Asia;20/03/2022;New Delhi;Bangalore;9:25;1 Stop;5h 15m;14:40;5 860
+1450;Air Asia;20/03/2022;New Delhi;Bangalore;11:55;1 Stop;7h 25m;19:20;5 860
+1451;Air India;20/03/2022;New Delhi;Bangalore;5:45;1 Stop;5h 55m;11:40;5 914
+1452;Air India;20/03/2022;New Delhi;Bangalore;17:45;1 Stop;17h 55m;11:40;5 914
+1453;SpiceJet;20/03/2022;New Delhi;Bangalore;19:30;1 Stop;13h 30m;9:00;5 920
+1454;SpiceJet;20/03/2022;New Delhi;Bangalore;16:20;1 Stop;16h 40m;9:00;5 920
+1455;SpiceJet;20/03/2022;New Delhi;Bangalore;12:00;1 Stop;21h 00m;9:00;5 920
+1456;IndiGo;20/03/2022;New Delhi;Bangalore;13:50;1 Stop;5h 10m;19:00;6 057
+1457;Go First;20/03/2022;New Delhi;Bangalore;8:40;1 Stop;6h 30m;15:10;6 094
+1458;Air India;20/03/2022;New Delhi;Bangalore;10:55;1 Stop;11h 35m;22:30;6 270
+1459;Air India;20/03/2022;New Delhi;Bangalore;11:00;1 Stop;6h 05m;17:05;6 334
+1460;Air India;20/03/2022;New Delhi;Bangalore;20:15;1 Stop;5h 35m;1:50;6 367
+1461;IndiGo;20/03/2022;New Delhi;Bangalore;16:50;1 Stop;6h 30m;23:20;6 480
+1462;Air Asia;20/03/2022;New Delhi;Bangalore;7:10;1 Stop;6h 45m;13:55;6 789
+1463;Go First;20/03/2022;New Delhi;Bangalore;9:10;1 Stop;4h 20m;13:30;6 951
+1464;Go First;20/03/2022;New Delhi;Bangalore;10:50;1 Stop;4h 20m;15:10;6 951
+1465;SpiceJet;20/03/2022;New Delhi;Bangalore;15:30;1 Stop;19h 50m;11:20;7 685
+1466;IndiGo;20/03/2022;New Delhi;Bangalore;15:00;1 Stop;8h 30m;23:30;7 761
+1467;IndiGo;20/03/2022;New Delhi;Bangalore;13:40;1 Stop;9h 50m;23:30;7 761
+1468;Air Asia;20/03/2022;New Delhi;Bangalore;6:20;1 Stop;7h 25m;13:45;8 108
+1469;SpiceJet;20/03/2022;New Delhi;Bangalore;7:45;1 Stop;15h 00m;22:45;8 607
+1470;SpiceJet;20/03/2022;New Delhi;Bangalore;11:55;1 Stop;25h 40m;13:35;9 788
+1471;Go First;8/3/22;New Delhi;Mumbai;13:30;Non Stop;2h 05m;15:35;2 410
+1472;Go First;8/3/22;New Delhi;Mumbai;15:30;Non Stop;2h 05m;17:35;2 410
+1473;Go First;8/3/22;New Delhi;Mumbai;17:00;Non Stop;2h 05m;19:05;2 410
+1474;Air Asia;8/3/22;New Delhi;Mumbai;4:25;Non Stop;2h 10m;6:35;2 410
+1475;IndiGo;8/3/22;New Delhi;Mumbai;6:30;Non Stop;2h 10m;8:40;2 410
+1476;Go First;8/3/22;New Delhi;Mumbai;7:00;Non Stop;2h 10m;9:10;2 410
+1477;IndiGo;8/3/22;New Delhi;Mumbai;7:15;Non Stop;2h 10m;9:25;2 410
+1478;Go First;8/3/22;New Delhi;Mumbai;8:00;Non Stop;2h 10m;10:10;2 410
+1479;IndiGo;8/3/22;New Delhi;Mumbai;12:00;Non Stop;2h 10m;14:10;2 410
+1480;IndiGo;8/3/22;New Delhi;Mumbai;17:15;Non Stop;2h 10m;19:25;2 410
+1481;IndiGo;8/3/22;New Delhi;Mumbai;18:40;Non Stop;2h 10m;20:50;2 410
+1482;Go First;8/3/22;New Delhi;Mumbai;22:30;Non Stop;2h 10m;0:40;2 410
+1483;IndiGo;8/3/22;New Delhi;Mumbai;23:35;Non Stop;2h 10m;1:45;2 410
+1484;Go First;8/3/22;New Delhi;Mumbai;2:00;Non Stop;2h 15m;4:15;2 410
+1485;Go First;8/3/22;New Delhi;Mumbai;14:20;Non Stop;2h 15m;16:35;2 410
+1486;IndiGo;8/3/22;New Delhi;Mumbai;14:20;Non Stop;2h 15m;16:35;2 410
+1487;Go First;8/3/22;New Delhi;Mumbai;15:00;Non Stop;2h 15m;17:15;2 410
+1488;IndiGo;8/3/22;New Delhi;Mumbai;16:00;Non Stop;2h 15m;18:15;2 410
+1489;Go First;8/3/22;New Delhi;Mumbai;19:40;Non Stop;2h 15m;21:55;2 410
+1490;Air Asia;8/3/22;New Delhi;Mumbai;20:00;Non Stop;2h 15m;22:15;2 410
+1491;Go First;8/3/22;New Delhi;Mumbai;21:00;Non Stop;2h 15m;23:15;2 410
+1492;IndiGo;8/3/22;New Delhi;Mumbai;21:15;Non Stop;2h 15m;23:30;2 410
+1493;IndiGo;8/3/22;New Delhi;Mumbai;8:45;Non Stop;2h 20m;11:05;2 410
+1494;Go First;8/3/22;New Delhi;Mumbai;10:30;Non Stop;2h 20m;12:50;2 410
+1495;IndiGo;8/3/22;New Delhi;Mumbai;10:45;Non Stop;2h 20m;13:05;2 410
+1496;Go First;8/3/22;New Delhi;Mumbai;18:05;Non Stop;2h 20m;20:25;2 410
+1497;IndiGo;8/3/22;New Delhi;Mumbai;9:30;Non Stop;2h 30m;12:00;2 410
+1498;IndiGo;8/3/22;New Delhi;Mumbai;14:05;1 Stop;3h 50m;17:55;2 410
+1499;IndiGo;8/3/22;New Delhi;Mumbai;10:30;1 Stop;4h 05m;14:35;2 410
+1500;IndiGo;8/3/22;New Delhi;Mumbai;18:00;1 Stop;4h 25m;22:25;2 410
+1501;IndiGo;8/3/22;New Delhi;Mumbai;18:30;1 Stop;4h 55m;23:25;2 410
+1502;IndiGo;8/3/22;New Delhi;Mumbai;7:20;1 Stop;5h 05m;12:25;2 410
+1503;IndiGo;8/3/22;New Delhi;Mumbai;17:55;1 Stop;5h 20m;23:15;2 410
+1504;IndiGo;8/3/22;New Delhi;Mumbai;13:50;1 Stop;6h 00m;19:50;2 410
+1505;IndiGo;8/3/22;New Delhi;Mumbai;7:00;1 Stop;7h 35m;14:35;2 410
+1506;IndiGo;8/3/22;New Delhi;Mumbai;10:15;1 Stop;7h 40m;17:55;2 410
+1507;IndiGo;8/3/22;New Delhi;Mumbai;10:30;1 Stop;8h 20m;18:50;2 410
+1508;IndiGo;8/3/22;New Delhi;Mumbai;14:05;1 Stop;8h 20m;22:25;2 410
+1509;IndiGo;8/3/22;New Delhi;Mumbai;7:25;1 Stop;8h 40m;16:05;2 410
+1510;IndiGo;8/3/22;New Delhi;Mumbai;22:15;1 Stop;10h 10m;8:25;2 410
+1511;IndiGo;8/3/22;New Delhi;Mumbai;12:55;1 Stop;10h 20m;23:15;2 410
+1512;IndiGo;8/3/22;New Delhi;Mumbai;21:50;1 Stop;10h 25m;8:15;2 410
+1513;SpiceJet;8/3/22;New Delhi;Mumbai;18:55;Non Stop;2h 10m;21:05;2 456
+1514;SpiceJet;8/3/22;New Delhi;Mumbai;7:20;Non Stop;2h 15m;9:35;2 456
+1515;SpiceJet;8/3/22;New Delhi;Mumbai;6:20;Non Stop;2h 20m;8:40;2 456
+1516;SpiceJet;8/3/22;New Delhi;Mumbai;19:45;Non Stop;2h 20m;22:05;2 456
+1517;Air India;8/3/22;New Delhi;Mumbai;18:00;Non Stop;2h 00m;20:00;2 476
+1518;Air India;8/3/22;New Delhi;Mumbai;7:00;Non Stop;2h 05m;9:05;2 476
+1519;Vistara;8/3/22;New Delhi;Mumbai;5:45;Non Stop;2h 10m;7:55;2 476
+1520;Air India;8/3/22;New Delhi;Mumbai;8:00;Non Stop;2h 10m;10:10;2 476
+1521;Air India;8/3/22;New Delhi;Mumbai;10:40;Non Stop;2h 10m;12:50;2 476
+1522;Air India;8/3/22;New Delhi;Mumbai;20:00;Non Stop;2h 10m;22:10;2 476
+1523;Vistara;8/3/22;New Delhi;Mumbai;20:40;Non Stop;2h 10m;22:50;2 476
+1524;Vistara;8/3/22;New Delhi;Mumbai;21:40;Non Stop;2h 10m;23:50;2 476
+1525;Air India;8/3/22;New Delhi;Mumbai;9:00;Non Stop;2h 15m;11:15;2 476
+1526;Air India;8/3/22;New Delhi;Mumbai;19:00;Non Stop;2h 15m;21:15;2 476
+1527;Air India;8/3/22;New Delhi;Mumbai;14:30;1 Stop;3h 30m;18:00;2 476
+1528;Air India;8/3/22;New Delhi;Mumbai;17:50;1 Stop;3h 45m;21:35;2 476
+1529;Vistara;8/3/22;New Delhi;Mumbai;9:30;Non Stop;2h 05m;11:35;2 700
+1530;Vistara;8/3/22;New Delhi;Mumbai;12:50;Non Stop;2h 10m;15:00;2 700
+1531;Vistara;8/3/22;New Delhi;Mumbai;14:20;Non Stop;2h 10m;16:30;2 700
+1532;Vistara;8/3/22;New Delhi;Mumbai;15:30;Non Stop;2h 10m;17:40;2 700
+1533;Vistara;8/3/22;New Delhi;Mumbai;19:50;Non Stop;2h 10m;22:00;2 700
+1534;Vistara;8/3/22;New Delhi;Mumbai;10:20;Non Stop;2h 15m;12:35;2 700
+1535;Vistara;8/3/22;New Delhi;Mumbai;11:40;Non Stop;2h 20m;14:00;2 700
+1536;Vistara;8/3/22;New Delhi;Mumbai;7:30;Non Stop;2h 15m;9:45;3 100
+1537;Vistara;8/3/22;New Delhi;Mumbai;19:00;Non Stop;2h 15m;21:15;3 100
+1538;Vistara;8/3/22;New Delhi;Mumbai;8:50;Non Stop;2h 20m;11:10;3 100
+1539;Vistara;8/3/22;New Delhi;Mumbai;16:45;Non Stop;2h 20m;19:05;3 100
+1540;Vistara;8/3/22;New Delhi;Mumbai;17:45;Non Stop;2h 20m;20:05;3 100
+1541;Air India;8/3/22;New Delhi;Mumbai;6:05;1 Stop;9h 45m;15:50;3 291
+1542;Air India;8/3/22;New Delhi;Mumbai;19:00;1 Stop;20h 50m;15:50;3 291
+1543;Go First;8/3/22;New Delhi;Mumbai;16:40;1 Stop;4h 45m;21:25;3 330
+1544;Go First;8/3/22;New Delhi;Mumbai;19:55;1 Stop;6h 05m;2:00;3 330
+1545;SpiceJet;8/3/22;New Delhi;Mumbai;19:20;1 Stop;4h 30m;23:50;3 371
+1546;SpiceJet;8/3/22;New Delhi;Mumbai;19:20;1 Stop;15h 15m;10:35;3 371
+1547;Air India;8/3/22;New Delhi;Mumbai;11:55;1 Stop;3h 55m;15:50;3 554
+1548;Vistara;8/3/22;New Delhi;Mumbai;7:10;1 Stop;7h 20m;14:30;3 569
+1549;Vistara;8/3/22;New Delhi;Mumbai;7:10;1 Stop;15h 25m;22:35;3 569
+1550;Vistara;8/3/22;New Delhi;Mumbai;7:10;1 Stop;25h 50m;9:00;3 569
+1551;IndiGo;8/3/22;New Delhi;Mumbai;5:15;1 Stop;4h 50m;10:05;3 604
+1552;Air India;8/3/22;New Delhi;Mumbai;20:00;1 Stop;24h 45m;20:45;3 677
+1553;Air India;8/3/22;New Delhi;Mumbai;17:15;1 Stop;6h 40m;23:55;3 831
+1554;Air India;8/3/22;New Delhi;Mumbai;9:45;1 Stop;14h 10m;23:55;3 831
+1555;Air India;8/3/22;New Delhi;Mumbai;8:10;1 Stop;15h 45m;23:55;3 831
+1556;Air India;8/3/22;New Delhi;Mumbai;21:25;1 Stop;26h 30m;23:55;3 831
+1557;Air India;8/3/22;New Delhi;Mumbai;9:50;1 Stop;8h 25m;18:15;3 855
+1558;Air India;8/3/22;New Delhi;Mumbai;20:40;1 Stop;11h 25m;8:05;3 855
+1559;Air India;8/3/22;New Delhi;Mumbai;6:05;1 Stop;12h 10m;18:15;3 855
+1560;Air India;8/3/22;New Delhi;Mumbai;16:15;1 Stop;15h 50m;8:05;3 855
+1561;Air India;8/3/22;New Delhi;Mumbai;20:40;1 Stop;20h 25m;17:05;3 855
+1562;Air India;8/3/22;New Delhi;Mumbai;9:50;1 Stop;22h 15m;8:05;3 855
+1563;Air India;8/3/22;New Delhi;Mumbai;16:15;1 Stop;24h 50m;17:05;3 855
+1564;Vistara;8/3/22;New Delhi;Mumbai;17:40;1 Stop;5h 20m;23:00;3 883
+1565;Vistara;8/3/22;New Delhi;Mumbai;7:30;1 Stop;7h 00m;14:30;3 883
+1566;Vistara;8/3/22;New Delhi;Mumbai;14:45;1 Stop;8h 15m;23:00;3 883
+1567;Vistara;8/3/22;New Delhi;Mumbai;10:25;1 Stop;12h 35m;23:00;3 883
+1568;Vistara;8/3/22;New Delhi;Mumbai;20:35;1 Stop;13h 25m;10:00;3 883
+1569;Vistara;8/3/22;New Delhi;Mumbai;7:30;1 Stop;15h 30m;23:00;3 883
+1570;Vistara;8/3/22;New Delhi;Mumbai;17:40;1 Stop;16h 20m;10:00;3 883
+1571;Vistara;8/3/22;New Delhi;Mumbai;20:35;1 Stop;17h 55m;14:30;3 883
+1572;Vistara;8/3/22;New Delhi;Mumbai;14:45;1 Stop;19h 15m;10:00;3 883
+1573;Vistara;8/3/22;New Delhi;Mumbai;17:40;1 Stop;20h 50m;14:30;3 883
+1574;Vistara;8/3/22;New Delhi;Mumbai;10:25;1 Stop;23h 35m;10:00;3 883
+1575;Vistara;8/3/22;New Delhi;Mumbai;14:45;1 Stop;23h 45m;14:30;3 883
+1576;Vistara;8/3/22;New Delhi;Mumbai;20:35;1 Stop;26h 25m;23:00;3 883
+1577;Vistara;8/3/22;New Delhi;Mumbai;13:30;1 Stop;9h 05m;22:35;3 884
+1578;Vistara;8/3/22;New Delhi;Mumbai;19:55;1 Stop;13h 05m;9:00;3 884
+1579;Vistara;8/3/22;New Delhi;Mumbai;17:25;1 Stop;15h 35m;9:00;3 884
+1580;Vistara;8/3/22;New Delhi;Mumbai;19:55;1 Stop;15h 45m;11:40;3 884
+1581;Vistara;8/3/22;New Delhi;Mumbai;17:25;1 Stop;18h 15m;11:40;3 884
+1582;Vistara;8/3/22;New Delhi;Mumbai;19:55;1 Stop;18h 35m;14:30;3 884
+1583;Vistara;8/3/22;New Delhi;Mumbai;13:30;1 Stop;19h 30m;9:00;3 884
+1584;Vistara;8/3/22;New Delhi;Mumbai;17:25;1 Stop;21h 05m;14:30;3 884
+1585;Vistara;8/3/22;New Delhi;Mumbai;13:30;1 Stop;22h 10m;11:40;3 884
+1586;Vistara;8/3/22;New Delhi;Mumbai;13:30;1 Stop;25h 00m;14:30;3 884
+1587;SpiceJet;8/3/22;New Delhi;Mumbai;15:30;1 Stop;21h 05m;12:35;3 977
+1588;Air India;8/3/22;New Delhi;Mumbai;8:40;1 Stop;14h 45m;23:25;4 161
+1589;Air India;8/3/22;New Delhi;Mumbai;5:55;1 Stop;17h 30m;23:25;4 161
+1590;Air India;8/3/22;New Delhi;Mumbai;8:40;1 Stop;25h 05m;9:45;4 161
+1591;SpiceJet;8/3/22;New Delhi;Mumbai;7:45;1 Stop;4h 15m;12:00;4 197
+1592;Air India;8/3/22;New Delhi;Mumbai;5:55;1 Stop;17h 10m;23:05;4 233
+1593;Air India;8/3/22;New Delhi;Mumbai;13:15;1 Stop;4h 35m;17:50;4 559
+1594;SpiceJet;8/3/22;New Delhi;Mumbai;15:45;1 Stop;25h 45m;17:30;4 581
+1595;Vistara;8/3/22;New Delhi;Mumbai;17:10;1 Stop;4h 25m;21:35;4 673
+1596;Vistara;8/3/22;New Delhi;Mumbai;13:40;1 Stop;7h 55m;21:35;4 673
+1597;Go First;8/3/22;New Delhi;Mumbai;9:10;1 Stop;7h 05m;16:15;4 793
+1598;Go First;8/3/22;New Delhi;Mumbai;6:05;1 Stop;5h 35m;11:40;4 814
+1599;Air Asia;8/3/22;New Delhi;Mumbai;19:00;1 Stop;5h 35m;0:35;4 838
+1600;Air Asia;8/3/22;New Delhi;Mumbai;16:05;1 Stop;8h 30m;0:35;4 838
+1601;Air Asia;8/3/22;New Delhi;Mumbai;20:45;1 Stop;10h 30m;7:15;4 838
+1602;Air Asia;8/3/22;New Delhi;Mumbai;9:35;1 Stop;11h 00m;20:35;4 838
+1603;Air Asia;8/3/22;New Delhi;Mumbai;19:00;1 Stop;12h 15m;7:15;4 838
+1604;Air Asia;8/3/22;New Delhi;Mumbai;8:00;1 Stop;12h 35m;20:35;4 838
+1605;Air India;8/3/22;New Delhi;Mumbai;10:15;1 Stop;5h 25m;15:40;4 926
+1606;Vistara;8/3/22;New Delhi;Mumbai;5:55;1 Stop;5h 30m;11:25;4 965
+1607;Vistara;8/3/22;New Delhi;Mumbai;16:05;1 Stop;5h 45m;21:50;4 965
+1608;Vistara;8/3/22;New Delhi;Mumbai;17:35;1 Stop;5h 50m;23:25;4 965
+1609;Vistara;8/3/22;New Delhi;Mumbai;14:15;1 Stop;6h 00m;20:15;4 965
+1610;Vistara;8/3/22;New Delhi;Mumbai;14:15;1 Stop;6h 30m;20:45;4 965
+1611;Vistara;8/3/22;New Delhi;Mumbai;16:05;1 Stop;7h 20m;23:25;4 965
+1612;Vistara;8/3/22;New Delhi;Mumbai;14:15;1 Stop;7h 35m;21:50;4 965
+1613;SpiceJet;8/3/22;New Delhi;Mumbai;18:10;1 Stop;13h 15m;7:25;5 025
+1614;Go First;8/3/22;New Delhi;Mumbai;9:00;1 Stop;6h 45m;15:45;5 087
+1615;Go First;8/3/22;New Delhi;Mumbai;10:50;1 Stop;7h 30m;18:20;5 317
+1616;Go First;8/3/22;New Delhi;Mumbai;15:00;1 Stop;7h 05m;22:05;5 325
+1617;Air Asia;8/3/22;New Delhi;Mumbai;20:00;1 Stop;6h 25m;2:25;5 341
+1618;Air Asia;8/3/22;New Delhi;Mumbai;20:00;1 Stop;11h 40m;7:40;5 341
+1619;Air Asia;8/3/22;New Delhi;Mumbai;12:40;1 Stop;13h 45m;2:25;5 341
+1620;Air Asia;8/3/22;New Delhi;Mumbai;12:20;1 Stop;14h 05m;2:25;5 341
+1621;Go First;8/3/22;New Delhi;Mumbai;11:30;1 Stop;5h 30m;17:00;5 584
+1622;Go First;8/3/22;New Delhi;Mumbai;10:45;1 Stop;6h 15m;17:00;5 584
+1623;Go First;8/3/22;New Delhi;Mumbai;9:00;1 Stop;8h 00m;17:00;5 584
+1624;Go First;8/3/22;New Delhi;Mumbai;5:30;1 Stop;8h 30m;14:00;5 958
+1625;Go First;8/3/22;New Delhi;Mumbai;12:20;1 Stop;5h 50m;18:10;8 276
+1626;Go First;8/3/22;New Delhi;Mumbai;11:50;1 Stop;6h 20m;18:10;8 276
+1627;IndiGo;10/3/22;Bangalore;Mumbai;6:10;1 Stop;3h 55m;10:05;2 151
+1628;IndiGo;10/3/22;Bangalore;Mumbai;19:20;1 Stop;4h 05m;23:25;2 151
+1629;IndiGo;10/3/22;Bangalore;Mumbai;10:55;1 Stop;4h 10m;15:05;2 151
+1630;IndiGo;10/3/22;Bangalore;Mumbai;13:35;1 Stop;4h 10m;17:45;2 151
+1631;IndiGo;10/3/22;Bangalore;Mumbai;7:20;1 Stop;4h 15m;11:35;2 151
+1632;IndiGo;10/3/22;Bangalore;Mumbai;19:50;1 Stop;4h 50m;0:40;2 151
+1633;IndiGo;10/3/22;Bangalore;Mumbai;14:50;1 Stop;4h 55m;19:45;2 151
+1634;IndiGo;10/3/22;Bangalore;Mumbai;12:45;1 Stop;5h 00m;17:45;2 151
+1635;IndiGo;10/3/22;Bangalore;Mumbai;7:10;1 Stop;5h 05m;12:15;2 151
+1636;IndiGo;10/3/22;Bangalore;Mumbai;9:20;1 Stop;5h 45m;15:05;2 151
+1637;IndiGo;10/3/22;Bangalore;Mumbai;9:50;1 Stop;5h 50m;15:40;2 151
+1638;IndiGo;10/3/22;Bangalore;Mumbai;14:50;1 Stop;5h 55m;20:45;2 151
+1639;IndiGo;10/3/22;Bangalore;Mumbai;6:10;1 Stop;6h 05m;12:15;2 151
+1640;IndiGo;10/3/22;Bangalore;Mumbai;13:35;1 Stop;6h 05m;19:40;2 151
+1641;IndiGo;10/3/22;Bangalore;Mumbai;18:15;1 Stop;6h 05m;0:20;2 151
+1642;IndiGo;10/3/22;Bangalore;Mumbai;13:05;1 Stop;6h 10m;19:15;2 151
+1643;IndiGo;10/3/22;Bangalore;Mumbai;5:50;1 Stop;6h 15m;12:05;2 151
+1644;IndiGo;10/3/22;Bangalore;Mumbai;12:45;1 Stop;6h 55m;19:40;2 151
+1645;IndiGo;10/3/22;Bangalore;Mumbai;16:20;1 Stop;7h 05m;23:25;2 151
+1646;IndiGo;10/3/22;Bangalore;Mumbai;9:20;1 Stop;7h 15m;16:35;2 151
+1647;IndiGo;10/3/22;Bangalore;Mumbai;7:20;1 Stop;7h 25m;14:45;2 151
+1648;IndiGo;10/3/22;Bangalore;Mumbai;17:10;1 Stop;7h 30m;0:40;2 151
+1649;IndiGo;10/3/22;Bangalore;Mumbai;6:15;1 Stop;8h 10m;14:25;2 151
+1650;IndiGo;10/3/22;Bangalore;Mumbai;10:55;1 Stop;8h 50m;19:45;2 151
+1651;IndiGo;10/3/22;Bangalore;Mumbai;7:10;1 Stop;9h 25m;16:35;2 151
+1652;IndiGo;10/3/22;Bangalore;Mumbai;14:50;1 Stop;9h 30m;0:20;2 151
+1653;IndiGo;10/3/22;Bangalore;Mumbai;20:15;1 Stop;9h 35m;5:50;2 151
+1654;IndiGo;10/3/22;Bangalore;Mumbai;10:55;1 Stop;9h 50m;20:45;2 151
+1655;Go First;10/3/22;Bangalore;Mumbai;5:45;Non Stop;1h 35m;7:20;2 201
+1656;Air Asia;10/3/22;Bangalore;Mumbai;5:35;Non Stop;1h 40m;7:15;2 201
+1657;Go First;10/3/22;Bangalore;Mumbai;8:10;Non Stop;1h 40m;9:50;2 201
+1658;Go First;10/3/22;Bangalore;Mumbai;10:00;Non Stop;1h 40m;11:40;2 201
+1659;Go First;10/3/22;Bangalore;Mumbai;19:00;Non Stop;1h 40m;20:40;2 201
+1660;Air Asia;10/3/22;Bangalore;Mumbai;18:50;Non Stop;1h 45m;20:35;2 201
+1661;IndiGo;10/3/22;Bangalore;Mumbai;7:00;Non Stop;1h 50m;8:50;2 201
+1662;IndiGo;10/3/22;Bangalore;Mumbai;8:05;Non Stop;1h 50m;9:55;2 201
+1663;IndiGo;10/3/22;Bangalore;Mumbai;18:00;Non Stop;1h 50m;19:50;2 201
+1664;Go First;10/3/22;Bangalore;Mumbai;20:00;Non Stop;1h 50m;21:50;2 201
+1665;Air Asia;10/3/22;Bangalore;Mumbai;22:45;Non Stop;1h 50m;0:35;2 201
+1666;Go First;10/3/22;Bangalore;Mumbai;22:00;Non Stop;1h 55m;23:55;2 201
+1667;IndiGo;10/3/22;Bangalore;Mumbai;19:35;Non Stop;2h 00m;21:35;2 201
+1668;IndiGo;10/3/22;Bangalore;Mumbai;21:15;Non Stop;2h 00m;23:15;2 201
+1669;Air India;10/3/22;Bangalore;Mumbai;6:45;Non Stop;1h 50m;8:35;2 208
+1670;Vistara;10/3/22;Bangalore;Mumbai;6:40;Non Stop;1h 35m;8:15;2 250
+1671;Vistara;10/3/22;Bangalore;Mumbai;8:30;Non Stop;1h 45m;10:15;2 250
+1672;Vistara;10/3/22;Bangalore;Mumbai;19:00;Non Stop;1h 45m;20:45;2 250
+1673;Vistara;10/3/22;Bangalore;Mumbai;21:40;Non Stop;1h 45m;23:25;2 250
+1674;Vistara;10/3/22;Bangalore;Mumbai;18:25;Non Stop;1h 50m;20:15;2 250
+1675;Vistara;10/3/22;Bangalore;Mumbai;9:30;Non Stop;1h 55m;11:25;2 250
+1676;Vistara;10/3/22;Bangalore;Mumbai;19:55;Non Stop;1h 55m;21:50;2 250
+1677;IndiGo;10/3/22;Bangalore;Mumbai;12:40;Non Stop;1h 50m;14:30;2 572
+1678;IndiGo;10/3/22;Bangalore;Mumbai;16:50;Non Stop;1h 45m;18:35;2 729
+1679;IndiGo;10/3/22;Bangalore;Mumbai;6:05;1 Stop;7h 40m;13:45;3 257
+1680;Air India;10/3/22;Bangalore;Mumbai;18:50;1 Stop;5h 05m;23:55;3 447
+1681;Vistara;10/3/22;Bangalore;Mumbai;19:55;1 Stop;3h 05m;23:00;3 448
+1682;Vistara;10/3/22;Bangalore;Mumbai;7:55;1 Stop;6h 35m;14:30;3 448
+1683;Vistara;10/3/22;Bangalore;Mumbai;19:55;1 Stop;14h 05m;10:00;3 448
+1684;Vistara;10/3/22;Bangalore;Mumbai;7:55;1 Stop;15h 05m;23:00;3 448
+1685;Vistara;10/3/22;Bangalore;Mumbai;19:55;1 Stop;18h 35m;14:30;3 448
+1686;Vistara;10/3/22;Bangalore;Mumbai;7:55;1 Stop;26h 05m;10:00;3 448
+1687;Air Asia;10/3/22;Bangalore;Mumbai;13:15;1 Stop;6h 20m;19:35;3 577
+1688;Air Asia;10/3/22;Bangalore;Mumbai;12:55;1 Stop;6h 40m;19:35;3 577
+1689;Air Asia;10/3/22;Bangalore;Mumbai;5:40;1 Stop;13h 55m;19:35;3 577
+1690;Air India;10/3/22;Bangalore;Mumbai;7:35;1 Stop;16h 20m;23:55;3 699
+1691;Air India;10/3/22;Bangalore;Mumbai;19:00;1 Stop;5h 10m;0:10;3 804
+1692;Air India;10/3/22;Bangalore;Mumbai;19:00;1 Stop;13h 20m;8:20;3 804
+1693;Air India;10/3/22;Bangalore;Mumbai;19:00;1 Stop;21h 35m;16:35;3 804
+1694;Air Asia;10/3/22;Bangalore;Mumbai;20:45;1 Stop;5h 40m;2:25;3 909
+1695;Air Asia;10/3/22;Bangalore;Mumbai;20:45;1 Stop;10h 55m;7:40;3 909
+1696;SpiceJet;10/3/22;Bangalore;Mumbai;5:45;1 Stop;9h 00m;14:45;3 971
+1697;SpiceJet;10/3/22;Bangalore;Mumbai;5:45;1 Stop;24h 55m;6:40;3 971
+1698;Vistara;10/3/22;Bangalore;Mumbai;12:45;1 Stop;26h 00m;14:45;4 007
+1699;Air India;10/3/22;Bangalore;Mumbai;9:00;2 Stop;14h 05m;23:05;4 027
+1700;Go First;10/3/22;Bangalore;Mumbai;15:45;1 Stop;3h 55m;19:40;4 096
+1701;Go First;10/3/22;Bangalore;Mumbai;15:45;1 Stop;9h 35m;1:20;4 096
+1702;SpiceJet;10/3/22;Bangalore;Mumbai;5:45;1 Stop;13h 05m;18:50;4 174
+1703;Go First;10/3/22;Bangalore;Mumbai;18:50;1 Stop;7h 10m;2:00;4 354
+1704;Go First;10/3/22;Bangalore;Mumbai;20:55;1 Stop;7h 20m;4:15;5 122
+1705;Go First;10/3/22;Bangalore;Mumbai;7:20;1 Stop;8h 15m;15:35;5 122
+1706;Go First;10/3/22;Bangalore;Mumbai;7:20;1 Stop;9h 15m;16:35;5 122
+1707;Go First;10/3/22;Bangalore;Mumbai;7:20;1 Stop;9h 55m;17:15;5 122
+1708;Go First;10/3/22;Bangalore;Mumbai;7:20;1 Stop;10h 15m;17:35;5 122
+1709;Go First;10/3/22;Bangalore;Mumbai;7:20;1 Stop;11h 45m;19:05;5 122
+1710;Air Asia;10/3/22;Bangalore;Mumbai;0:25;1 Stop;6h 10m;6:35;5 174
+1711;Air Asia;10/3/22;Bangalore;Mumbai;22:25;1 Stop;8h 10m;6:35;5 174
+1712;Air Asia;10/3/22;Bangalore;Mumbai;11:20;1 Stop;10h 55m;22:15;5 174
+1713;Air Asia;10/3/22;Bangalore;Mumbai;19:25;1 Stop;11h 10m;6:35;5 174
+1714;Vistara;10/3/22;Bangalore;Mumbai;17:50;1 Stop;6h 00m;23:50;5 320
+1715;Air India;10/3/22;Bangalore;Mumbai;6:10;1 Stop;6h 40m;12:50;5 321
+1716;Air India;10/3/22;Bangalore;Mumbai;13:20;1 Stop;6h 40m;20:00;5 321
+1717;Air India;10/3/22;Bangalore;Mumbai;10:25;2 Stop;7h 35m;18:00;5 321
+1718;Air India;10/3/22;Bangalore;Mumbai;13:20;1 Stop;7h 55m;21:15;5 321
+1719;Air India;10/3/22;Bangalore;Mumbai;13:20;2 Stop;8h 15m;21:35;5 321
+1720;Air India;10/3/22;Bangalore;Mumbai;13:20;1 Stop;8h 50m;22:10;5 321
+1721;Air India;10/3/22;Bangalore;Mumbai;10:25;1 Stop;9h 35m;20:00;5 321
+1722;Air India;10/3/22;Bangalore;Mumbai;10:25;1 Stop;10h 50m;21:15;5 321
+1723;Air India;10/3/22;Bangalore;Mumbai;10:25;2 Stop;11h 10m;21:35;5 321
+1724;Air India;10/3/22;Bangalore;Mumbai;10:25;1 Stop;11h 45m;22:10;5 321
+1725;Air India;10/3/22;Bangalore;Mumbai;21:00;1 Stop;12h 05m;9:05;5 321
+1726;Air India;10/3/22;Bangalore;Mumbai;21:00;1 Stop;13h 10m;10:10;5 321
+1727;IndiGo;10/3/22;Bangalore;Mumbai;6:15;1 Stop;9h 30m;15:45;5 469
+1728;Vistara;10/3/22;Bangalore;Mumbai;8:00;1 Stop;6h 00m;14:00;5 543
+1729;Vistara;10/3/22;Bangalore;Mumbai;11:30;1 Stop;6h 10m;17:40;5 543
+1730;Vistara;10/3/22;Bangalore;Mumbai;9:45;1 Stop;6h 45m;16:30;5 543
+1731;Vistara;10/3/22;Bangalore;Mumbai;7:00;1 Stop;7h 00m;14:00;5 543
+1732;Vistara;10/3/22;Bangalore;Mumbai;8:00;1 Stop;7h 00m;15:00;5 543
+1733;Vistara;10/3/22;Bangalore;Mumbai;9:45;1 Stop;7h 55m;17:40;5 543
+1734;Vistara;10/3/22;Bangalore;Mumbai;7:00;1 Stop;8h 00m;15:00;5 543
+1735;Vistara;10/3/22;Bangalore;Mumbai;8:00;1 Stop;8h 30m;16:30;5 543
+1736;Go First;10/3/22;Bangalore;Mumbai;14:00;1 Stop;6h 20m;20:20;5 746
+1737;Go First;10/3/22;Bangalore;Mumbai;20:00;1 Stop;11h 45m;7:45;5 746
+1738;Air India;10/3/22;Bangalore;Mumbai;7:35;2 Stop;12h 25m;20:00;5 761
+1739;Vistara;10/3/22;Bangalore;Mumbai;7:55;2 Stop;8h 35m;16:30;5 806
+1740;Air India;10/3/22;Bangalore;Mumbai;2:40;2 Stop;15h 10m;17:50;5 850
+1741;Vistara;10/3/22;Bangalore;Mumbai;11:30;1 Stop;7h 35m;19:05;5 943
+1742;Vistara;10/3/22;Bangalore;Mumbai;11:30;1 Stop;8h 35m;20:05;5 943
+1743;Vistara;10/3/22;Bangalore;Mumbai;9:45;1 Stop;9h 20m;19:05;5 943
+1744;Go First;10/3/22;Bangalore;Mumbai;11:00;1 Stop;9h 20m;20:20;6 199
+1745;Vistara;10/3/22;Bangalore;Mumbai;11:30;1 Stop;10h 05m;21:35;6 208
+1746;Vistara;10/3/22;Bangalore;Mumbai;11:30;1 Stop;24h 00m;11:30;6 208
+1747;Air India;10/3/22;Bangalore;Mumbai;21:00;2 Stop;20h 50m;17:50;6 951
+1748;Air India;10/3/22;Bangalore;Mumbai;17:50;2 Stop;24h 00m;17:50;6 951
+1749;Air India;10/3/22;Bangalore;Mumbai;13:20;2 Stop;28h 30m;17:50;6 951
+1750;Go First;10/3/22;Bangalore;Mumbai;9:15;1 Stop;7h 45m;17:00;7 394
+1751;Air India;10/3/22;Bangalore;Mumbai;6:10;2 Stop;11h 40m;17:50;7 403
+1752;Air India;10/3/22;Bangalore;Mumbai;6:10;2 Stop;11h 15m;17:25;7 870
+1753;Vistara;10/3/22;Bangalore;Mumbai;11:30;2 Stop;8h 35m;20:05;7 993
+1754;Air India;10/3/22;Bangalore;Mumbai;7:55;2 Stop;25h 10m;9:05;8 064
+1755;Air India;10/3/22;Bangalore;Mumbai;7:55;2 Stop;26h 15m;10:10;8 064
+1756;Air India;10/3/22;Bangalore;Mumbai;7:55;2 Stop;27h 20m;11:15;8 064
+1757;Air India;10/3/22;Bangalore;Mumbai;7:55;2 Stop;28h 55m;12:50;8 064
+1758;Air India;10/3/22;Bangalore;Mumbai;7:55;3 Stop;34h 05m;18:00;8 064
+1759;Air India;10/3/22;Bangalore;Mumbai;7:55;3 Stop;34h 05m;18:00;8 064
+1760;Air India;10/3/22;Bangalore;Mumbai;7:55;2 Stop;36h 05m;20:00;8 064
+1761;Air India;10/3/22;Bangalore;Mumbai;7:55;2 Stop;37h 20m;21:15;8 064
+1762;Air India;10/3/22;Bangalore;Mumbai;7:55;3 Stop;37h 40m;21:35;8 064
+1763;Air India;10/3/22;Bangalore;Mumbai;7:55;3 Stop;37h 40m;21:35;8 064
+1764;Air India;10/3/22;Bangalore;Mumbai;7:55;2 Stop;38h 15m;22:10;8 064
+1765;Air Asia;10/6/22;Kolkata;New Delhi;7:40;Non Stop;2h 25m;10:05;3 015
+1766;Air Asia;10/6/22;Kolkata;New Delhi;23:40;Non Stop;2h 30m;2:10;3 015
+1767;Air Asia;10/6/22;Kolkata;New Delhi;19:45;Non Stop;2h 40m;22:25;3 015
+1768;Air India;10/6/22;Kolkata;New Delhi;20:30;Non Stop;2h 15m;22:45;3 016
+1769;Air India;10/6/22;Kolkata;New Delhi;6:55;Non Stop;2h 20m;9:15;3 016
+1770;Air India;10/6/22;Kolkata;New Delhi;10:25;Non Stop;2h 30m;12:55;3 016
+1771;Air India;10/6/22;Kolkata;New Delhi;15:30;Non Stop;2h 30m;18:00;3 016
+1772;Air India;10/6/22;Kolkata;New Delhi;19:00;1 Stop;13h 55m;8:55;4 144
+1773;Air India;10/6/22;Kolkata;New Delhi;19:00;1 Stop;17h 20m;12:20;4 144
+1774;Air India;10/6/22;Kolkata;New Delhi;19:00;1 Stop;23h 30m;18:30;4 144
+1775;Go First;10/6/22;Kolkata;New Delhi;5:45;Non Stop;2h 20m;8:05;4 246
+1776;Air India;10/6/22;Kolkata;New Delhi;11:35;2 Stop;12h 10m;23:45;4 347
+1777;Air India;10/6/22;Kolkata;New Delhi;7:45;2 Stop;16h 00m;23:45;4 347
+1778;IndiGo;10/6/22;Kolkata;New Delhi;18:30;1 Stop;5h 40m;0:10;4 487
+1779;IndiGo;10/6/22;Kolkata;New Delhi;11:40;1 Stop;7h 05m;18:45;4 487
+1780;IndiGo;10/6/22;Kolkata;New Delhi;11:40;1 Stop;10h 10m;21:50;4 487
+1781;SpiceJet;10/6/22;Kolkata;New Delhi;17:40;1 Stop;5h 30m;23:10;4 613
+1782;SpiceJet;10/6/22;Kolkata;New Delhi;17:40;1 Stop;17h 40m;11:20;4 613
+1783;SpiceJet;10/6/22;Kolkata;New Delhi;17:40;1 Stop;25h 45m;19:25;4 613
+1784;Go First;10/6/22;Kolkata;New Delhi;14:45;1 Stop;5h 30m;20:15;4 824
+1785;Air India;10/6/22;Kolkata;New Delhi;7:45;1 Stop;7h 45m;15:30;4 846
+1786;Air India;10/6/22;Kolkata;New Delhi;14:40;1 Stop;18h 15m;8:55;4 919
+1787;Air India;10/6/22;Kolkata;New Delhi;14:40;1 Stop;22h 20m;13:00;4 919
+1788;Air India;10/6/22;Kolkata;New Delhi;14:40;1 Stop;29h 10m;19:50;4 919
+1789;Air India;10/6/22;Kolkata;New Delhi;13:00;1 Stop;4h 35m;17:35;4 960
+1790;Air India;10/6/22;Kolkata;New Delhi;13:00;1 Stop;7h 55m;20:55;4 960
+1791;Air India;10/6/22;Kolkata;New Delhi;13:00;1 Stop;25h 35m;14:35;4 960
+1792;IndiGo;10/6/22;Kolkata;New Delhi;17:20;1 Stop;4h 55m;22:15;4 980
+1793;IndiGo;10/6/22;Kolkata;New Delhi;14:30;1 Stop;5h 30m;20:00;4 980
+1794;IndiGo;10/6/22;Kolkata;New Delhi;7:05;1 Stop;5h 50m;12:55;4 980
+1795;IndiGo;10/6/22;Kolkata;New Delhi;17:20;1 Stop;6h 45m;0:05;4 980
+1796;IndiGo;10/6/22;Kolkata;New Delhi;14:30;1 Stop;6h 50m;21:20;4 980
+1797;IndiGo;10/6/22;Kolkata;New Delhi;14:30;1 Stop;7h 45m;22:15;4 980
+1798;IndiGo;10/6/22;Kolkata;New Delhi;7:05;1 Stop;9h 15m;16:20;4 980
+1799;IndiGo;10/6/22;Kolkata;New Delhi;14:30;1 Stop;9h 35m;0:05;4 980
+1800;Go First;10/6/22;Kolkata;New Delhi;14:20;Non Stop;2h 30m;16:50;4 994
+1801;Go First;10/6/22;Kolkata;New Delhi;9:20;1 Stop;8h 45m;18:05;5 075
+1802;Air India;10/6/22;Kolkata;New Delhi;9:50;1 Stop;8h 50m;18:40;5 093
+1803;Air India;10/6/22;Kolkata;New Delhi;9:50;1 Stop;12h 15m;22:05;5 093
+1804;IndiGo;10/6/22;Kolkata;New Delhi;17:00;1 Stop;5h 40m;22:40;5 114
+1805;IndiGo;10/6/22;Kolkata;New Delhi;7:00;1 Stop;8h 15m;15:15;5 114
+1806;IndiGo;10/6/22;Kolkata;New Delhi;11:25;1 Stop;9h 10m;20:35;5 114
+1807;IndiGo;10/6/22;Kolkata;New Delhi;15:20;1 Stop;6h 20m;21:40;5 167
+1808;IndiGo;10/6/22;Kolkata;New Delhi;17:35;1 Stop;7h 40m;1:15;5 167
+1809;IndiGo;10/6/22;Kolkata;New Delhi;15:20;1 Stop;9h 55m;1:15;5 167
+1810;Air India;10/6/22;Kolkata;New Delhi;5:55;1 Stop;12h 45m;18:40;5 282
+1811;Air India;10/6/22;Kolkata;New Delhi;5:55;1 Stop;16h 10m;22:05;5 282
+1812;IndiGo;10/6/22;Kolkata;New Delhi;6:25;1 Stop;7h 55m;14:20;5 335
+1813;Air India;10/6/22;Kolkata;New Delhi;13:00;2 Stop;7h 30m;20:30;5 467
+1814;Air India;10/6/22;Kolkata;New Delhi;13:00;2 Stop;8h 15m;21:15;5 467
+1815;Air India;10/6/22;Kolkata;New Delhi;9:25;1 Stop;8h 55m;18:20;5 467
+1816;Air India;10/6/22;Kolkata;New Delhi;9:25;2 Stop;9h 45m;19:10;5 467
+1817;Air India;10/6/22;Kolkata;New Delhi;9:25;1 Stop;11h 05m;20:30;5 467
+1818;Air India;10/6/22;Kolkata;New Delhi;9:25;1 Stop;11h 50m;21:15;5 467
+1819;Air India;10/6/22;Kolkata;New Delhi;16:55;1 Stop;17h 20m;10:15;5 467
+1820;Air India;10/6/22;Kolkata;New Delhi;16:55;2 Stop;18h 15m;11:10;5 467
+1821;Air India;10/6/22;Kolkata;New Delhi;16:55;1 Stop;19h 20m;12:15;5 467
+1822;Air India;10/6/22;Kolkata;New Delhi;13:00;2 Stop;21h 15m;10:15;5 467
+1823;Air India;10/6/22;Kolkata;New Delhi;13:00;3 Stop;22h 10m;11:10;5 467
+1824;Air India;10/6/22;Kolkata;New Delhi;13:00;2 Stop;23h 15m;12:15;5 467
+1825;Air India;10/6/22;Kolkata;New Delhi;9:25;1 Stop;24h 50m;10:15;5 467
+1826;Air India;10/6/22;Kolkata;New Delhi;16:55;1 Stop;25h 25m;18:20;5 467
+1827;Air India;10/6/22;Kolkata;New Delhi;9:25;2 Stop;25h 45m;11:10;5 467
+1828;Air India;10/6/22;Kolkata;New Delhi;16:55;2 Stop;26h 15m;19:10;5 467
+1829;Air India;10/6/22;Kolkata;New Delhi;9:25;1 Stop;26h 50m;12:15;5 467
+1830;Air India;10/6/22;Kolkata;New Delhi;16:55;1 Stop;27h 35m;20:30;5 467
+1831;IndiGo;10/6/22;Kolkata;New Delhi;7:05;Non Stop;2h 20m;9:25;5 649
+1832;IndiGo;10/6/22;Kolkata;New Delhi;8:45;Non Stop;2h 20m;11:05;5 649
+1833;IndiGo;10/6/22;Kolkata;New Delhi;10:10;Non Stop;2h 20m;12:30;5 649
+1834;Vistara;10/6/22;Kolkata;New Delhi;10:15;Non Stop;2h 20m;12:35;5 649
+1835;IndiGo;10/6/22;Kolkata;New Delhi;1:15;Non Stop;2h 25m;3:40;5 649
+1836;IndiGo;10/6/22;Kolkata;New Delhi;5:30;Non Stop;2h 25m;7:55;5 649
+1837;Vistara;10/6/22;Kolkata;New Delhi;7:10;Non Stop;2h 25m;9:35;5 649
+1838;Vistara;10/6/22;Kolkata;New Delhi;15:20;Non Stop;2h 25m;17:45;5 649
+1839;IndiGo;10/6/22;Kolkata;New Delhi;16:30;Non Stop;2h 25m;18:55;5 649
+1840;IndiGo;10/6/22;Kolkata;New Delhi;18:05;Non Stop;2h 25m;20:30;5 649
+1841;IndiGo;10/6/22;Kolkata;New Delhi;19:20;Non Stop;2h 25m;21:45;5 649
+1842;Vistara;10/6/22;Kolkata;New Delhi;20:20;Non Stop;2h 25m;22:45;5 649
+1843;IndiGo;10/6/22;Kolkata;New Delhi;20:25;Non Stop;2h 25m;22:50;5 649
+1844;IndiGo;10/6/22;Kolkata;New Delhi;21:40;Non Stop;2h 25m;0:05;5 649
+1845;IndiGo;10/6/22;Kolkata;New Delhi;11:20;Non Stop;2h 20m;13:40;6 174
+1846;IndiGo;10/6/22;Kolkata;New Delhi;7:00;1 Stop;6h 25m;13:25;6 237
+1847;Go First;10/6/22;Kolkata;New Delhi;4:55;1 Stop;7h 30m;12:25;6 324
+1848;Go First;10/6/22;Kolkata;New Delhi;17:30;1 Stop;7h 40m;1:10;6 324
+1849;Go First;10/6/22;Kolkata;New Delhi;17:30;1 Stop;8h 25m;1:55;6 324
+1850;Go First;10/6/22;Kolkata;New Delhi;4:55;1 Stop;9h 25m;14:20;6 324
+1851;Air India;10/6/22;Kolkata;New Delhi;18:10;1 Stop;17h 40m;11:50;6 354
+1852;Air India;10/6/22;Kolkata;New Delhi;9:55;1 Stop;25h 55m;11:50;6 354
+1853;Air India;10/6/22;Kolkata;New Delhi;14:10;1 Stop;6h 25m;20:35;6 643
+1854;Air India;10/6/22;Kolkata;New Delhi;14:10;1 Stop;9h 45m;23:55;6 643
+1855;SpiceJet;10/6/22;Kolkata;New Delhi;8:00;1 Stop;10h 40m;18:40;6 776
+1856;Air Asia;10/6/22;Kolkata;New Delhi;9:05;1 Stop;5h 50m;14:55;7 102
+1857;Go First;10/6/22;Kolkata;New Delhi;16:45;1 Stop;7h 00m;23:45;7 588
+1858;Air Asia;10/6/22;Kolkata;New Delhi;16:15;1 Stop;8h 45m;1:00;7 613
+1859;Air Asia;10/6/22;Kolkata;New Delhi;16:15;1 Stop;11h 05m;3:20;7 613
+1860;Air Asia;10/6/22;Kolkata;New Delhi;16:15;1 Stop;11h 20m;3:35;7 613
+1861;Air Asia;10/6/22;Kolkata;New Delhi;21:35;1 Stop;11h 20m;8:55;7 613
+1862;Air Asia;10/6/22;Kolkata;New Delhi;13:30;1 Stop;11h 30m;1:00;7 613
+1863;IndiGo;10/6/22;Kolkata;New Delhi;14:15;1 Stop;6h 40m;20:55;7 697
+1864;IndiGo;10/6/22;Kolkata;New Delhi;14:15;1 Stop;8h 20m;22:35;7 697
+1865;IndiGo;10/6/22;Kolkata;New Delhi;11:05;1 Stop;9h 50m;20:55;7 697
+1866;IndiGo;10/6/22;Kolkata;New Delhi;14:40;1 Stop;8h 00m;22:40;7 821
+1867;IndiGo;10/6/22;Kolkata;New Delhi;11:50;1 Stop;7h 05m;18:55;7 889
+1868;IndiGo;10/6/22;Kolkata;New Delhi;11:50;1 Stop;9h 20m;21:10;7 889
+1869;Air India;10/6/22;Kolkata;New Delhi;5:55;3 Stop;12h 45m;18:40;8 228
+1870;SpiceJet;10/6/22;Kolkata;New Delhi;11:40;1 Stop;6h 30m;18:10;8 619
+1871;Air Asia;10/6/22;Kolkata;New Delhi;9:05;1 Stop;10h 15m;19:20;8 716
+1872;Go First;10/6/22;Kolkata;New Delhi;8:55;1 Stop;10h 05m;19:00;8 797
+1873;SpiceJet;10/6/22;Kolkata;New Delhi;14:15;1 Stop;4h 55m;19:10;8 954
+1874;IndiGo;10/6/22;Kolkata;New Delhi;5:55;1 Stop;6h 05m;12:00;9 026
+1875;IndiGo;10/6/22;Kolkata;New Delhi;8:15;1 Stop;6h 15m;14:30;9 026
+1876;IndiGo;10/6/22;Kolkata;New Delhi;5:55;1 Stop;8h 35m;14:30;9 026
+1877;IndiGo;10/6/22;Kolkata;New Delhi;12:35;1 Stop;6h 15m;18:50;9 146
+1878;SpiceJet;10/6/22;Kolkata;New Delhi;22:00;Non Stop;2h 35m;0:35;9 669
+1879;Air India;10/6/22;Kolkata;New Delhi;16:55;2 Stop;30h 45m;23:40;9 715
+1880;Air India;10/6/22;Kolkata;New Delhi;13:00;3 Stop;34h 40m;23:40;9 715
+1881;Air India;10/6/22;Kolkata;New Delhi;9:25;2 Stop;38h 15m;23:40;9 715
+1882;Go First;10/6/22;Kolkata;New Delhi;16:40;1 Stop;7h 30m;0:10;9 852
+1883;SpiceJet;10/6/22;Kolkata;New Delhi;18:00;Non Stop;2h 35m;20:35;10 719
+1884;Vistara;10/6/22;Kolkata;New Delhi;17:35;2 Stop;22h 55m;16:30;10 847
+1885;Vistara;10/6/22;Kolkata;New Delhi;17:35;2 Stop;26h 20m;19:55;10 847
+1886;Vistara;10/6/22;Kolkata;New Delhi;10:25;2 Stop;30h 05m;16:30;10 847
+1887;Vistara;10/6/22;Kolkata;New Delhi;10:25;2 Stop;30h 05m;16:30;10 847
+1888;Vistara;10/6/22;Kolkata;New Delhi;10:25;2 Stop;33h 30m;19:55;10 847
+1889;Vistara;10/6/22;Kolkata;New Delhi;10:25;2 Stop;13h 30m;23:55;11 663
+1890;SpiceJet;10/6/22;Kolkata;New Delhi;6:20;Non Stop;2h 25m;8:45;11 769
+1891;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;6h 30m;16:55;12 033
+1892;Vistara;10/6/22;Kolkata;New Delhi;17:35;1 Stop;6h 35m;0:10;12 033
+1893;Vistara;10/6/22;Kolkata;New Delhi;17:35;1 Stop;7h 20m;0:55;12 033
+1894;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;7h 40m;18:05;12 033
+1895;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;9h 20m;19:45;12 033
+1896;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;10h 15m;20:40;12 033
+1897;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;11h 30m;21:55;12 033
+1898;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;12h 35m;23:00;12 033
+1899;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;13h 45m;0:10;12 033
+1900;Vistara;10/6/22;Kolkata;New Delhi;10:25;1 Stop;14h 30m;0:55;12 033
+1901;Vistara;10/6/22;Kolkata;New Delhi;17:35;1 Stop;14h 30m;8:05;12 033
+1902;Vistara;10/6/22;Kolkata;New Delhi;17:35;1 Stop;15h 00m;8:35;12 033
+1903;Vistara;10/6/22;Kolkata;New Delhi;17:35;1 Stop;17h 25m;11:00;12 033
+1904;IndiGo;10/6/22;Kolkata;New Delhi;17:35;1 Stop;5h 05m;22:40;12 317
+1905;Vistara;10/6/22;Kolkata;New Delhi;10:25;2 Stop;12h 00m;22:25;12 443
+1906;Vistara;10/6/22;Kolkata;New Delhi;10:25;2 Stop;13h 20m;23:45;12 443
+1907;SpiceJet;10/6/22;Kolkata;New Delhi;6:50;1 Stop;7h 20m;14:10;14 499
+1908;SpiceJet;10/6/22;Kolkata;New Delhi;6:50;1 Stop;11h 20m;18:10;15 023
+1909;IndiGo;10/7/22;Mumbai;Chennai;7:05;1 Stop;4h 15m;11:20;1 841
+1910;IndiGo;10/7/22;Mumbai;Chennai;20:00;1 Stop;4h 25m;0:25;1 841
+1911;IndiGo;10/7/22;Mumbai;Chennai;6:15;1 Stop;5h 05m;11:20;1 841
+1912;IndiGo;10/7/22;Mumbai;Chennai;16:55;1 Stop;5h 10m;22:05;1 841
+1913;IndiGo;10/7/22;Mumbai;Chennai;13:35;1 Stop;5h 35m;19:10;1 841
+1914;IndiGo;10/7/22;Mumbai;Chennai;18:30;1 Stop;5h 55m;0:25;1 841
+1915;IndiGo;10/7/22;Mumbai;Chennai;12:30;1 Stop;7h 00m;19:30;1 841
+1916;IndiGo;10/7/22;Mumbai;Chennai;16:55;1 Stop;7h 30m;0:25;1 841
+1917;IndiGo;10/7/22;Mumbai;Chennai;7:05;1 Stop;8h 05m;15:10;1 841
+1918;IndiGo;10/7/22;Mumbai;Chennai;6:15;1 Stop;8h 55m;15:10;1 841
+1919;IndiGo;10/7/22;Mumbai;Chennai;13:35;1 Stop;9h 25m;23:00;1 841
+1920;IndiGo;10/7/22;Mumbai;Chennai;20:00;1 Stop;9h 55m;5:55;1 841
+1921;IndiGo;10/7/22;Mumbai;Chennai;7:05;1 Stop;10h 25m;17:30;1 841
+1922;IndiGo;10/7/22;Mumbai;Chennai;8:20;1 Stop;11h 10m;19:30;1 841
+1923;IndiGo;10/7/22;Mumbai;Chennai;5:05;Non Stop;1h 55m;7:00;1 890
+1924;Air India;10/7/22;Mumbai;Chennai;5:20;Non Stop;1h 55m;7:15;1 890
+1925;Go First;10/7/22;Mumbai;Chennai;5:50;Non Stop;1h 55m;7:45;1 890
+1926;Air India;10/7/22;Mumbai;Chennai;9:00;Non Stop;1h 55m;10:55;1 890
+1927;IndiGo;10/7/22;Mumbai;Chennai;16:35;Non Stop;1h 55m;18:30;1 890
+1928;IndiGo;10/7/22;Mumbai;Chennai;7:15;Non Stop;2h 00m;9:15;1 890
+1929;Go First;10/7/22;Mumbai;Chennai;18:40;Non Stop;2h 00m;20:40;1 890
+1930;IndiGo;10/7/22;Mumbai;Chennai;10:20;Non Stop;2h 05m;12:25;1 890
+1931;IndiGo;10/7/22;Mumbai;Chennai;19:10;Non Stop;2h 05m;21:15;1 890
+1932;IndiGo;10/7/22;Mumbai;Chennai;21:25;Non Stop;2h 05m;23:30;2 151
+1933;IndiGo;10/7/22;Mumbai;Chennai;22:35;Non Stop;2h 05m;0:40;2 151
+1934;SpiceJet;10/7/22;Mumbai;Chennai;19:55;Non Stop;1h 50m;21:45;2 194
+1935;IndiGo;10/7/22;Mumbai;Chennai;15:20;Non Stop;2h 05m;17:25;2 773
+1936;Air Asia;10/7/22;Mumbai;Chennai;13:05;1 Stop;3h 25m;16:30;3 195
+1937;Air Asia;10/7/22;Mumbai;Chennai;13:05;1 Stop;4h 20m;17:25;3 195
+1938;Air Asia;10/7/22;Mumbai;Chennai;21:20;1 Stop;11h 10m;8:30;3 195
+1939;Air Asia;10/7/22;Mumbai;Chennai;20:10;1 Stop;12h 20m;8:30;3 195
+1940;Air Asia;10/7/22;Mumbai;Chennai;20:10;1 Stop;12h 20m;8:30;3 195
+1941;Air India;10/7/22;Mumbai;Chennai;21:15;1 Stop;10h 45m;8:00;3 318
+1942;Air India;10/7/22;Mumbai;Chennai;19:25;1 Stop;12h 35m;8:00;3 318
+1943;Air India;10/7/22;Mumbai;Chennai;5:45;1 Stop;26h 15m;8:00;3 318
+1944;Air India;10/7/22;Mumbai;Chennai;5:45;1 Stop;16h 50m;22:35;3 623
+1945;Air India;10/7/22;Mumbai;Chennai;21:15;1 Stop;25h 20m;22:35;3 623
+1946;SpiceJet;10/7/22;Mumbai;Chennai;21:35;1 Stop;11h 35m;9:10;3 702
+1947;SpiceJet;10/7/22;Mumbai;Chennai;20:25;1 Stop;12h 45m;9:10;3 702
+1948;SpiceJet;10/7/22;Mumbai;Chennai;21:35;1 Stop;24h 05m;21:40;3 702
+1949;SpiceJet;10/7/22;Mumbai;Chennai;20:25;1 Stop;25h 15m;21:40;3 702
+1950;IndiGo;10/7/22;Mumbai;Chennai;16:00;1 Stop;8h 25m;0:25;3 783
+1951;IndiGo;10/7/22;Mumbai;Chennai;10:50;1 Stop;4h 20m;15:10;3 825
+1952;IndiGo;10/7/22;Mumbai;Chennai;16:00;1 Stop;4h 20m;20:20;3 825
+1953;IndiGo;10/7/22;Mumbai;Chennai;12:45;1 Stop;4h 45m;17:30;3 825
+1954;IndiGo;10/7/22;Mumbai;Chennai;16:00;1 Stop;6h 05m;22:05;3 825
+1955;IndiGo;10/7/22;Mumbai;Chennai;12:45;1 Stop;6h 10m;18:55;3 825
+1956;IndiGo;10/7/22;Mumbai;Chennai;10:50;1 Stop;6h 40m;17:30;3 825
+1957;IndiGo;10/7/22;Mumbai;Chennai;12:45;1 Stop;7h 35m;20:20;3 825
+1958;IndiGo;10/7/22;Mumbai;Chennai;10:50;1 Stop;8h 05m;18:55;3 825
+1959;IndiGo;10/7/22;Mumbai;Chennai;12:45;1 Stop;9h 20m;22:05;3 825
+1960;IndiGo;10/7/22;Mumbai;Chennai;10:50;1 Stop;9h 30m;20:20;3 825
+1961;Air India;10/7/22;Mumbai;Chennai;16:00;1 Stop;7h 35m;23:35;4 417
+1962;Air India;10/7/22;Mumbai;Chennai;15:25;2 Stop;8h 10m;23:35;4 417
+1963;Air India;10/7/22;Mumbai;Chennai;10:00;1 Stop;13h 35m;23:35;4 417
+1964;Air India;10/7/22;Mumbai;Chennai;19:00;1 Stop;13h 55m;8:55;4 417
+1965;Air India;10/7/22;Mumbai;Chennai;18:00;1 Stop;14h 55m;8:55;4 417
+1966;Air India;10/7/22;Mumbai;Chennai;8:00;1 Stop;15h 35m;23:35;4 417
+1967;Air India;10/7/22;Mumbai;Chennai;7:05;2 Stop;16h 30m;23:35;4 417
+1968;Air India;10/7/22;Mumbai;Chennai;16:00;1 Stop;16h 55m;8:55;4 417
+1969;Air India;10/7/22;Mumbai;Chennai;15:25;2 Stop;17h 30m;8:55;4 417
+1970;Air India;10/7/22;Mumbai;Chennai;19:00;1 Stop;17h 40m;12:40;4 417
+1971;Air India;10/7/22;Mumbai;Chennai;18:00;1 Stop;18h 40m;12:40;4 417
+1972;Air India;10/7/22;Mumbai;Chennai;16:00;1 Stop;20h 40m;12:40;4 417
+1973;Air India;10/7/22;Mumbai;Chennai;8:00;1 Stop;24h 55m;8:55;4 417
+1974;Air India;10/7/22;Mumbai;Chennai;7:05;2 Stop;25h 50m;8:55;4 417
+1975;Go First;10/7/22;Mumbai;Chennai;5:00;1 Stop;5h 40m;10:40;4 707
+1976;Air India;10/7/22;Mumbai;Chennai;7:55;2 Stop;9h 10m;17:05;4 877
+1977;Air India;10/7/22;Mumbai;Chennai;6:10;1 Stop;10h 55m;17:05;4 877
+1978;Air India;10/7/22;Mumbai;Chennai;20:30;1 Stop;20h 35m;17:05;4 877
+1979;Go First;10/7/22;Mumbai;Chennai;19:20;1 Stop;5h 40m;1:00;5 044
+1980;IndiGo;10/7/22;Mumbai;Chennai;11:30;1 Stop;10h 40m;22:10;5 072
+1981;Air India;10/7/22;Mumbai;Chennai;17:45;2 Stop;15h 10m;8:55;5 618
+1982;Air India;10/7/22;Mumbai;Chennai;17:45;2 Stop;18h 55m;12:40;5 618
+1983;Air India;10/7/22;Mumbai;Chennai;17:45;2 Stop;29h 50m;23:35;5 618
+1984;Air India;10/7/22;Mumbai;Chennai;17:10;1 Stop;25h 45m;18:55;5 631
+1985;Air India;10/7/22;Mumbai;Chennai;7:55;3 Stop;38h 40m;22:35;5 859
+1986;Air India;10/7/22;Mumbai;Chennai;6:10;2 Stop;40h 25m;22:35;5 859
+1987;Vistara;10/7/22;Mumbai;Chennai;6:45;Non Stop;2h 05m;8:50;5 943
+1988;Vistara;10/7/22;Mumbai;Chennai;9:45;Non Stop;2h 05m;11:50;5 943
+1989;Vistara;10/7/22;Mumbai;Chennai;17:50;Non Stop;2h 05m;19:55;5 943
+1990;Vistara;10/7/22;Mumbai;Chennai;21:00;Non Stop;2h 05m;23:05;5 943
+1991;Air India;10/7/22;Mumbai;Chennai;14:20;2 Stop;33h 15m;23:35;6 048
+1992;Air Asia;10/7/22;Mumbai;Chennai;7:55;1 Stop;14h 55m;22:50;6 085
+1993;Air India;10/7/22;Mumbai;Chennai;16:25;2 Stop;31h 10m;23:35;7 187
+1994;Air Asia;10/7/22;Mumbai;Chennai;8:20;1 Stop;6h 45m;15:05;7 260
+1995;Air India;10/7/22;Mumbai;Chennai;9:50;2 Stop;23h 05m;8:55;7 793
+1996;Air India;10/7/22;Mumbai;Chennai;9:50;2 Stop;26h 50m;12:40;7 793
+1997;Air India;10/7/22;Mumbai;Chennai;7:55;2 Stop;15h 40m;23:35;7 868
+1998;Air India;10/7/22;Mumbai;Chennai;7:55;2 Stop;25h 00m;8:55;7 868
+1999;Air India;10/7/22;Mumbai;Chennai;7:55;2 Stop;25h 00m;8:55;7 868
+2000;Air India;10/7/22;Mumbai;Chennai;7:55;2 Stop;28h 45m;12:40;7 868
+2001;Vistara;10/7/22;Mumbai;Chennai;22:45;1 Stop;11h 10m;9:55;11 129
+2002;Vistara;10/7/22;Mumbai;Chennai;21:55;1 Stop;12h 00m;9:55;11 129
+2003;Vistara;10/7/22;Mumbai;Chennai;20:55;1 Stop;13h 00m;9:55;11 129
+2004;Vistara;10/7/22;Mumbai;Chennai;19:45;1 Stop;14h 10m;9:55;11 129
+2005;Vistara;10/7/22;Mumbai;Chennai;18:30;1 Stop;15h 25m;9:55;11 129
+2006;Vistara;10/7/22;Mumbai;Chennai;17:35;1 Stop;16h 20m;9:55;11 129
+2007;Vistara;10/7/22;Mumbai;Chennai;15:45;1 Stop;18h 10m;9:55;11 129
+2008;Vistara;10/7/22;Mumbai;Chennai;14:40;1 Stop;19h 15m;9:55;11 129
+2009;Vistara;10/7/22;Mumbai;Chennai;15:45;1 Stop;7h 00m;22:45;11 307
+2010;Vistara;10/7/22;Mumbai;Chennai;14:40;1 Stop;8h 05m;22:45;11 307
+2011;Vistara;10/7/22;Mumbai;Chennai;11:55;1 Stop;8h 20m;20:15;11 307
+2012;Vistara;10/7/22;Mumbai;Chennai;11:55;1 Stop;10h 50m;22:45;11 307
+2013;Vistara;10/7/22;Mumbai;Chennai;8:45;1 Stop;11h 30m;20:15;11 307
+2014;Vistara;10/7/22;Mumbai;Chennai;6:30;1 Stop;13h 45m;20:15;11 307
+2015;Vistara;10/7/22;Mumbai;Chennai;8:45;1 Stop;14h 00m;22:45;11 307
+2016;Vistara;10/7/22;Mumbai;Chennai;6:30;1 Stop;16h 15m;22:45;11 307
+2017;Vistara;10/7/22;Mumbai;Chennai;20:55;1 Stop;23h 20m;20:15;11 307
+2018;Vistara;10/7/22;Mumbai;Chennai;12:15;2 Stop;10h 30m;22:45;14 867
+2019;Vistara;10/7/22;Mumbai;Chennai;6:20;2 Stop;13h 55m;20:15;15 192
+2020;Vistara;10/7/22;Mumbai;Chennai;11:25;2 Stop;11h 20m;22:45;16 442
+2021;Vistara;10/7/22;Mumbai;Chennai;6:45;2 Stop;13h 30m;20:15;16 442
+2022;Vistara;10/7/22;Mumbai;Chennai;9:05;2 Stop;11h 10m;20:15;17 282
+2023;Vistara;10/7/22;Mumbai;Chennai;7:00;2 Stop;13h 15m;20:15;17 282
