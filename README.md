@@ -4,12 +4,21 @@
 
 **Checklist**
 
+> Cleaning and Processing of Data
+
 -   [x] Import libraries
 -   [x] Load dataset
 -   [x] Check for missing values
-
-> Clean data appropiately
-
--   [x] Rename columns
 -   [x] Drop unnecessary columns
+-   [x] Rename columns
+-   [x] Reorder columns
 -   [ ] Change data types
+    -   [x] Change `flight_date` to "datetime" in yyyy-mm-dd format
+    -   [ ] Change `flight_dep` and `flight_arr` to "datetime" in HH:MM format
+    -   [x] Change `total_stops` to "int" from categorical values
+    -   [ ] Change `flight_time` to "datetime" in HH:MM format
+    -   [ ] Change `flight_fare` to "int"
+
+> Exploratory Data Analysis
+
+> Price Prediction using Machine Learning
