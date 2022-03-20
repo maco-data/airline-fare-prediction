@@ -9,18 +9,24 @@
 -   [x] Import libraries
 -   [x] Load dataset
 -   [x] Check for missing values
--   [x] Drop unnecessary columns
--   [x] Rename columns
--   [x] Reorder columns
+-   [x] Drop unnecessary features
+-   [x] Rename features
+-   [x] Reorder featuress
 -   [x] Change data types
     -   [x] Change `flight_date` to "datetime" in yyyy-mm-dd format
     -   [x] Change `flight_dep` and `flight_arr` to "datetime" in HH:MM format
     -   [x] Change `total_stops` to "int" from categorical values
     -   [x] Change `flight_time` to "datetime" in HH:MM format
     -   [x] Change `flight_fare` to "int"
--   [x] Fix reapeated values in some columns
-    -   [x] Fix Column `airline_name`, i.e,: has "Air Asia" and "AirAsia"
-    -   [x] Fix Column `flight_dep` and `flight_arr`, i.e,: has "Mumbai" and "BOM"
+-   [x] Fix reapeated values in some features
+
+    -   [x] Fix feature `airline_name`, i.e,: "Air Asia" to "AirAsia"
+    -   [x] Fix features `flight_dep` and `flight_arr`, i.e,: "BOM" to "Mumbai"
+
+-   [ ] Encode features from categorical to numerical
+    -   [ ] `airline_name`
+    -   [ ] `flight_dep`
+    -   [ ] `flight_arr`
 
 > Exploratory Data Analysis
 
