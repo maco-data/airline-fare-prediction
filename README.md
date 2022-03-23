@@ -26,7 +26,7 @@
 -   [ ] Encode features for data Analysis
     -   [x] Extract months and days from `flight_date`
     -   [x] Extract hours and mins from `dep_time` and `arr_time`
-    -   [ ] Extract hours and mins from `flight_time`
+    -   [x] Extract hours and mins from `flight_time`
     -   [ ] Convert `airline_name`to numerical data
     -   [ ] Connvert `flight_dep` to numerical data
     -   [ ] Convert `flight_arr`to numerical data
