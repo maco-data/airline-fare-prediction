@@ -27,10 +27,20 @@
     -   [x] Extract months and days from `flight_date`
     -   [x] Extract hours and mins from `dep_time` and `arr_time`
     -   [x] Extract hours and mins from `flight_time`
-    -   [ ] Convert `airline_name`to numerical data
-    -   [ ] Connvert `flight_dep` to numerical data
-    -   [ ] Convert `flight_arr`to numerical data
+    -   [x] Convert `airline_name`to numerical data
+    -   [x] Connvert `flight_dep` to numerical data
+    -   [x] Convert `flight_arr`to numerical data
 
 > Exploratory Data Analysis
+
+-   [ ] Considering simplifying features name i.e.: `flight_fare` to `price`, etc.
+
+    -   [ ] Change flight_fare to price
+    -   [ ] Change flight_time to duration
+    -   [ ] Change airline_name to airline
+    -   [ ] Change flight_dep to dep
+    -   [ ] Change flight_arr to arr
+
+-   [ ] Create test data
 
 > Price Prediction using Machine Learning
