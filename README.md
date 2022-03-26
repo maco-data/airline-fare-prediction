@@ -42,5 +42,7 @@
     -   [ ] Change flight_arr to arr
 
 -   [ ] Create test data
+    -   [x] Split data
+    -   [ ] Feauture selection for prediction
 
 > Price Prediction using Machine Learning
