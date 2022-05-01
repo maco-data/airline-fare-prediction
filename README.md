@@ -41,8 +41,8 @@
     -   [ ] Change flight_dep to dep
     -   [ ] Change flight_arr to arr
 
--   [ ] Create test data
+-   [x] Create test data
     -   [x] Split data
-    -   [ ] Feauture selection for prediction
+    -   [x] Feauture selection for prediction
 
 > Price Prediction using Machine Learning
