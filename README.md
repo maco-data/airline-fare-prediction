@@ -42,7 +42,12 @@
     -   [ ] Change flight_arr to arr
 
 -   [x] Create test data
+
     -   [x] Split data
     -   [x] Feauture selection for prediction
+
+-   [ ] Hypertune Model
+    -   [ ] Using Random Search Cross-Validation
+    -   [ ] Using Grid Search Cross-Validaton
 
 > Price Prediction using Machine Learning
